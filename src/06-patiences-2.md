@@ -168,7 +168,7 @@ On gagne quand la pyramide est vide. Certaines versions exigent aussi d'avoir é
 
 Une patience courte, idéale pour une pause ou pour faire réviser les additions aux enfants. Elle lasse vite les joueurs qui veulent de la réflexion : le hasard décide de la plupart des parties.
 
-## Golf
+## Golf (patience)
 
 *Autres noms : Golf Solitaire*
 
@@ -258,7 +258,7 @@ Une petite patience nerveuse et très plaisante, pour quelques minutes de jeu. L
 
 ### En bref
 
-Un [[Golf]] en trois montagnes : trois pyramides côte à côte, dont les cartes du haut sont cachées. On les fait tomber en posant sur la défausse des cartes d'une valeur juste au-dessus ou au-dessous. Rapide, coloré, addictif.
+Un [[Golf (patience)|Golf]] en trois montagnes : trois pyramides côte à côte, dont les cartes du haut sont cachées. On les fait tomber en posant sur la défausse des cartes d'une valeur juste au-dessus ou au-dessous. Rapide, coloré, addictif.
 
 ### Histoire et origine
 

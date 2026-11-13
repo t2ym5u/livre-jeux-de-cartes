@@ -1,4 +1,4 @@
-# Patiences et réussites : jouer seul
+# 6. Patiences et réussites : jouer seul
 
 Une patience, c'est un jeu de cartes que l'on mène seul contre le paquet. Le joueur dispose les cartes selon un plan fixe, puis tente, en les déplaçant selon quelques règles simples, de les ranger toutes dans un ordre convenu : le plus souvent par couleur, de l'as au roi. Le français hésite entre deux mots. « Patience » insiste sur la vertu qu'il faut pour aller au bout ; « réussite » dit ce que l'on espère, et rappelle qu'au XIXe siècle on tirait volontiers la réussite pour savoir si un vœu serait exaucé. Les Anglais disent *patience*, les Américains *solitaire*. On ignore où et quand le genre est né exactement : les premières descriptions imprimées apparaissent en Europe du Nord à la fin du XVIIIe siècle, et les recueils se multiplient au XIXe, en France comme en Angleterre, où Lady Adelaide Cadogan publie vers 1870 un petit livre qui fait date.
 

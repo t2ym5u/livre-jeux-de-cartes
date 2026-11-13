@@ -332,6 +332,87 @@ Traditionnellement on joue pour une mise par manche ; on peut aussi compter une 
 
 Un jeu historique passionnant et une curiosité pour les amateurs de ramis : on comprend en y jouant d'où viennent les règles modernes. Moins convivial qu'un rami de famille, mais un très bon duel.
 
+## Tonk
+
+*Autres noms : Tunk*
+
+- **Famille :** rami (rami à « knock »)
+- **Joueurs :** 2 à 4 (idéal : 3 ou 4)
+- **Matériel :** 1 jeu de 52 cartes ; jetons pour les mises
+- **Durée d'une partie :** 2 à 4 min par donne ; on joue autant qu'on veut
+- **Âge conseillé :** dès 10 ans
+- **Diffusion :** Répandu aux États-Unis (surtout dans le Sud et dans la communauté afro-américaine) ; niche ailleurs
+- **Hasard / réflexion :** 60 % hasard, 40 % réflexion
+- **Fun :** 4/5 — donnes très rapides, coups de bluff au moment de « tomber »
+- **Challenge :** 2/5 — décisions simples, mais le moment de tomber se travaille
+
+### En bref
+Un rami express à 5 cartes, joué pour des jetons. On pose des combinaisons, on se débarrasse de ses cartes, et à tout moment on peut « tomber » (*drop*) en pariant que sa main est la plus faible de la table. Une donne dure quelques minutes ; le jeu tient du rami par ses combinaisons et du poker par son audace.
+
+### Histoire et origine
+Le Tonk est un jeu américain de la première moitié du XXe siècle. Dans les années 1930, il était très populaire parmi les musiciens de blues et de jazz du sud de la Louisiane ; l'orchestre de Duke Ellington y jouait entre deux sets, dans l'arrière-salle des clubs. Il est passé ensuite dans les casernes et les pauses de chantier. Ses règles combinent le rami à « knock » (où l'on peut arrêter la donne) et le [[Conquian]] mexicain. C'est un jeu de jetons et de mises, rarement joué avec un bloc de scores.
+
+### But du jeu
+Gagner la mise de chaque donne : soit en se débarrassant de toutes ses cartes, soit en ayant le plus faible total de points quand on « tombe » ou quand la pioche s'épuise.
+
+### Mise en place
+
+| Carte | Points |
+| --- | --- |
+| As | 1 |
+| 2 à 10 | valeur faciale |
+| Valet, dame, roi | 10 |
+
+Avant chaque donne, on fixe la **mise de base** (par exemple 1 jeton). Chaque joueur reçoit **5 cartes**. La carte suivante est retournée pour commencer la défausse ; le reste forme la pioche.
+
+**Main de 49 ou 50 :** si un joueur reçoit une main totalisant exactement 49 ou 50 points, il l'annonce immédiatement et gagne : chaque autre joueur lui paie **le double** de la mise. Si deux joueurs ont une telle main, la donne est nulle.
+
+### Déroulement
+À son tour, un joueur peut d'abord **tomber** (voir plus bas). Sinon :
+
+1. Il prend la carte du dessus de la pioche ou de la défausse.
+2. Il peut **poser** des combinaisons : un **brelan ou carré** (3 ou 4 cartes de même rang), ou une **suite** de 3 cartes ou plus dans la même couleur (l'as est bas : A-2-3, pas D-R-A).
+3. Il peut **ajouter** (*hit*) des cartes aux combinaisons déjà posées, les siennes comme celles des autres.
+4. Il termine en **défaussant** une carte.
+
+**Fins possibles :**
+
+- **Tonk :** un joueur pose toutes ses cartes en combinaisons et ajouts, sans avoir besoin de défausser. Chaque autre joueur lui paie **le double** de la mise.
+- **Sortie simple :** il se débarrasse de sa dernière carte en défaussant. Chacun lui paie la mise.
+- **Tomber (drop) :** au début de son tour, avant de piocher, un joueur étale sa main en annonçant qu'il a le plus petit total. Tout le monde montre sa main. S'il a bien le plus faible total, chacun lui paie la mise. S'il est **pris** (un autre a un total égal ou plus faible), il paie **le double** à chaque joueur égal ou meilleur, et le joueur le plus faible encaisse en plus la mise des autres.
+- **Pioche épuisée :** le plus petit total gagne la mise de chacun.
+
+### Conseils de stratégie
+- **Débarrassez-vous vite des figures** : une main faible en points vous protège quand un adversaire tombe, et vous donne l'option de tomber vous-même.
+- **Posez avec discernement.** Poser une combinaison réduit votre total, mais donne aux autres des cibles pour leurs ajouts.
+- **Tombez tôt avec une petite main.** Un total de 5 ou 6 points au deuxième tour gagne presque toujours ; au-delà de 10, le risque grandit vite.
+- **Lisez la défausse** : un joueur qui ramasse des petites cartes prépare souvent un drop.
+- **Gardez les cartes qui vous permettent un tonk** quand vous êtes à deux cartes d'une sortie complète : le double vaut le risque.
+
+### Variantes
+**Attente après un ajout.** Dans beaucoup de tables, un joueur dont une combinaison vient de recevoir un ajout d'un adversaire ne peut pas tomber à son tour suivant (ou pendant deux tours).
+
+**Pas de carte retournée.** On commence sans défausse visible.
+
+**Mains de départ basses.** Certaines tables paient aussi une main de départ de 13 points ou moins (double) ou de 9 ou moins (triple).
+
+**Sept cartes, jokers, jeu de 40 cartes.** Autant de formes locales ; l'esprit reste le même.
+
+**« The Big One ».** Les dernières donnes de la soirée se jouent à mise doublée.
+
+### Aide-mémoire
+
+- **Cartes :** 52 cartes ; as 1, 2 à 10 valeur faciale, figures 10.
+- **Donne :** 5 cartes chacun, une carte retournée en défausse.
+- **Main de 49 ou 50 :** victoire immédiate, mise doublée.
+- **Tour :** tomber (au lieu de jouer) ou piocher, poser, ajouter, défausser.
+- **Combinaisons :** 3 ou 4 de même rang ; suite de 3 et plus dans une couleur, as bas.
+- **Paiements :** tonk (sans défausse) x 2 ; sortie simple x 1 ; drop réussi x 1 ; drop pris : x 2 à chaque joueur égal ou meilleur.
+- **Pioche épuisée :** le plus petit total gagne.
+
+### Verdict
+Le Tonk est un jeu de comptoir, nerveux et convivial, parfait pour une table de trois ou quatre avec des jetons et sans prise de tête. Il ne remplace ni le [[Gin Rummy]] ni le [[Rami]] pour qui cherche de la profondeur, mais sa vitesse et ses coups de poker en font un excellent jeu d'apéritif.
+
 ## Carioca
 
 - **Famille :** rami (à contrats)

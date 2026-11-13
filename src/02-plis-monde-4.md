@@ -484,3 +484,100 @@ Ordre de force : As, 3, Roi, Cavalier, Valet, 7, 6, 5, 4, 2. Total : 120 points,
 ### Verdict
 
 Un jeu populaire, bavard, où les cantes et la menace d'un Tute donnent du relief à chaque donne. L'enchaînement des deux phases rappelle le [[Bézigue|Bésigue]] ou le Mariage allemand. Très plaisant pour découvrir la culture des cartes espagnoles, il laisse un peu plus de place à la chance que les jeux à enchères.
+
+## Hombre
+
+*Autres noms : L'Hombre, Ombre, Jeu de l'Hombre ; Tresillo (Espagne), Rocambor (Pérou, Bolivie), Lomber (Danemark)*
+
+- **Famille :** jeu de plis à enchères (jeu historique)
+- **Joueurs :** 3 (à 4, le donneur ne joue pas la donne)
+- **Matériel :** 40 cartes (jeu de 52 sans les 8, 9 et 10) ; jetons
+- **Durée d'une partie :** 5 min par donne ; on joue un nombre de tours convenu (1 h environ)
+- **Âge conseillé :** dès 14 ans
+- **Diffusion :** Niche (encore organisé en club au Danemark ; formes cousines en Espagne et en Amérique du Sud)
+- **Hasard / réflexion :** 35 % hasard, 65 % réflexion
+- **Fun :** 3/5 — beaucoup de saveur et de mots étranges, mais il faut entrer dans sa logique
+- **Challenge :** 4/5 — enchères, échange et jeu à un contre deux demandent un vrai jugement
+
+### En bref
+Trois joueurs, quarante cartes, et un ordre des atouts qui défie la logique ordinaire : l'as de pique est toujours le plus fort atout, l'as de trèfle toujours le troisième, et entre eux se glisse la carte la plus faible de la couleur d'atout. Celui qui remporte les enchères, « l'Hombre » (l'homme), joue seul contre les deux autres et doit faire plus de plis que chacun d'eux. C'est le grand-père de presque tous les jeux à enchères européens.
+
+### Histoire et origine
+L'Hombre naît en Espagne, au début du XVIIe siècle au plus tard, comme version à trois d'un jeu à quatre plus ancien. Il franchit les Pyrénées sous Louis XIV et devient pendant plus d'un siècle **le** jeu des salons européens : on le joue à Versailles, à Londres (Alexander Pope en décrit une partie entière dans *La Boucle de cheveux enlevée*, 1714), à Vienne et à Copenhague. Son vocabulaire espagnol (spadille, manille, baste, codille, matadors) est passé dans toutes les langues. Il est l'un des premiers jeux à enchères : l'idée qu'un joueur « prenne » le contrat contre les autres a engendré le Quadrille, le [[Tarot]], le [[Skat]], le [[Boston]] et le [[Preferans]]. Détrôné à la fin du XVIIIe siècle par le Quadrille puis le [[Whist]], il survit au Danemark (où une association de joueurs l'organise encore), en Espagne sous le nom de Tresillo et en Amérique du Sud sous celui de Rocambor. Les règles ci-dessous suivent la forme danoise décrite par pagat, la mieux documentée aujourd'hui.
+
+### But du jeu
+Pour l'Hombre (le déclarant) : faire plus de plis que chacun des deux défenseurs pris séparément. Pour les défenseurs : l'en empêcher, et si possible faire plus de plis que lui.
+
+### Mise en place
+On retire les 8, 9 et 10 d'un jeu de 52 : il reste 40 cartes.
+
+**Ordre des cartes hors atout :**
+
+- couleurs noires (pique, trèfle) : roi, dame, valet, 7, 6, 5, 4, 3, 2 (les as noirs sont toujours des atouts, voir plus bas) ;
+- couleurs rouges (cœur, carreau) : roi, dame, valet, **as, 2, 3, 4, 5, 6, 7** (dans les rouges, les petites cartes sont plus fortes que les grandes).
+
+**Ordre des atouts :**
+
+- atout noir (11 cartes) : **spadille** (as de pique), **manille** (le 2 d'atout), **baste** (as de trèfle), roi, dame, valet, 7, 6, 5, 4, 3 ;
+- atout rouge (12 cartes) : **spadille** (as de pique), **manille** (le 7 d'atout), **baste** (as de trèfle), **ponte** (l'as d'atout), roi, dame, valet, 2, 3, 4, 5, 6.
+
+La manille est donc la carte qui serait la plus faible de la couleur d'atout. Spadille, manille et baste sont les trois **matadors**.
+
+**Distribution :** le donneur distribue **9 cartes** à chaque joueur, trois par trois, dans le sens inverse des aiguilles d'une montre, en commençant par le joueur à sa droite (le premier en main). Les **13 cartes** restantes forment le talon, face cachée.
+
+### Déroulement
+**Les enchères.** Le premier en main parle d'abord, puis le second, puis le donneur. Chacun peut passer (et ne reparle plus) ou annoncer un contrat plus élevé ; un joueur placé avant dans l'ordre peut « tenir » l'enchère d'un joueur placé après lui (dire « moi aussi »). Quand deux joueurs ont passé, le troisième devient l'Hombre. Si tous passent, on redonne. Contrats, du plus faible au plus fort :
+
+1. **Jeu simple** : l'Hombre nomme l'atout et échange avec le talon (valeur 1).
+2. **Jeu de pique** : pareil, pique atout (1).
+3. **Tourné** : la première carte du talon est retournée et fixe l'atout (1).
+4. **Nolo simple** : sans atout, l'Hombre ne doit faire aucun pli ; il est seul à échanger (2).
+5. **Grand tourné** : comme le tourné, mais l'Hombre doit tenir spadille et baste (2).
+6. **Solo** (« sans prendre ») : l'Hombre nomme l'atout et joue sans échanger ; seuls les défenseurs échangent (2).
+7. **Nolo pur** (sans échange) ou **solo de pique** (3).
+8. **Nolo ouvert** : nolo pur, main de l'Hombre étalée après la première carte (5).
+
+**L'échange.** L'Hombre écarte face cachée autant de cartes qu'il veut et en reprend autant sur le talon. Puis, dans les contrats à atout, chaque défenseur en fait autant avec ce qui reste. Les cartes non prises « dorment » face cachée.
+
+**Le jeu de la carte.** Le premier en main entame le premier pli, quel que soit l'Hombre. On joue dans le sens inverse des aiguilles d'une montre. Il faut **fournir** la couleur demandée ; sans elle, on joue ce qu'on veut (couper n'est pas obligatoire). La plus forte carte de la couleur entamée gagne, sauf si un atout est joué. Le gagnant entame le pli suivant.
+
+**Le privilège des matadors.** Quand on entame atout, un joueur n'est pas obligé de fournir un matador s'il n'a pas d'autre atout : il peut jouer autre chose. Exception : si l'entame est un matador plus fort que le sien, il doit le fournir. Spadille, la plus haute, ne peut jamais être forcée.
+
+### Décompte des points
+Sur 9 plis :
+
+- **Gagné** : l'Hombre fait plus de plis que chacun des défenseurs (5 plis, ou 4 contre 3 et 2). Chaque défenseur lui paie la valeur du contrat.
+- **Remise** (bête) : l'Hombre égale le défenseur le plus fort (4-4-1 ou 3-3-3). Il paie la valeur du contrat à chacun.
+- **Codille** : un défenseur fait plus de plis que l'Hombre. L'Hombre paie la remise plus un supplément (1 pour les petits contrats, 2 pour le nolo pur et le solo de pique, 3 pour le nolo ouvert).
+- **Vole** (tout) : l'Hombre qui annonce avant le sixième pli qu'il fera les 9 plis et y parvient reçoit 1 jeton de plus de chacun ; s'il échoue, il paie 1 jeton à chacun, mais garde le gain du contrat.
+
+Au nolo, l'Hombre gagne sans aucun pli ; un pli fait une remise, deux plis une codille.
+
+Dans les règles anciennes, une partie des paiements passait par un pot (la « poule ») alimenté à chaque donne ; on peut le reprendre si l'on aime le parfum d'époque.
+
+### Conseils de stratégie
+- **Ne prenez pas sans deux matadors**, ou au moins un matador et une longue couleur d'atout. Spadille et baste valent chacune un pli presque sûr.
+- **Écartez franchement.** L'échange avec 13 cartes de talon est généreux : jetez vos couleurs courtes pour pouvoir couper.
+- **Retenez l'ordre inversé des rouges** : le 2 de cœur bat le 7 de cœur hors atout. C'est la première erreur des débutants.
+- **En défense, coopérez sans parler** : celui qui a le plus de plis possibles joue fort, l'autre l'alimente. Un défenseur ne doit pas « voler » la codille à son partenaire au risque de laisser gagner l'Hombre.
+- **Utilisez le privilège des matadors** pour garder votre spadille hors de portée d'une entame atout adverse.
+
+### Variantes
+**Quadrille.** L'Hombre à quatre, en vogue en France au XVIIIe siècle : l'Hombre appelle un roi pour désigner son partenaire secret, idée reprise plus tard par le [[Tarot]] à cinq.
+
+**Tresillo et Rocambor.** Formes espagnole et sud-américaine, avec des contrats et des paiements différents ; le Rocambor se joue aussi à cinq.
+
+**Grand.** Contrat sans atout ajouté par certaines tables danoises, de valeur négociée à l'avance.
+
+### Aide-mémoire
+
+- **Cartes :** 40 (sans 8, 9, 10) ; noires hors atout R D V 7…2 ; rouges hors atout R D V A 2…7.
+- **Atouts :** spadille (A pique), manille (2 noir ou 7 rouge d'atout), baste (A trèfle), ponte (A rouge d'atout), puis R D V… ; 11 atouts en noir, 12 en rouge.
+- **Donne :** 9 cartes chacun par 3, talon de 13.
+- **Contrats :** jeu simple 1, pique 1, tourné 1, nolo simple 2, grand tourné 2, solo 2, nolo pur et solo de pique 3, nolo ouvert 5.
+- **Obligations :** fournir ; couper libre ; matadors non forcés par un atout plus faible.
+- **Résultat :** plus de plis que chaque défenseur = gagné ; égalité = remise (paie la valeur) ; défenseur devant = codille (remise + 1, 2 ou 3).
+- **Vole :** annoncée avant le 6e pli, +1 de chacun ; ratée, -1 à chacun.
+
+### Verdict
+L'Hombre est un voyage dans le temps : jouer à la table de Madame de Sévigné, avec des mots qui sonnent comme un roman de cape et d'épée. Pour trois joueurs curieux et patients, c'est un jeu fin et équilibré, dont on comprend vite pourquoi il a régné deux siècles. Ceux qui n'aiment pas apprendre un ordre de cartes contre-intuitif lui préféreront son petit-fils le [[Preferans]], plus régulier.

@@ -1,4 +1,4 @@
-# Les jeux de cartes modernes à paquet dédié
+# 8. Les jeux de cartes modernes à paquet dédié
 
 Pendant des siècles, jouer aux cartes voulait dire sortir le jeu de 32 ou de 52 cartes et choisir une règle parmi des centaines. Depuis la seconde moitié du XXe siècle, une autre famille a pris une place énorme sur les tables : les jeux édités, vendus dans une boîte avec un paquet conçu pour eux seuls. Uno en 1971, puis la vague allemande des années 1990 (6 qui prend !, Les Cités perdues), puis l'explosion des années 2000 et 2010, portée par les boutiques spécialisées, les festivals et le financement participatif. Leurs cartes ne portent plus seulement une couleur et une valeur : elles portent un pouvoir, un dessin, un mot, une ressource. Chaque boîte invente sa propre mécanique, et le livret de règles remplace la tradition orale.
 

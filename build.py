@@ -112,6 +112,19 @@ def index_md(games):
     return "\n".join(out) + "\n"
 
 
+def memo_link(m):
+    """Give the fiche's aide-mémoire an id and link to it just below the fiche's fields."""
+    sec = m.group(1)
+    anchor = re.search(r"\{#(jeu-[^}]+)\}", sec.split("\n", 1)[0])
+    if not anchor or not re.search(r"^### Aide-mémoire\s*$", sec, re.M):
+        return sec
+    target = "memo-" + anchor.group(1)[4:]
+    sec = re.sub(r"^### Aide-mémoire\s*$", f"### Aide-mémoire {{#{target}}}", sec, count=1, flags=re.M)
+    # first block of "- **Champ :**" lines
+    return re.sub(r"(?m)((?:^- \*\*.*\n(?:^  .*\n)*)+)",
+                  lambda b: b.group(1) + f"\n*Aller à l'[aide-mémoire](#{target}).*\n", sec, count=1)
+
+
 def stage(files):
     """Copy sources to build/, adding {#jeu-...} anchors to game headings."""
     shutil.rmtree(BUILD, ignore_errors=True)
@@ -130,6 +143,8 @@ def stage(files):
                 anchors.add(slug(m.group(1)))
                 return f"## {m.group(1)} {{#{slug(m.group(1))}}}"
             text = re.sub(r"^## (.+?)\s*$", add_id, text, flags=re.M)
+            text = re.sub(r"(?ms)^(## .+?)(?=^## |\Z)", memo_link, text)
+            anchors.update(re.findall(r"\{#(memo-[^}]+)\}", text))
         dst = os.path.join(BUILD, os.path.basename(f))
         open(dst, "w", encoding="utf-8").write(text)
         staged.append(dst)

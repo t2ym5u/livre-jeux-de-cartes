@@ -388,6 +388,81 @@ Les règles de ronda, de fin de partie et de décompte des cartones varient d'un
 
 Un jeu de pêche nerveux et original, dont l'escalier et les caídas renouvellent la formule de la Scopa. Il vaut la découverte pour les amateurs du genre, même si les règles locales demandent un peu de négociation.
 
+## Pishti
+
+*Autres noms : Pişti (turc)*
+
+- **Famille :** jeu de pêche (capture)
+- **Joueurs :** 2 à 4 (idéal : 4, en deux équipes de 2)
+- **Matériel :** 1 jeu de 52 cartes ; papier pour les scores
+- **Durée d'une partie :** 30 à 45 min (jusqu'à 151 points)
+- **Âge conseillé :** dès 7 ans
+- **Diffusion :** Très répandu en Turquie ; régional au Proche-Orient ; niche en France
+- **Hasard / réflexion :** 60 % hasard, 40 % réflexion
+- **Fun :** 4/5 — rapide, bavard, ponctué de « pişti ! » triomphants
+- **Challenge :** 2/5 — un peu de mémoire et de patience suffisent à bien jouer
+
+### En bref
+On joue une carte à la fois sur un tas central. Si elle a le même rang que la carte du dessus, on ramasse tout le tas ; un valet ramasse toujours. Capturer un tas réduit à une seule carte, c'est faire un **pişti**, qui rapporte un gros bonus. Simple comme la [[Bataille]], mais avec assez de mémoire et de calcul pour récompenser les bons joueurs.
+
+### Histoire et origine
+Le Pişti est le jeu de cartes populaire par excellence en Turquie, joué dans les cafés (*kahvehane*), en famille et sur toutes les applications mobiles du pays. Il appartient à la grande famille méditerranéenne des jeux de pêche, avec la [[Scopa]] italienne et la [[Chkobba]] tunisienne, mais sa règle de capture est plus simple : on ne fait pas d'additions, on ne prend que par paire de rangs ou avec un valet. On connaît des jeux très proches en Grèce (Xeri) et au Proche-Orient (Basra), avec des barèmes un peu différents.
+
+### But du jeu
+Ramasser des cartes qui comptent et réussir des pişti, pour être le premier camp à **151 points**.
+
+### Mise en place
+Paquet de 52 cartes, sans jokers. Les partenaires sont face à face ; le jeu tourne dans le sens inverse des aiguilles d'une montre.
+
+1. Le donneur pose **4 cartes face cachée** au centre, puis distribue **4 cartes** à chaque joueur.
+2. Il retourne la carte du dessus des 4 cartes centrales : elle commence le tas. Si c'est un valet, il en retourne une autre jusqu'à trouver une carte qui n'est pas un valet.
+3. La dernière carte du paquet de pioche est souvent montrée à tous (glissée retournée sous le paquet) : on sait ainsi qu'elle reviendra au donneur.
+
+### Déroulement
+1. Le joueur à droite du donneur commence. Chacun à son tour pose **une carte face visible** sur le tas.
+2. Si elle a le **même rang** que la carte du dessus, le joueur **ramasse tout le tas** et le pose devant lui (ou devant son équipe).
+3. Un **valet** ramasse toujours le tas, quelle que soit la carte du dessus.
+4. Sinon, la carte reste sur le tas.
+5. **Pişti :** si le tas ne contenait **qu'une seule carte** et qu'on la prend avec une carte de même rang, c'est un pişti (10 points). Prendre un valet seul avec un autre valet est un **double pişti** (20 points). Prendre une carte seule avec un valet de rang différent est une prise ordinaire.
+6. Quand tout le monde a joué ses 4 cartes, le donneur en distribue 4 nouvelles à chacun, sans rien ajouter au centre, jusqu'à épuisement du paquet (3 distributions en tout à quatre joueurs, 6 à deux).
+7. À la fin, les cartes restant sur le tas reviennent au dernier camp qui a fait une prise. Le dernier coup du donneur ne compte pas comme pişti.
+
+### Décompte des points
+- chaque **as** : 1 point ; chaque **valet** : 1 point ;
+- **2 de trèfle** : 2 points ;
+- **10 de carreau** : 3 points ;
+- **majorité des cartes** (27 ou plus) : 3 points (rien en cas d'égalité 26-26) ;
+- chaque **pişti** : 10 points (double pişti : 20).
+
+Total hors pişti : 16 points par donne. On joue en **151 points** ; si les deux camps les dépassent dans la même donne, le plus haut l'emporte.
+
+### Conseils de stratégie
+- **Gardez vos valets** pour prendre un gros tas, ou pour faire un double pişti sur un valet seul. Un valet jeté sur un tas de deux cartes est un gâchis.
+- **Comptez les cartes de chaque rang.** S'il reste trois 7 dehors et que vous jouez un 7 sur un tas vide, vous offrez un pişti. Jouez plutôt un rang dont les trois autres exemplaires sont déjà tombés : il est « mort », personne ne pourra le prendre.
+- **Quand le tas est vide**, posez une carte dont vous savez qu'on ne peut pas la prendre, ou dont vous détenez vous-même le double.
+- **Pensez à la dernière carte** du paquet, montrée au début : le donneur sait qu'il la recevra.
+- **Le dernier preneur ramasse le reste** : en fin de donne, garder un valet pour la toute fin est souvent payant.
+
+### Variantes
+**À deux ou à quatre en individuel.** Mêmes règles ; à trois aussi, chacun pour soi.
+
+**Pişti avec bluff (kapalı pişti).** Sur un tas d'une seule carte, on peut poser sa carte face cachée en annonçant un pişti. L'adversaire accepte ou conteste : si la carte correspond, le pişti vaut 20 ; si c'était du bluff, le camp qui a contesté marque 20.
+
+**Valeurs locales.** Certaines tables comptent aussi chaque 10 ou chaque figure pour 1 point, ou jouent en 101.
+
+### Aide-mémoire
+
+- **Cartes :** 52 cartes ; seul le rang compte.
+- **Donne :** 4 cartes cachées au centre (dessus retourné, jamais un valet), 4 à chaque joueur ; puis 4 de plus à chaque tour de table.
+- **Prise :** même rang que le dessus du tas, ou n'importe quel valet : on ramasse tout.
+- **Pişti :** prendre une carte seule par le même rang : 10 ; valet sur valet seul : 20.
+- **Points :** as 1, valet 1, 2 de trèfle 2, 10 de carreau 3, majorité des cartes 3.
+- **Fin de donne :** le reste du tas va au dernier preneur.
+- **Fin de partie :** 151 points.
+
+### Verdict
+Le jeu de pêche idéal pour initier des enfants ou animer une table de famille : on apprend en deux minutes, les donnes filent, et chaque pişti déclenche une petite fête. Les joueurs qui aiment calculer lui préféreront la [[Scopa]] ou le [[Cassino]], plus riches ; mais pour jouer en parlant d'autre chose, le Pişti est imbattable.
+
 ## Koi-Koi
 
 *Autres noms : Hanafuda Koi-Koi ; les cartes s'appellent Hanafuda ou Hwatu en Corée*

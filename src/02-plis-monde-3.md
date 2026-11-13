@@ -303,3 +303,104 @@ On paie selon un tarif fixé d'avance, par exemple 10 centimes pour un jeu appel
 ### Verdict
 
 Un jeu de brasserie authentique, rapide et sociable, plus intuitif que le Skat grâce à ses atouts fixes. Il exige d'apprendre la hiérarchie bavaroise et se joue traditionnellement pour de petites sommes. Une excellente porte d'entrée vers toute la famille des jeux allemands.
+
+## Schnapsen / Sechsundsechzig
+
+*Autres noms : Schnapsen (Autriche, Hongrie : Snapszer), Sechsundsechzig ou Soixante-six (Allemagne, version à 24 cartes)*
+
+- **Famille :** jeu de plis à mariages (famille du Bézigue)
+- **Joueurs :** 2
+- **Matériel :** 20 cartes (as, 10, roi, dame, valet dans chaque couleur), 24 pour le Sechsundsechzig (avec les 9) ; papier ou allumettes pour les points
+- **Durée d'une partie :** 3 à 5 min par donne ; 20 à 30 min pour un « Bummerl »
+- **Âge conseillé :** dès 10 ans
+- **Diffusion :** Très répandu en Autriche, en Hongrie, dans le sud de l'Allemagne et en Europe centrale ; niche en France
+- **Hasard / réflexion :** 35 % hasard, 65 % réflexion
+- **Fun :** 4/5 — donnes éclair, retournements et décisions tranchantes
+- **Challenge :** 5/5 — comptage exact des points, timing de la fermeture : un jeu court mais d'une profondeur étonnante
+
+### En bref
+Deux joueurs, vingt cartes, une course à 66 points. Tant que la pioche dure, on joue librement en devinant la main adverse ; dès qu'elle est épuisée, ou qu'un joueur la ferme d'autorité, tout devient strict et calculable. Le cœur du jeu est là : choisir le bon moment pour fermer et annoncer « je sors ».
+
+### Histoire et origine
+Le Sechsundsechzig est attesté en Allemagne au début du XIXe siècle ; il appartient à la grande famille des jeux à mariages (roi et dame de même couleur), avec le [[Bézigue]], le Mariage et le [[Pinochle]]. Le Schnapsen en est la forme autrichienne réduite à 20 cartes, plus rapide et plus tendue. En Autriche, il est un véritable jeu national, joué au café, dans les trains et dans les tournois ; on y joue souvent avec les cartes à enseignes allemandes (glands, feuilles, cœurs, grelots), où la dame est remplacée par l'Ober et le valet par l'Unter. Un jeu français de 52 cartes, dont on retire les cartes du 2 au 9, convient parfaitement.
+
+### But du jeu
+Être le premier à atteindre **66 points** de cartes dans une donne (cartes ramassées et mariages annoncés), et le déclarer. Gagner des donnes rapporte 1 à 3 points de partie ; on joue un **Bummerl**, manche de 7 points.
+
+### Mise en place
+
+| Carte | Points |
+| --- | --- |
+| As | 11 |
+| 10 | 10 |
+| Roi | 4 |
+| Dame | 3 |
+| Valet | 2 |
+
+L'ordre de force suit les points : as, 10, roi, dame, valet. Le paquet vaut 120 points.
+
+**Distribution :** le donneur distribue 3 cartes à chacun, retourne la carte suivante (elle fixe l'atout), puis donne 2 cartes à chacun. Chacun a donc 5 cartes. Les 9 cartes restantes forment le talon, posé face cachée en travers de l'atout retourné. Le donneur alterne à chaque donne.
+
+### Déroulement
+**Première phase : le talon est ouvert.**
+
+1. Le non-donneur entame. L'autre joue n'importe quelle carte : **pas d'obligation** de fournir ni de couper.
+2. La plus forte carte de la couleur entamée gagne, sauf si un atout a été joué.
+3. Le gagnant du pli pioche la première carte du talon, puis le perdant ; le gagnant entame le pli suivant.
+4. **Échange du valet d'atout :** le joueur qui a la main, juste avant d'entamer, peut échanger le valet d'atout de sa main contre la carte d'atout retournée, tant que le talon n'est ni fermé ni épuisé.
+5. **Mariages :** le joueur qui entame peut annoncer un mariage (roi et dame de même couleur) en montrant l'une des deux cartes et en jouant l'autre. Un mariage ordinaire vaut **20**, le mariage d'atout **40**. Les points ne comptent que si l'on a gagné (ou gagne ensuite) au moins un pli.
+
+**Fermer le talon.** Quand il a la main, avant d'entamer, un joueur peut **fermer** : il retourne l'atout face cachée sur le talon. On ne pioche plus, et l'on passe immédiatement aux règles strictes. Celui qui ferme s'engage à atteindre 66 avec les cartes en main.
+
+**Seconde phase : talon épuisé ou fermé.** Quand le gagnant d'un pli prend la dernière carte cachée, le perdant prend l'atout retourné. À partir de là (ou de la fermeture) :
+
+- il faut **fournir** la couleur demandée ;
+- il faut **monter** (battre la carte) si on le peut ;
+- sans la couleur, il faut **couper** ;
+- en Schnapsen, on peut encore annoncer des mariages pendant cette phase.
+
+**Sortir.** Un joueur qui pense avoir 66 points l'annonce (« je sors ») juste après avoir gagné un pli ou annoncé un mariage. La donne s'arrête, on compte.
+
+### Décompte des points
+Si l'annonce est juste, le sortant marque :
+
+- **1 point** si l'adversaire a 33 points ou plus ;
+- **2 points** si l'adversaire a moins de 33 points mais au moins un pli (*Schneider*) ;
+- **3 points** si l'adversaire n'a fait aucun pli (*Schwarz*).
+
+Si l'annonce est fausse (moins de 66), l'adversaire marque 2 points, ou 3 s'il n'avait encore fait aucun pli.
+
+Après une **fermeture**, le barème dépend de la situation de l'adversaire **au moment de la fermeture**. Si celui qui a fermé échoue, l'adversaire marque 2 points (3 s'il n'avait aucun pli au moment de la fermeture).
+
+Si personne ne sort et que tout le talon est joué, le gagnant du **dernier pli** marque 1 point.
+
+**Le Bummerl :** chaque joueur part de 7 et retire les points qu'il gagne ; le premier qui arrive à zéro gagne la manche, et le perdant « prend un Bummerl » (on le note d'un point noir).
+
+### Conseils de stratégie
+- **Comptez en permanence** vos points et ceux de l'adversaire. Tout le jeu repose sur la certitude d'avoir 66 ; une annonce fausse coûte cher.
+- **Ne gaspillez pas vos as et vos 10** pendant la phase libre : ce sont eux qui gagneront les plis stricts. Défaussez des valets et des dames sans mariage.
+- **Prenez les 10 adverses** avec vos as d'atout ou en coupant : un 10 qui passe vaut presque un mariage.
+- **Gardez vos mariages pour vos entames**, mais annoncez-les vite si la fin du talon approche : une dame ou un roi isolé peut vous être pris.
+- **Fermez au bon moment.** Une main forte en atouts avec 40 de mariage justifie souvent de fermer tôt, quand l'adversaire n'a encore presque rien : vous visez 2 ou 3 points.
+- **Confirmé :** déduisez la main adverse. À la fermeture, vous connaissez vos cinq cartes et toutes celles déjà jouées ; les cartes inconnues sont peu nombreuses. Les bons joueurs calculent les plis restants comme un problème d'échecs.
+
+### Variantes
+**Sechsundsechzig (66).** 24 cartes avec les 9 (valeur 0) ; on distribue 6 cartes à chacun (3 + 3) et le talon compte 11 cartes plus l'atout. C'est le 9 d'atout qui s'échange contre la carte retournée. Plus de mariage une fois le talon épuisé ou fermé. Si personne ne sort, le dernier pli vaut 10 points de plus et une égalité est possible. On compte souvent en montant de 0 à 7.
+
+**Schnapsen à trois ou à quatre (Dreierschnapsen, Bauernschnapsen).** Formes avec enchères et partenaires, très jouées dans les campagnes autrichiennes ; elles demandent une règle à part.
+
+**Schnapsen à 24 cartes.** Certains Autrichiens jouent avec les 9, mais selon les règles du Schnapsen (mariages après fermeture, pas de bonus de dernier pli).
+
+### Aide-mémoire
+
+- **Cartes :** 20 cartes ; As 11, 10 10, R 4, D 3, V 2 (120 au total) ; force dans cet ordre.
+- **Donne :** 3 cartes chacun, atout retourné, 2 cartes chacun ; talon de 9 + atout.
+- **Talon ouvert :** jeu libre ; le gagnant pioche le premier ; le valet d'atout s'échange contre l'atout retourné (avant d'entamer).
+- **Mariages :** R + D en entamant : 20, ou 40 à l'atout ; valides seulement avec un pli gagné.
+- **Talon fermé ou épuisé :** fournir, monter, couper obligatoirement.
+- **Sortir :** annoncer 66 après un pli gagné ou un mariage ; 1 point (adversaire 33 ou plus), 2 (moins de 33), 3 (aucun pli).
+- **Erreur :** annonce fausse ou fermeture ratée : 2 points à l'adversaire (3 s'il n'avait aucun pli).
+- **Fin de partie :** Bummerl de 7 points, décomptés de 7 à 0.
+
+### Verdict
+Le Schnapsen est peut-être le meilleur jeu de cartes à deux qui tienne dans vingt cartes : rapide, simple à apprendre, mais profond au point que les champions autrichiens y passent leur vie. Il séduira les amateurs de [[Belote]] et de [[Piquet]] qui cherchent un duel nerveux, et se joue aussi bien entre deux stations de métro que lors d'une longue soirée. Ceux qui n'aiment pas compter dans leur tête souffriront : on n'y triche pas avec l'arithmétique.

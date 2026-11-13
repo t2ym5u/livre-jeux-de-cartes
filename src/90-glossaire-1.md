@@ -6,6 +6,9 @@ carré) ou d'un engagement (contrat, nombre de plis).
 **Atout** : couleur (ou série de cartes spéciales, au tarot) qui l'emporte sur toutes les
 autres pour la durée d'une donne.
 
+**Banque (jeu de)** : jeu où un banquier affronte les pontes, c'est-à-dire les joueurs
+qui misent contre lui (Pharaon, Lansquenet, Baccara).
+
 **Bout** : au tarot, l'une des trois cartes maîtresses (le Petit, le 21, l'Excuse) dont le
 nombre fixe le score à atteindre.
 
@@ -17,6 +20,9 @@ de gagner le pli si l'on n'est pas coupé.
 
 **Chicane** : absence totale de cartes d'une couleur dans une main (on dit aussi « être
 chicane à cœur »).
+
+**Codille** : à l'Hombre, défaite du déclarant battu par un défenseur, qui remporte
+alors l'enjeu.
 
 **Contrat** : engagement pris lors des enchères à réaliser un certain nombre de points ou de
 plis.
@@ -49,6 +55,12 @@ carte supérieure soit placée devant elle (bridge, tarot, belote).
 
 **Main** : 1) les cartes que tient un joueur ; 2) le joueur qui joue en premier (« avoir la
 main », « être en main »).
+
+**Mariage** : réunion du Roi et de la Dame d'une même couleur, qui rapporte des points
+(Bézigue, Schnapsen, Pinochle).
+
+**Matadors** : atouts majeurs qui jouissent de privilèges particuliers (Hombre, Skat,
+Aluette).
 
 **Mort** : au bridge, la main du partenaire du déclarant, étalée face visible et jouée par le
 déclarant.

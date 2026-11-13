@@ -45,8 +45,8 @@ soirée, pas à classer les jeux dans l'absolu. Un jeu à 2/5 de challenge peut 
 choix possible pour un repas de famille avec trois générations autour de la table.
 
 Viennent ensuite, pour chaque jeu : *En bref*, *Histoire et origine*, *But du jeu*, *Mise en
-place*, *Déroulement*, *Décompte des points*, *Conseils de stratégie*, *Variantes* et
-*Verdict*.
+place*, *Déroulement*, *Décompte des points*, *Conseils de stratégie*, *Variantes*,
+*Aide-mémoire* et *Verdict*. Sous les repères, un lien mène directement à l'aide-mémoire.
 
 ## Comment le livre est organisé
 
@@ -63,8 +63,9 @@ qui aide le plus à choisir et à apprendre :
 6. **Patiences et réussites** : jouer seul.
 7. **Jeux de famille, d'enfants, de bluff et de rapidité.**
 8. **Les jeux de cartes modernes à paquet dédié** : les grands succès des éditeurs.
-9. **Compléments** : des jeux importants qui prolongent ces familles, du Tracteur chinois aux
-   ancêtres historiques du whist et du barbu.
+
+Les jeux historiques (Hombre, Reversis, Boston, Lansquenet) sont rangés dans la famille
+qu'ils ont fait naître, à côté de leurs descendants.
 
 Avant ces chapitres, après la présentation du matériel, le guide **Quel jeu choisir ?**
 propose des sélections par situation. Chaque fiche se termine par un **aide-mémoire** à
@@ -334,9 +335,10 @@ billets de banque. Pour le reste, ce livre vous donnera envie d'en racheter un.
 - **Hanabi** : [The Crew](#jeu-the-crew), qui transpose la coopération silencieuse aux jeux de plis.
 - **Le Mille Bornes** : [6 qui prend !](#jeu-6-qui-prend), [Saboteur](#jeu-saboteur), [Sushi Go!](#jeu-sushi-go).
 
-# Les jeux de plis de tradition française
+# 1. Les jeux de plis de tradition française
 
-Un jeu de plis repose sur un geste très simple : chacun pose une carte à son tour, la plus forte remporte le paquet, que l'on appelle une levée ou un pli, et son vainqueur entame le tour suivant. Sur ce squelette commun, la France a bâti au fil des siècles une famille d'une richesse étonnante. On y trouve les jeux de café où l'on s'interpelle d'une table à l'autre (Belote, Coinche, Manille), le Tarot et ses 78 cartes, les jeux d'écarté et de piquet hérités des salons du XVIIe siècle, des curiosités régionales comme l'Aluette des marins bretons et vendéens, et quelques jeux venus d'outre-Manche que l'on a adoptés au point de leur donner un nom français (Dame de pique, Rikiki, Whist).
+Un jeu de plis repose sur un geste très simple : chacun pose une carte à son tour, la plus forte remporte le paquet, que l'on appelle une levée ou un pli, et son vainqueur entame le tour suivant. Sur ce squelette commun, la France a bâti au fil des siècles une famille d'une richesse étonnante. On y trouve les jeux de café où l'on s'interpelle d'une table à l'autre (Belote, Coinche, Manille), le Tarot et ses 78 cartes, les jeux d'écarté et de piquet hérités des salons du XVIIe siècle, des curiosités régionales comme l'Aluette des marins bretons et vendéens, et quelques jeux venus d'outre-Manche que l'on a adoptés au point de leur donner un nom français (Dame de pique, Rikiki, Whist). Deux ancêtres complètent la famille : le Reversis, d'où
+viennent le Barbu et la Dame de pique, et le Boston, whist à enchères de la fin du XVIIIe siècle.
 
 Ces jeux partagent un vocabulaire qu'il vaut la peine de fixer dès maintenant. **L'atout** est la couleur qui bat toutes les autres ; **couper**, c'est jouer un atout sur une couleur que l'on n'a plus ; **monter** ou **surcouper**, c'est jouer une carte plus forte que celle qui est déjà maîtresse du pli ; **fournir**, c'est jouer dans la couleur demandée ; **se défausser** (ou « pisser », dans le langage des cafés), c'est jeter une carte sans valeur quand on ne peut ni fournir ni couper. **L'entame** est la première carte d'un pli. Le joueur **maître** est celui dont la carte gagne le pli en cours. Enfin, dans presque tous les jeux français traditionnels, on distribue et on joue **dans le sens inverse des aiguilles d'une montre**, c'est-à-dire vers la droite ; c'est une habitude qui surprend les joueurs formés aux jeux anglo-saxons.
 
@@ -354,6 +356,8 @@ Comment choisir ? À quatre, en équipes, la **Belote** est le jeu populaire pa
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 5/5 — rapide, bavard, ponctué de « belote, rebelote » sonores
 - **Challenge :** 3/5 — la mémoire et le jeu en équipe font la différence, mais la donne pèse lourd
+
+*Aller à l'[aide-mémoire](#memo-belote).*
 
 ### En bref
 
@@ -471,8 +475,7 @@ Beaucoup de joueurs arrondissent les scores à la dizaine pour simplifier le car
 
 **Belote de concours.** Dans les concours de salle des fêtes, on joue souvent un nombre fixe de donnes par table (par exemple 12) au lieu d'une partie en 1 000 points, et les points de chaque table sont additionnés pour le classement général.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-belote}
 - **Cartes :** 32 cartes ; à l'atout V 20, 9 14, As 11, 10 10, R 4, D 3, 8 et 7 0 ; hors atout As 11, 10 10, R 4, D 3, V 2, 9-8-7 0.
 - **Donne :** vers la droite, 3 puis 2 cartes (5 chacun), retourne au milieu ; le preneur reçoit la retourne + 2 cartes, les autres 3 (8 chacun).
 - **Enchères :** 1er tour « je prends » à la couleur de la retourne ; 2e tour « à deux » dans une autre couleur ; sinon on redonne.
@@ -498,6 +501,8 @@ La Belote est le jeu idéal pour quatre personnes qui veulent parler, rire et s'
 - **Hasard / réflexion :** environ 35 % hasard, 65 % réflexion
 - **Fun :** 5/5 — les coinches et surcoinches créent des moments de tension mémorables
 - **Challenge :** 4/5 — enchères, conventions et décompte en font un jeu exigeant
+
+*Aller à l'[aide-mémoire](#memo-belote-coinchee).*
 
 ### En bref
 
@@ -580,8 +585,7 @@ Quelques règles complémentaires reviennent souvent : le contrat doit au minim
 
 **Belote « moderne » des sites en ligne.** Les plateformes de jeu en ligne ont popularisé des barèmes uniformes (sans atout et tout atout obligatoires, capot à 250, générale à 500). Ils sont pratiques pour s'entendre avec des joueurs inconnus.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-belote-coinchee}
 - **Cartes :** comme à la Belote : atout V 20, 9 14, As 11, 10 10, R 4, D 3 ; hors atout As 11, 10 10, R 4, D 3, V 2 ; 162 avec le dix de der.
 - **Donne :** 8 cartes chacun, par 3-3-2 (ou 3-2-3), sans retourne.
 - **Enchères :** de 80 à 160 par 10, puis capot (250) ; la plus haute gagne ; trois passes closent ; quatre passes : on redonne.
@@ -608,6 +612,8 @@ La Coinche est le meilleur jeu de cartes populaire français pour qui aime réfl
 - **Hasard / réflexion :** environ 35 % hasard, 65 % réflexion
 - **Fun :** 4/5 — tension du chien, chasse au Petit, ambiance de tablée
 - **Challenge :** 5/5 — décompte des atouts, gestion de l'Excuse, entames : on progresse toute sa vie
+
+*Aller à l'[aide-mémoire](#memo-tarot).*
 
 ### En bref
 
@@ -737,8 +743,7 @@ Dans le cas d'un chelem, l'Excuse jouée au tout dernier pli remporte ce pli. Si
 
 **Tarot de compétition.** En club, on joue en **duplicate** (les mêmes donnes sont rejouées à plusieurs tables, ce qui réduit le hasard) et on compte chaque donne en points relatifs par rapport aux autres tables.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-tarot}
 - **Cartes :** 78 = 56 cartes de couleur (R, D, C, V, 10 à 1) + 21 atouts + l'Excuse. Bouts (21, Petit, Excuse) et Rois 4,5 ; Dame 3,5 ; Cavalier 2,5 ; Valet 1,5 ; autres 0,5 ; total 91.
 - **Donne (à 4) :** par 3, vers la droite ; 18 cartes chacun, chien de 6 (ni la première ni la dernière carte). Petit sec : on redonne.
 - **Contrats :** Prise x1, Garde x2, Garde sans le chien x4, Garde contre le chien x6.
@@ -765,6 +770,8 @@ Le Tarot est peut-être le plus beau jeu de plis populaire français : chaque d
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — les variantes « muette » et « parlée » donnent beaucoup de sel aux échanges
 - **Challenge :** 3/5 — moins de mécanismes que la Coinche, mais une vraie science du jeu en équipe
+
+*Aller à l'[aide-mémoire](#memo-manille).*
 
 ### En bref
 
@@ -824,8 +831,7 @@ Chaque couleur vaut 15 points, le paquet 60 ; chaque pli rapporte en outre 1 po
 
 **Manille à six.** Il n'existe pas de forme établie : certaines tables jouent en deux équipes de trois ou en trois équipes de deux, avec un paquet adapté ; très peu courant.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-manille}
 - **Cartes :** 32 cartes ; 10 (manille) 5, As (manillon) 4, R 3, D 2, V 1, 9-8-7 0 ; même ordre dans toutes les couleurs.
 - **Donne :** 8 cartes chacun, par 4 et 4, vers la droite ; la dernière carte du donneur, retournée, fixe l'atout.
 - **Obligations :** fournir et monter si un adversaire est maître ; sinon couper, surcouper si possible ; partenaire maître : libre.
@@ -850,6 +856,8 @@ La Manille est un excellent jeu d'équipe, plus épuré que la Belote : pas d'a
 - **Hasard / réflexion :** environ 30 % hasard, 70 % réflexion
 - **Fun :** 3/5 — duel élégant, mais le vocabulaire ancien et le comptage demandent un effort
 - **Challenge :** 5/5 — l'échange de cartes et la lecture de la main adverse sont d'une grande finesse
+
+*Aller à l'[aide-mémoire](#memo-piquet).*
 
 ### En bref
 
@@ -900,8 +908,7 @@ Dans la forme moderne dite **Piquet au rubicon**, une partie compte six donnes, 
 
 **Piquet voleur, Piquet à écrire.** Variantes historiques sur l'ordre des annonces et l'échange, décrites dans les anciens traités.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-piquet}
 - **Cartes :** 32 cartes, sans atout ; As, R, D, V, 10, 9, 8, 7. Pour le point : As 11, figures 10, autres leur valeur.
 - **Donne :** 12 cartes chacun, talon de 8 ; le non-donneur est le premier.
 - **Échange :** le premier écarte 1 à 5 cartes et en reprend autant ; le second au moins 1, au plus ce qui reste (en principe 3). Carte blanche 10.
@@ -924,6 +931,8 @@ Le Piquet est un bijou pour deux joueurs qui aiment calculer et déduire. Son vo
 - **Hasard / réflexion :** environ 55 % hasard, 45 % réflexion
 - **Fun :** 3/5 — rapide et nerveux, avec un petit frisson de pari
 - **Challenge :** 3/5 — la décision de proposer ou de refuser l'échange demande du flair
+
+*Aller à l'[aide-mémoire](#memo-ecarte).*
 
 ### En bref
 
@@ -961,8 +970,7 @@ On utilise un jeu de 32 cartes. L'ordre des cartes, de la plus forte à la plus 
 
 **Partie en points différents.** On joue parfois en 7 ou en 10 points pour allonger la partie.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-ecarte}
 - **Cartes :** 32 cartes ; R, D, V, As, 10, 9, 8, 7.
 - **Donne :** 5 cartes chacun, par 3-2 ou 2-3 ; la 11e carte, retournée, fixe l'atout ; retourne Roi : 1 point au donneur.
 - **Roi d'atout :** 1 point s'il est annoncé avant de jouer sa première carte.
@@ -987,6 +995,8 @@ L'Écarté est parfait pour un quart d'heure de duel entre deux personnes, et sa
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — les grosses combinaisons, dont le fameux double bézigue, font rêver
 - **Challenge :** 3/5 — il faut savoir garder les bonnes cartes et sacrifier les autres
+
+*Aller à l'[aide-mémoire](#memo-bezigue).*
 
 ### En bref
 
@@ -1040,8 +1050,7 @@ Une carte déjà utilisée dans une combinaison peut resservir dans une combinai
 
 **Bézigue chinois / Rubicon Bezique.** Version anglaise avec 4 ou 6 paquets, 9 ou 12 cartes par joueur et des primes beaucoup plus élevées (triple et quadruple bézigue).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-bezigue}
 - **Cartes :** 2 jeux de 32 cartes (64) ; As, 10, R, D, V, 9, 8, 7 ; As et 10 (brisques) 10 points dans les plis.
 - **Donne :** 8 cartes chacun par 3-2-3, retourne = atout, le reste en pioche ; retourne 7 : 10 au donneur.
 - **Phase 1 :** aucune obligation ; le gagnant du pli annonce une combinaison, puis chacun pioche.
@@ -1065,6 +1074,8 @@ Le Bézigue est un jeu de duel convivial, plus léger que le Piquet et plus rich
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 5/5 — les grimaces autorisées entre partenaires provoquent des fous rires
 - **Challenge :** 3/5 — il faut retenir la hiérarchie des cartes et lire les signes sans se faire voir
+
+*Aller à l'[aide-mémoire](#memo-aluette).*
 
 ### En bref
 
@@ -1121,8 +1132,7 @@ Chaque manche gagnée rapporte un point à l'équipe. La partie se joue le plus 
 
 **Paquet de substitution.** À défaut d'un jeu d'aluette, on peut jouer avec un jeu espagnol de 48 cartes ; dans un jeu de 52 cartes français, il faut convenir de correspondances, ce qui est peu pratique.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-aluette}
 - **Cartes :** 48 cartes espagnoles, sans atout ni obligation de fournir.
 - **Hiérarchie :** Monsieur (3 deniers), Madame (3 coupes), Borgne (2 deniers), Vache (2 coupes), Grand Neuf (9 coupes), Petit Neuf (9 deniers), Deux de chêne (2 bâtons), Deux d'écrit (2 épées), puis As, Rois, Cavalières, Valets, puis 9 à 3.
 - **Signes :** sourcils levés, coin des lèvres, clin d'œil, moue, pouce, petit doigt, index, deux doigts vers le bas ; As : bouche ouverte (à convenir).
@@ -1147,6 +1157,8 @@ L'Aluette est un trésor du patrimoine ludique de l'Ouest : un jeu où la commu
 - **Hasard / réflexion :** environ 60 % hasard, 40 % réflexion
 - **Fun :** 3/5 — vif et simple, idéal pour découvrir les jeux de plis
 - **Challenge :** 2/5 — peu de cartes, peu de décisions
+
+*Aller à l'[aide-mémoire](#memo-triomphe).*
 
 ### En bref
 
@@ -1183,8 +1195,7 @@ On utilise un jeu de 32 cartes (ou 52 à plus de quatre joueurs). L'ordre est g�
 
 **Triomphe à six.** Trois équipes de deux, ou deux équipes de trois, avec un jeu de 52 cartes.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-triomphe}
 - **Cartes :** 32 cartes ; R, D, V, As, 10, 9, 8, 7.
 - **Donne :** 5 cartes chacun, par 2 puis 3 ; la carte suivante fixe la triomphe (l'atout).
 - **Retourne :** si c'est un As, le donneur peut la prendre contre une carte de sa main.
@@ -1208,6 +1219,8 @@ La Triomphe intéresse surtout l'amateur d'histoire des jeux et le parent qui ve
 - **Hasard / réflexion :** environ 35 % hasard, 65 % réflexion
 - **Fun :** 4/5 — sept jeux en un, des retournements constants et des contres vengeurs
 - **Challenge :** 4/5 — chaque contrat demande une technique propre, et le choix du contrat est stratégique
+
+*Aller à l'[aide-mémoire](#memo-barbu).*
 
 ### En bref
 
@@ -1258,8 +1271,7 @@ Avec le barème ci-dessus, les contrats négatifs totalisent −130 et les posit
 
 **Barbu à trois ou cinq.** On retire des cartes (les 2, ou les 2 et les 3) pour que chacun ait le même nombre de cartes, en ajustant les barèmes.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-barbu}
 - **Cartes :** 52 cartes, As fort ; 13 chacun ; chacun est roi pendant 7 donnes et choisit chaque contrat une fois (28 donnes).
 - **Négatifs :** plis -2 chacun ; cœurs -2, As de cœur -6 ; Dames -6 ; Roi de cœur -20 ; avant-dernier pli -10, dernier -20.
 - **Positifs :** atout +5 par pli (fournir, couper, surcouper) ; réussite +45, +20, +5, -5.
@@ -1284,6 +1296,8 @@ Le Barbu est un jeu de soirée remarquable pour quatre joueurs qui aiment les je
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — la Dame de pique qui tombe sur un voisin fait toujours rire
 - **Challenge :** 3/5 — le passage de cartes et la tentative de grand chelem demandent du métier
+
+*Aller à l'[aide-mémoire](#memo-dame-de-pique).*
 
 ### En bref
 
@@ -1329,8 +1343,7 @@ Chacun compte ses cœurs et la Dame de pique. **Grand chelem** (« tirer la lun
 
 **Variantes à 3, 5 ou 6 joueurs.** On retire les 2 nécessaires (par exemple le 2 de trèfle à trois joueurs, et le joueur avec le 3 de trèfle entame) pour que chacun ait le même nombre de cartes.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-dame-de-pique}
 - **Cartes :** 52 cartes, As fort ; 13 chacun à 4 joueurs ; pas d'atout.
 - **Passage :** 3 cartes à gauche, à droite, en face, puis pas de passage ; on recommence.
 - **Entame :** le 2 de trèfle ; au 1er pli, ni cœur ni Dame de pique.
@@ -1341,6 +1354,90 @@ Chacun compte ses cœurs et la Dame de pique. **Grand chelem** (« tirer la lun
 ### Verdict
 
 La Dame de pique est un excellent jeu de famille, simple à expliquer, animé et parfois cruel. Le passage de cartes donne de vraies décisions, et la menace du grand chelem empêche le jeu d'être purement défensif. Les joueurs qui détestent les jeux « négatifs » où l'on subit les choix des autres pourront le trouver frustrant.
+
+## Reversis {#jeu-reversis}
+*Autres noms : Reversi, la Quinola ; Reversin (France, vers 1600)*
+
+- **Famille :** jeu de plis à éviter (jeu historique)
+- **Joueurs :** 4, chacun pour soi
+- **Matériel :** 48 cartes (jeu de 52 sans les 10) ; jetons (environ 100 par joueur)
+- **Durée d'une partie :** 5 à 10 min par donne ; un tour complet de donnes ou plus
+- **Âge conseillé :** dès 12 ans
+- **Diffusion :** Niche (jeu historique, à redécouvrir)
+- **Hasard / réflexion :** 45 % hasard, 55 % réflexion
+- **Fun :** 3/5 — beaucoup de paiements et de petits drames autour du valet de cœur
+- **Challenge :** 3/5 — la défausse et le timing du Quinola demandent de l'adresse
+
+*Aller à l'[aide-mémoire](#memo-reversis).*
+
+### En bref
+L'ancêtre direct des jeux où l'on évite les plis. On cherche à ramasser le moins de points possible, et surtout à se débarrasser au bon moment de ses as et du redoutable **Quinola**, le valet de cœur, en le jetant sur une autre couleur. Mais un joueur audacieux peut tout renverser en ramassant les onze plis : c'est le **reversis**, qui donne son nom au jeu.
+
+### Histoire et origine
+On a longtemps cru le Reversis espagnol, à cause de son vocabulaire. Il est en fait attesté en France dès 1601 sous le nom de *Reversin*, joué alors avec un paquet complet ; son nom viendrait de l'italien *rovescio*, « à l'envers ». Le paquet de 48 cartes, le jeu vers la droite et les termes espagnols sont des ajouts ultérieurs. Très en vogue aux XVIIe et XVIIIe siècles, il disparaît au XIXe, mais son idée survit : la [Dame de pique](#jeu-dame-de-pique) (Hearts) et le [Barbu](#jeu-barbu) en descendent plus ou moins directement, et le contrat « pas de valet de cœur » ou « pas de dame » de ces jeux rappelle le Quinola. Les règles ci-dessous suivent la reconstitution de David Parlett, qui précise que les sources anciennes divergent sur le détail.
+
+### But du jeu
+Faire le moins de points de cartes dans ses plis, et gagner des paiements en jetant ses as et le Quinola sur les plis des autres.
+
+### Mise en place
+On retire les quatre 10 : il reste 48 cartes. Ordre dans chaque couleur : as, roi, dame, valet, 9, 8… 2. Il n'y a **pas d'atout**.
+
+| Carte | Points |
+| --- | --- |
+| As | 4 |
+| Roi | 3 |
+| Dame | 2 |
+| Valet | 1 |
+
+Total : 40 points.
+
+**Le pot.** Au début de la séance, chaque joueur met 5 jetons au pot, le donneur en ajoute 5 à chaque donne.
+
+**Distribution.** On joue vers la droite (sens inverse des aiguilles d'une montre). Chaque joueur reçoit 11 cartes ; le donneur en reçoit une douzième, et une carte est posée face cachée devant chacun des trois autres. Le donneur écarte une carte. Chaque autre joueur peut soit écarter une carte et prendre celle posée devant lui (sans la regarder avant), soit garder sa main et regarder la carte. Les 4 cartes restantes (écarts et cartes non prises) forment le talon.
+
+### Déroulement
+Le joueur à droite du donneur entame. Il faut **fournir** la couleur demandée ; sans elle, on joue n'importe quoi. La plus forte carte de la couleur entamée gagne le pli.
+
+**Paiements en cours de jeu (en jetons) :**
+
+- **Jeter** (défausser sur une autre couleur) un as : le gagnant du pli paie 1 jeton au joueur qui l'a jeté (2 pour l'as de carreau).
+- **Jeter le Quinola** : le gagnant du pli paie 5 jetons, et celui qui l'a jeté **ramasse le pot**.
+- **Être forcé** de jouer un as ou le Quinola dans sa couleur, ou l'entamer : c'est le joueur qui paie au gagnant du pli (1 pour un as, 2 pour l'as de carreau, 10 pour le Quinola plus 5 de chacun des autres), et un Quinola forcé ou entamé oblige à **regarnir le pot** d'une somme égale à son contenu.
+- Ces paiements sont **doublés entre joueurs assis face à face**, et doublés pour tous dans les deux derniers plis.
+
+**Le reversis.** Un joueur qui gagne les **neuf premiers plis** est engagé : il doit faire aussi les deux derniers. S'il réussit, ses voisins lui paient 16 jetons et son vis-à-vis 32. Si un adversaire lui prend le dixième ou le onzième pli, le reversis est « rompu » et il paie 64 jetons à ce joueur.
+
+### Décompte des points
+À la fin de la donne, on compte les points de cartes de chaque joueur. Celui qui en a le **moins** gagne la « partie » ; celui qui en a le **plus** la perd et lui paie 4 jetons plus la valeur des cartes du talon (le double s'ils sont face à face). En cas d'égalité, avantage à celui qui a fait le moins de plis, puis au donneur.
+
+**Version simplifiée pour noter sur papier** (adaptation proposée, non historique) : chaque joueur marque les points de cartes de ses plis, plus 5 pour le Quinola forcé ou entamé, moins 5 pour le Quinola jeté ; un reversis réussi marque -20 pour son auteur. La partie se joue en 100 points : le plus bas total l'emporte.
+
+### Conseils de stratégie
+- **Débarrassez-vous des couleurs courtes** dès l'échange : une chicane (couleur absente) vous permet de jeter vos as et le Quinola.
+- **Le Quinola est une bombe :** si vous l'avez, gardez quelques cœurs bas pour ne pas être forcé, et attendez une entame dans une couleur que vous n'avez plus.
+- **Forcez le Quinola adverse** en entamant cœur quand vous soupçonnez son détenteur de ne plus avoir de petits cœurs.
+- **Gardez une petite carte dans chaque couleur** pour sortir de la main.
+- **Le reversis se prépare à la donne** : une main pleine d'as et de rois peut le tenter, mais un seul pli perdu à la fin coûte une fortune.
+
+### Variantes
+**Espagnolette.** Ajout tardif : un joueur qui détient les quatre as, ou le Quinola et trois as, peut viser à ne faire aucun pli ; il bénéficie d'avantages spéciaux en cas de reversis adverse.
+
+**Reversis à 52 cartes.** Retour à la forme d'origine, avec les 10.
+
+**Comptes du talon.** Certaines sources comptent l'as de carreau 5 et le Quinola 3 dans le talon.
+
+### Aide-mémoire {#memo-reversis}
+- **Cartes :** 48 (sans les 10) ; A R D V 9…2 ; pas d'atout ; points A 4, R 3, D 2, V 1 (40).
+- **Donne :** 11 cartes chacun ; le donneur écarte 1, les autres peuvent échanger 1 carte ; talon de 4 ; jeu vers la droite.
+- **Obligation :** fournir ; sinon défausse libre.
+- **As jeté :** le gagnant du pli paie 1 (2 pour l'as de carreau) ; as forcé ou entamé : son détenteur paie.
+- **Quinola (V de cœur) jeté :** 5 jetons + le pot ; forcé ou entamé : 10 au gagnant + 5 de chacun, et regarnir le pot.
+- **Partie :** le moins de points gagne ; le plus de points paie 4 + points du talon.
+- **Reversis :** 11 plis ; neuf premiers plis = engagé ; réussi 16/16/32 ; rompu 64 au rompeur.
+- **Doublements :** face à face x 2 ; deux derniers plis x 2.
+
+### Verdict
+Le Reversis intéressera surtout les amateurs d'histoire des jeux et les joueurs de [Barbu](#jeu-barbu) ou de [Dame de pique](#jeu-dame-de-pique) qui veulent découvrir leurs racines. À la table, il est agréable une fois les paiements compris, mais la comptabilité en jetons est lourde ; la version simplifiée sur papier rend le jeu plus fluide. Pour une soirée « jeux d'autrefois », il fait merveille.
 
 ## Rikiki {#jeu-rikiki}
 *Autres noms : Ascenseur, Oh Hell (anglais), Oh Pshaw, Estimation*
@@ -1354,6 +1451,8 @@ La Dame de pique est un excellent jeu de famille, simple à expliquer, animé et
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 5/5 — les donnes à une carte et les pronostics ratés d'un pli déchaînent la table
 - **Challenge :** 3/5 — l'estimation juste et le sabotage du voisin demandent de la finesse
+
+*Aller à l'[aide-mémoire](#memo-rikiki).*
 
 ### En bref
 
@@ -1397,8 +1496,7 @@ Le barème le plus répandu : un joueur qui réussit exactement son annonce mar
 
 **Rikiki sans règle du donneur.** Le total des annonces peut tomber juste ; le jeu devient plus coopératif et moins tendu.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-rikiki}
 - **Cartes :** 52 cartes, As fort ; 1, 2, 3… cartes jusqu'au maximum, puis on redescend.
 - **Atout :** carte suivante retournée ; si tout est distribué, sans atout.
 - **Annonces :** chacun dit combien de plis il fera ; le donneur parle en dernier et ne peut pas faire tomber le total juste.
@@ -1422,6 +1520,8 @@ Le Rikiki est l'un des meilleurs jeux de cartes pour une tablée de cinq ou six 
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 3/5 — sobre, silencieux, très plaisant entre joueurs attentifs
 - **Challenge :** 4/5 — le jeu de la carte est déjà celui du Bridge
+
+*Aller à l'[aide-mémoire](#memo-whist).*
 
 ### En bref
 
@@ -1469,8 +1569,7 @@ Jeu de 52 cartes, de l'As au 2. Le donneur distribue toutes les cartes, une à u
 
 **Whist à pronostics (Knock-out whist, Oh Hell).** Voir le [Rikiki](#jeu-rikiki) ci-dessus.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-whist}
 - **Cartes :** 52 cartes, As fort ; 13 chacun, une à une ; la dernière carte du donneur, retournée, fixe l'atout.
 - **Obligations :** fournir ; sinon couper ou se défausser librement.
 - **Points :** 1 par pli au-delà de 6.
@@ -1480,6 +1579,98 @@ Jeu de 52 cartes, de l'As au 2. Le donneur distribue toutes les cartes, une à u
 ### Verdict
 
 Le Whist est le jeu idéal pour apprendre le jeu de la carte : entame, signalisation, comptage des cartes. Sans enchères, il paraît austère à ceux qui ont connu le Bridge ou la Coinche, mais il reste très agréable entre joueurs silencieux et concentrés. Le Whist à la couleur, lui, mérite le détour pour sa richesse d'enchères et son ambiance de café belge. Le Bridge est traité dans un autre chapitre.
+
+## Boston {#jeu-boston}
+*Autres noms : Boston de Fontainebleau, Boston français, Whist bostonien*
+
+- **Famille :** jeu de plis à enchères (famille du Whist, jeu historique)
+- **Joueurs :** 4, chacun pour soi avec alliances d'une donne
+- **Matériel :** 1 jeu de 52 cartes ; jetons
+- **Durée d'une partie :** 5 à 10 min par donne ; 1 à 2 h pour une séance
+- **Âge conseillé :** dès 14 ans
+- **Diffusion :** Niche (historique ; descendants très vivants en Belgique, aux Pays-Bas et en Russie)
+- **Hasard / réflexion :** 35 % hasard, 65 % réflexion
+- **Fun :** 3/5 — variété de contrats, mais comptes à tenir
+- **Challenge :** 4/5 — évaluer sa main, choisir entre levées et misères, jouer seul contre trois
+
+*Aller à l'[aide-mémoire](#memo-boston).*
+
+### En bref
+Le Boston est un [Whist](#jeu-whist) où l'atout n'est plus tiré au hasard : on l'achète aux enchères. Chaque joueur peut annoncer un nombre de plis à faire avec l'atout de son choix, ou une **misère** (ne faire aucun pli). Certains contrats se jouent avec un allié choisi pour la donne, d'autres seul contre trois. C'est le chaînon entre le Whist et les jeux modernes comme le Whist à la couleur belge, le Rik néerlandais ou le [Preferans](#jeu-preferans) russe.
+
+### Histoire et origine
+Le Boston apparaît en France dans les années 1770. Son nom évoquerait la guerre d'indépendance américaine, alors en pleine actualité ; l'*Almanach des jeux* de 1783 en décrit deux formes, le « Whisch bostonien » et le « Mariland ». Il emprunte au Quadrille, lui-même issu de l'[Hombre](#jeu-hombre), l'idée d'enchères qui fixent l'atout. Vers 1810 se fixe le **Boston de Fontainebleau**, la forme la plus aboutie, avec un ordre des couleurs et une échelle de contrats. Le jeu est alors à la mode dans toute l'Europe, de Paris à Saint-Pétersbourg (les personnages de *Guerre et Paix* y jouent), avant de s'effacer au XIXe siècle devant le Whist puis le [Bridge](#jeu-bridge). Ses descendants vivent encore : Wiezen et Kleurenwiezen en Belgique, Rikken aux Pays-Bas, Solo Whist en Angleterre, Préférence en Russie. Les sources anciennes divergent beaucoup sur les paiements : la règle ci-dessous suit Wikipédia pour le Boston de Fontainebleau, avec un barème simplifié.
+
+### But du jeu
+Réussir le contrat qu'on a annoncé (un nombre de plis, ou une misère) pour ramasser le pot et les paiements ; faire chuter les contrats des autres.
+
+### Mise en place
+Jeu de 52 cartes, as fort, comme au Whist. Le joueur qui tire la plus petite carte donne. Le donneur met une mise au pot (par exemple 10 jetons). Il distribue **4 cartes, puis 4, puis 5** à chacun, soit 13 cartes.
+
+**Ordre des couleurs** (pour départager deux annonces de même niveau) : carreau, cœur, trèfle, pique (le carreau est la couleur la plus forte).
+
+### Déroulement
+**Enchères.** Le joueur à gauche du donneur parle en premier. Chacun annonce un contrat plus élevé ou passe ; qui a passé ne reparle plus, mais un joueur surenchéri peut remonter à son tour suivant. Échelle des contrats, du plus faible au plus fort :
+
+1. **Boston** : 5 plis seul (ou 8 avec un allié) ;
+2. 6 plis ;
+3. **Petite misère** : écarter une carte, puis ne faire aucun pli ;
+4. 7 plis ;
+5. **Piccolissimo** : écarter une carte, puis faire exactement un pli ;
+6. 8 plis ;
+7. **Grande misère** : aucun pli, sans écart ;
+8. 9 plis ;
+9. **Petite misère sur table** (main étalée) ;
+10. 10 plis ;
+11. **Grande misère sur table** ;
+12. 11 plis (toujours seul) ;
+13. 12 plis ;
+14. **Chelem** (Grand Boston) : les 13 plis ;
+15. **Chelem sur table**.
+
+Pour un même nombre de plis, une annonce dans une couleur plus forte l'emporte. Les misères se jouent sans atout.
+
+**Alliés.** Les contrats de levées de 5 à 10 plis peuvent se jouer avec un allié : selon les règles, un autre joueur se déclare son soutien pendant les enchères ; l'équipe doit alors faire **3 plis de plus** que le nombre annoncé et partage gains et pertes. Les misères, le piccolissimo et les contrats de 11 plis et plus se jouent toujours seul contre trois.
+
+**Si tout le monde passe,** on joue sans atout et le joueur qui fait le moins de plis gagne le pot (selon certaines tables, on redonne simplement).
+
+**Le jeu.** Le joueur à gauche du donneur entame. Il faut fournir ; sinon on joue ce qu'on veut, l'atout coupe. Une renonce (ne pas fournir alors qu'on le pouvait) coûte 3 plis au fautif.
+
+### Décompte des points
+Les paiements anciens suivaient des barèmes longs et variables. **Barème simplifié proposé** (non historique, pour jouer aujourd'hui avec des jetons) :
+
+- le demandeur qui réussit ramasse **le pot** et reçoit de chacun des trois autres la valeur du contrat : 5 plis = 2, chaque pli au-dessus = +1 ; petite misère 4, piccolissimo 5, grande misère 8, misères sur table 12 et 16, chelem 25 ;
+- avec un allié, les deux équipiers partagent ; chaque adversaire paie chacun d'eux ;
+- en cas de chute, le demandeur paie la valeur du contrat à chacun et double la mise du pot ;
+- les **honneurs** (as, roi, dame, valet d'atout) se comptent comme au Whist si on le souhaite, mais ne servent jamais à remplir un contrat.
+
+Les adversaires ne gagnent jamais le pot ; il s'accumule de donne en donne jusqu'à ce qu'un contrat réussisse.
+
+### Conseils de stratégie
+- **Comptez vos plis sûrs** : as, roi second, longueurs d'atout. Une annonce de Boston (5 plis seul) demande une main nettement supérieure à la moyenne.
+- **Pensez aux misères** quand votre main est pleine de petites cartes : une grande misère rapporte beaucoup et ne demande pas de cartes fortes, mais pas de carte haute isolée.
+- **L'écart du piccolissimo et de la petite misère** sert à jeter la carte qui vous condamnerait (un as isolé, par exemple).
+- **En défense contre une misère**, entamez des cartes moyennes pour forcer le demandeur à prendre ; gardez vos plus petites cartes pour la fin.
+- **Sachez soutenir** : un allié n'est utile que s'il apporte au moins trois plis sûrs.
+
+### Variantes
+**Boston américain.** À deux paquets : l'un sert à jouer, l'autre est coupé pour désigner une couleur préférée ; règles anciennes anglo-saxonnes.
+
+**Boston russe.** Forme jouée en Russie au XIXe siècle, avec son propre ordre des couleurs ; la Préférence russe en est en partie issue.
+
+**Descendants.** Le **Kleurenwiezen** (Belgique), le **Rikken** (Pays-Bas) et le **Solo Whist** (Angleterre) gardent la structure du Boston (contrats seuls ou avec allié, misères) avec des barèmes simplifiés ; ils sont plus faciles à jouer aujourd'hui.
+
+### Aide-mémoire {#memo-boston}
+- **Cartes :** 52, as fort ; couleurs : carreau, cœur, trèfle, pique (du plus fort au plus faible).
+- **Donne :** 4, 4, 5 cartes (13 chacun) ; mise du donneur au pot.
+- **Enchères :** Boston (5), 6, petite misère, 7, piccolissimo, 8, grande misère, 9, petite misère sur table, 10, grande misère sur table, 11, 12, chelem, chelem sur table.
+- **Alliés :** possibles de 5 à 10 plis ; l'équipe doit faire 3 plis de plus.
+- **Obligations :** fournir ; sinon libre ; renonce = 3 plis de pénalité.
+- **Tout le monde passe :** sans atout, le moins de plis gagne le pot.
+- **Points :** réussite = pot + paiement de chacun ; chute = paiement à chacun + pot doublé.
+
+### Verdict
+Le Boston séduira les amateurs de [Whist](#jeu-whist) et de [Preferans](#jeu-preferans) curieux de l'histoire de leur jeu : on y trouve déjà presque tout ce qui fera le charme des jeux à enchères modernes, misères comprises. Son défaut est la lourdeur de ses barèmes, qui varient d'une source à l'autre ; avec le barème simplifié, il redevient un très bon jeu de plis à quatre, plus libre que le Whist et moins exigeant que le Bridge.
 
 ## Bourre {#jeu-bourre}
 *Autres noms : Bourré (Louisiane)*
@@ -1493,6 +1684,8 @@ Le Whist est le jeu idéal pour apprendre le jeu de la carte : entame, signalis
 - **Hasard / réflexion :** environ 60 % hasard, 40 % réflexion
 - **Fun :** 4/5 — la peur d'être « bourré » et la cagnotte qui grossit font monter la tension
 - **Challenge :** 2/5 — décisions surtout liées au risque, peu de jeu de la carte
+
+*Aller à l'[aide-mémoire](#memo-bourre).*
 
 ### En bref
 
@@ -1534,8 +1727,7 @@ On compte en jetons : à la fin de la séance, chacun fait le bilan de ses gain
 
 **Mise libre et plafond.** Les tables de Louisiane plafonnent souvent la cagnotte pour éviter les pertes trop lourdes.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-bourre}
 - **Cartes :** 52 cartes, As fort (32 en France) ; mise de chacun ; 5 cartes chacun, la dernière carte du donneur fixe l'atout.
 - **Choix :** jouer ou passer, puis échange de 0 à 5 cartes.
 - **Obligations :** fournir ; jouer pour gagner le pli ; sinon couper.
@@ -1558,6 +1750,8 @@ La Bourre est un jeu de tablée bruyant, rapide et joyeux, qui se joue idéaleme
 - **Hasard / réflexion :** environ 60 % hasard, 40 % réflexion
 - **Fun :** 3/5 — rapide et animé, avec un petit frisson de mise
 - **Challenge :** 2/5 — les décisions portent surtout sur le fait de jouer ou de passer
+
+*Aller à l'[aide-mémoire](#memo-mouche).*
 
 ### En bref
 
@@ -1594,8 +1788,7 @@ On utilise un jeu de 32 cartes (de 52 à six ou sept joueurs). Ordre habituel, d
 
 **Mouche à pénalité fixe.** Le joueur qui fait mouche paie une somme fixe, pour éviter l'emballement de la cagnotte.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-mouche}
 - **Cartes :** 32 cartes (52 à 6 ou 7) ; 5 chacun ; carte suivante = atout.
 - **Mouche :** cinq cartes de même couleur : on rafle la cagnotte sans jouer (mouche d'atout prioritaire).
 - **Choix :** jouer ou passer, échange contre le talon.
@@ -1607,11 +1800,13 @@ On utilise un jeu de 32 cartes (de 52 à six ou sept joueurs). Ordre habituel, d
 
 La Mouche est une curiosité charmante, idéale pour une tablée nombreuse qui veut un jeu sans prise de tête, avec des jetons et des rires. Elle est encore plus hasardeuse que la Bourre et lassera vite les joueurs qui cherchent de la réflexion. Comme témoin des jeux de salon d'autrefois, elle reste une découverte plaisante.
 
-# Les jeux de plis du monde entier
+# 2. Les jeux de plis du monde entier
 
 Le principe du pli est l'un des plus anciens et des plus universels des jeux de cartes : chacun pose une carte à son tour, et la plus forte emporte le petit tas ainsi formé. De cette mécanique simple, chaque région du monde a tiré des jeux d'une richesse surprenante. On y retrouve toujours le même vocabulaire : l'**entame** (la première carte d'un pli), l'obligation de **fournir** (jouer la couleur demandée), la **coupe** (jouer un atout quand on ne peut plus fournir), la **surcoupe** (couper plus haut qu'un adversaire), la **défausse** (se débarrasser d'une carte quand on ne peut ni fournir ni couper) et le **contrat** (ce qu'un joueur ou une équipe s'engage à réaliser).
 
-Les jeux de ce chapitre se rangent en quelques grandes familles. Les jeux **à contrat sur le nombre de levées** (Bridge, Spades, Wizard, Preferans) demandent d'annoncer combien de plis on va faire. Les jeux **à points de cartes** (Skat, Doppelkopf, Jass, Briscola, Sueca) comptent plutôt la valeur des cartes ramassées : l'As vaut souvent 11, le Dix 10, et il faut dépasser la moitié du total. Enfin, quelques jeux mêlent les plis à d'autres ressorts : le bluff et les signes au Truco et au Mus, la coopération dans The Crew.
+Les jeux de ce chapitre se rangent en quelques grandes familles. Les jeux **à contrat sur le nombre de levées** (Bridge, Spades, Wizard, Preferans) demandent d'annoncer combien de plis on va faire. Les jeux **à points de cartes** (Skat, Doppelkopf, Jass, Briscola, Sueca) comptent plutôt la valeur des cartes ramassées : l'As vaut souvent 11, le Dix 10, et il faut dépasser la moitié du total. Enfin, quelques jeux mêlent les plis à d'autres ressorts : le bluff et les signes au Truco et au Mus, la coopération dans The Crew. On croise aussi le Schnapsen, jeu national de l'Autriche, le
+Sheng Ji (ou Tracteur), que des dizaines de millions de Chinois pratiquent en famille, et
+l'Hombre, premier grand jeu à enchères, qui régna sur les salons d'Europe pendant deux siècles.
 
 Pour choisir : si vous êtes quatre et prêts à apprendre longtemps, le Bridge reste le sommet du genre. Pour une partie conviviale entre amis, Spades, Euchre ou Briscola s'apprennent en dix minutes. À trois, le Skat et le Preferans sont des merveilles d'équilibre. Si vous aimez les jeux d'équipe bavards, Truco et Mus sont incomparables. Les jeux cousins traités ailleurs dans ce livre (Belote, Coinche, Tarot, Manille, Whist, Rikiki, Barbu, Dame de pique, etc.) ont leur propre chapitre consacré aux jeux de plis français et classiques.
 
@@ -1627,6 +1822,8 @@ Pour choisir : si vous êtes quatre et prêts à apprendre longtemps, le Bridge
 - **Hasard / réflexion :** en partie libre, environ 30 % hasard, 70 % réflexion ; en duplicate, le hasard de la distribution est presque entièrement neutralisé
 - **Fun :** 4/5 — conversation à quatre, suspense de chaque contrat, mais parfois austère pour les débutants
 - **Challenge :** 5/5 — une vie entière ne suffit pas à en faire le tour
+
+*Aller à l'[aide-mémoire](#memo-bridge).*
 
 ### En bref
 
@@ -1786,8 +1983,7 @@ On additionne tout à la fin du robre ; le camp en tête l'emporte de la diffé
 
 **Bridge en duplicate** (4 joueurs ou plus). Ce n'est pas une variante de règles mais de compétition : les mains sont conservées dans des étuis et rejouées aux autres tables, ce qui élimine presque la chance de la distribution. Possible même à 8 joueurs à la maison (deux tables qui échangent leurs étuis).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-bridge}
 - **Cartes :** 52 cartes, As fort, 2 faible ; points H : As 4, Roi 3, Dame 2, Valet 1 (40 au total).
 - **Donne :** 13 cartes à chacun, une à une ; le donneur parle le premier aux enchères.
 - **Enchères :** palier 1 à 7 (levées au-delà de 6) ; ordre trèfle, carreau, cœur, pique, sans-atout ; contre, surcontre ; fin après trois passes consécutifs.
@@ -1814,6 +2010,8 @@ Le Bridge est le jeu de plis le plus abouti qui soit : il récompense la logiqu
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — enchères rapides, coups de théâtre du « nil »
 - **Challenge :** 3/5 — plus simple que le Bridge, mais la gestion des « sacs » demande de la finesse
+
+*Aller à l'[aide-mémoire](#memo-spades).*
 
 ### En bref
 
@@ -1865,8 +2063,7 @@ Jeu de 52 cartes, de l'As au 2 dans chaque couleur. Le pique est **toujours atou
 
 **Moon** (ou *Boston*) : annoncer 13 levées à deux ; réussi, il fait souvent gagner la partie (ou rapporte 200 à 500 points selon les tables).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-spades}
 - **Cartes :** 52 cartes, As fort ; le pique est toujours atout.
 - **Donne :** 13 cartes à chacun ; partenaires face à face.
 - **Annonces :** une seule fois chacun, à partir de la gauche du donneur : 1 à 13 levées ou nil ; l'annonce d'équipe est la somme des deux (hors nil).
@@ -1892,6 +2089,8 @@ Le Spades est un excellent jeu d'équipe pour les soirées où l'on veut parler,
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — donnes de cinq cartes, rythme effréné, ambiance de bar
 - **Challenge :** 3/5 — décisions vives sur l'atout et le « jeu seul »
+
+*Aller à l'[aide-mémoire](#memo-euchre).*
 
 ### En bref
 
@@ -1945,8 +2144,7 @@ Partie en 10 points. Traditionnellement, chaque équipe marque son score avec un
 
 **Euchre avec règles cornouaillaises ou australiennes.** On y joue parfois avec un joker (« benny ») et un barème différent. Voir aussi le [500](#jeu-500-five-hundred), qui en est le descendant direct.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-euchre}
 - **Cartes :** 24 cartes (9 à As). À l'atout : valet droit (valet d'atout), valet gauche (valet de même teinte), As, Roi, Dame, 10, 9. Hors atout : As, Roi, Dame, (Valet), 10, 9.
 - **Donne :** 5 cartes chacun par 3 + 2 (ou 2 + 3) ; on retourne la carte du dessus des 4 restantes.
 - **Enchères :** 1er tour, accepter la couleur retournée (le donneur la prend et écarte une carte) ou passer ; 2e tour, nommer une autre couleur ou passer ; puis redonne (ou donneur obligé de choisir).
@@ -1971,6 +2169,8 @@ Un jeu nerveux, convivial, idéal pour quatre amis autour d'une bière ou en fam
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 3/5 — annonces spectaculaires, mais beaucoup de comptes
 - **Challenge :** 4/5 — enchères délicates, mémoire des cartes en double
+
+*Aller à l'[aide-mémoire](#memo-pinochle).*
 
 ### En bref
 
@@ -2028,8 +2228,7 @@ L'ancien barème, encore joué, compte les cartes 11 (As), 10 (10), 4 (Roi), 3 (
 
 **Pinochle double** (*double-deck*). 80 cartes (sans les 9), 20 par joueur : parties plus longues et combinaisons plus fréquentes.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-pinochle}
 - **Cartes :** 48 cartes (2 × 9, V, D, R, 10, As) ; ordre As, 10, Roi, Dame, Valet, 9 ; entre deux cartes identiques, la première jouée gagne.
 - **Donne :** 12 cartes chacun, par 3 ou 4.
 - **Enchères :** points (combinaisons + plis), souvent à partir de 250, par 10 ; qui passe ne revient plus.
@@ -2056,6 +2255,8 @@ Un jeu riche et familial pour ceux qui aiment les belles annonces et les comptes
 - **Hasard / réflexion :** environ 35 % hasard, 65 % réflexion
 - **Fun :** 4/5 — enchères audacieuses, la misère ouverte fait toujours sensation
 - **Challenge :** 4/5 — un petit Bridge plus rapide à apprendre
+
+*Aller à l'[aide-mémoire](#memo-500-five-hundred).*
 
 ### En bref
 
@@ -2112,8 +2313,7 @@ La partie se gagne à 500 points. Dans les règles australiennes, on ne peut fra
 
 **Règles maison.** Les tables varient beaucoup. Une enchère de 6 s'appelle un « inkle » ; elle sert surtout à indiquer une couleur au partenaire, et certaines tables ne l'autorisent qu'aux deux premiers enchérisseurs. Les règles australiennes n'autorisent la misère qu'après une enchère de 7 (la misère ouverte n'a pas cette restriction) ; d'autres tables l'annoncent librement, en modifient la valeur ou la suppriment.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-500-five-hundred}
 - **Cartes :** 43 cartes à quatre (52 sans les 2, les 3 et les 4 noirs, plus le joker). À l'atout : joker, valet droit, valet gauche, As, Roi, Dame, 10… Hors atout : As, Roi, Dame, Valet, 10…
 - **Donne :** 10 cartes chacun, 3 au talon.
 - **Enchères :** au moins 6 levées ; pique, trèfle, carreau, cœur, sans-atout ; misère (250) et misère ouverte (500) jouées seul et sans atout.
@@ -2137,6 +2337,8 @@ Le 500 est le meilleur compromis entre la convivialité de l'Euchre et la profon
 - **Hasard / réflexion :** environ 30 % hasard, 70 % réflexion
 - **Fun :** 4/5 — enchères tendues, retournement du skat, ambiance de café
 - **Challenge :** 5/5 — calcul de la valeur, mémoire de 32 cartes, jeu de défense à deux
+
+*Aller à l'[aide-mémoire](#memo-skat).*
 
 ### En bref
 
@@ -2238,8 +2440,7 @@ En tournoi, on ajoute à la fin de la liste le **barème Seeger-Fabian** : chaq
 
 **Skat à deux.** Non officiel ; on joue avec une main fictive ou des cartes étalées, comme au [Bridge](#jeu-bridge) à deux.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-skat}
 - **Cartes :** 32 cartes ; As 11, 10 10, Roi 4, Dame 3, Valet 2 (120 au total). Ordre : As, 10, Roi, Dame, 9, 8, 7 ; les 4 valets toujours atouts (trèfle, pique, cœur, carreau) en tête.
 - **Donne :** 3 cartes chacun, 2 au skat, 4, puis 3 : 10 cartes chacun.
 - **Enchères :** Mittelhand propose à Vorhand (18, 20, 22, 23, 24, 27, 30…), puis Hinterhand au survivant.
@@ -2265,6 +2466,8 @@ Le Skat est un chef-d'œuvre d'équilibre pour trois joueurs : chaque donne opp
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 5/5 — on ne sait pas qui est son partenaire, les annonces font monter la tension
 - **Challenge :** 4/5 — déduction des équipes, comptage de 48 cartes en double
+
+*Aller à l'[aide-mémoire](#memo-doppelkopf).*
 
 ### En bref
 
@@ -2341,8 +2544,7 @@ Les gagnants marquent ce total chacun, les perdants le perdent chacun. En solo, 
 
 **Doppelkopf à cinq.** Le donneur ne joue pas la donne, ce qui permet de tourner.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-doppelkopf}
 - **Cartes :** 48 cartes (2 × 9, V, D, R, 10, As) ; As 11, 10 10, Roi 4, Dame 3, Valet 2 ; total 240.
 - **Atouts (26) :** 10 de cœur, Dames (trèfle, pique, cœur, carreau), Valets (même ordre), puis As, 10, Roi, 9 de carreau. Hors atout : As, 10, Roi, 9 (cœur : As, Roi, 9).
 - **Donne :** 4 fois 3 cartes : 12 chacun ; le joueur à gauche du donneur entame.
@@ -2368,6 +2570,8 @@ Le Doppelkopf est l'un des jeux d'équipe les plus vivants qui soient : l'incer
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — ambiance de brasserie, partenaire caché
 - **Challenge :** 4/5 — la logique des Ober et Unter et l'appel de l'As demandent du métier
+
+*Aller à l'[aide-mémoire](#memo-schafkopf-sheepshead).*
 
 ### En bref
 
@@ -2415,8 +2619,7 @@ On paie selon un tarif fixé d'avance, par exemple 10 centimes pour un jeu appel
 
 **[Doppelkopf](#jeu-doppelkopf).** Le descendant à double paquet, décrit plus haut.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-schafkopf-sheepshead}
 - **Cartes :** 32 cartes ; As 11, 10 10, Roi 4, Ober 3, Unter 2 ; total 120.
 - **Atouts (14) :** Ober (Glands, Feuilles, Cœur, Grelots), Unter (même ordre), puis As, 10, Roi, 9, 8, 7 de cœur. Hors atout : As, 10, Roi, 9, 8, 7.
 - **Donne :** 8 cartes chacun, par 4.
@@ -2430,6 +2633,107 @@ On paie selon un tarif fixé d'avance, par exemple 10 centimes pour un jeu appel
 
 Un jeu de brasserie authentique, rapide et sociable, plus intuitif que le Skat grâce à ses atouts fixes. Il exige d'apprendre la hiérarchie bavaroise et se joue traditionnellement pour de petites sommes. Une excellente porte d'entrée vers toute la famille des jeux allemands.
 
+## Schnapsen / Sechsundsechzig {#jeu-schnapsen-sechsundsechzig}
+*Autres noms : Schnapsen (Autriche, Hongrie : Snapszer), Sechsundsechzig ou Soixante-six (Allemagne, version à 24 cartes)*
+
+- **Famille :** jeu de plis à mariages (famille du Bézigue)
+- **Joueurs :** 2
+- **Matériel :** 20 cartes (as, 10, roi, dame, valet dans chaque couleur), 24 pour le Sechsundsechzig (avec les 9) ; papier ou allumettes pour les points
+- **Durée d'une partie :** 3 à 5 min par donne ; 20 à 30 min pour un « Bummerl »
+- **Âge conseillé :** dès 10 ans
+- **Diffusion :** Très répandu en Autriche, en Hongrie, dans le sud de l'Allemagne et en Europe centrale ; niche en France
+- **Hasard / réflexion :** 35 % hasard, 65 % réflexion
+- **Fun :** 4/5 — donnes éclair, retournements et décisions tranchantes
+- **Challenge :** 5/5 — comptage exact des points, timing de la fermeture : un jeu court mais d'une profondeur étonnante
+
+*Aller à l'[aide-mémoire](#memo-schnapsen-sechsundsechzig).*
+
+### En bref
+Deux joueurs, vingt cartes, une course à 66 points. Tant que la pioche dure, on joue librement en devinant la main adverse ; dès qu'elle est épuisée, ou qu'un joueur la ferme d'autorité, tout devient strict et calculable. Le cœur du jeu est là : choisir le bon moment pour fermer et annoncer « je sors ».
+
+### Histoire et origine
+Le Sechsundsechzig est attesté en Allemagne au début du XIXe siècle ; il appartient à la grande famille des jeux à mariages (roi et dame de même couleur), avec le [Bézigue](#jeu-bezigue), le Mariage et le [Pinochle](#jeu-pinochle). Le Schnapsen en est la forme autrichienne réduite à 20 cartes, plus rapide et plus tendue. En Autriche, il est un véritable jeu national, joué au café, dans les trains et dans les tournois ; on y joue souvent avec les cartes à enseignes allemandes (glands, feuilles, cœurs, grelots), où la dame est remplacée par l'Ober et le valet par l'Unter. Un jeu français de 52 cartes, dont on retire les cartes du 2 au 9, convient parfaitement.
+
+### But du jeu
+Être le premier à atteindre **66 points** de cartes dans une donne (cartes ramassées et mariages annoncés), et le déclarer. Gagner des donnes rapporte 1 à 3 points de partie ; on joue un **Bummerl**, manche de 7 points.
+
+### Mise en place
+
+| Carte | Points |
+| --- | --- |
+| As | 11 |
+| 10 | 10 |
+| Roi | 4 |
+| Dame | 3 |
+| Valet | 2 |
+
+L'ordre de force suit les points : as, 10, roi, dame, valet. Le paquet vaut 120 points.
+
+**Distribution :** le donneur distribue 3 cartes à chacun, retourne la carte suivante (elle fixe l'atout), puis donne 2 cartes à chacun. Chacun a donc 5 cartes. Les 9 cartes restantes forment le talon, posé face cachée en travers de l'atout retourné. Le donneur alterne à chaque donne.
+
+### Déroulement
+**Première phase : le talon est ouvert.**
+
+1. Le non-donneur entame. L'autre joue n'importe quelle carte : **pas d'obligation** de fournir ni de couper.
+2. La plus forte carte de la couleur entamée gagne, sauf si un atout a été joué.
+3. Le gagnant du pli pioche la première carte du talon, puis le perdant ; le gagnant entame le pli suivant.
+4. **Échange du valet d'atout :** le joueur qui a la main, juste avant d'entamer, peut échanger le valet d'atout de sa main contre la carte d'atout retournée, tant que le talon n'est ni fermé ni épuisé.
+5. **Mariages :** le joueur qui entame peut annoncer un mariage (roi et dame de même couleur) en montrant l'une des deux cartes et en jouant l'autre. Un mariage ordinaire vaut **20**, le mariage d'atout **40**. Les points ne comptent que si l'on a gagné (ou gagne ensuite) au moins un pli.
+
+**Fermer le talon.** Quand il a la main, avant d'entamer, un joueur peut **fermer** : il retourne l'atout face cachée sur le talon. On ne pioche plus, et l'on passe immédiatement aux règles strictes. Celui qui ferme s'engage à atteindre 66 avec les cartes en main.
+
+**Seconde phase : talon épuisé ou fermé.** Quand le gagnant d'un pli prend la dernière carte cachée, le perdant prend l'atout retourné. À partir de là (ou de la fermeture) :
+
+- il faut **fournir** la couleur demandée ;
+- il faut **monter** (battre la carte) si on le peut ;
+- sans la couleur, il faut **couper** ;
+- en Schnapsen, on peut encore annoncer des mariages pendant cette phase.
+
+**Sortir.** Un joueur qui pense avoir 66 points l'annonce (« je sors ») juste après avoir gagné un pli ou annoncé un mariage. La donne s'arrête, on compte.
+
+### Décompte des points
+Si l'annonce est juste, le sortant marque :
+
+- **1 point** si l'adversaire a 33 points ou plus ;
+- **2 points** si l'adversaire a moins de 33 points mais au moins un pli (*Schneider*) ;
+- **3 points** si l'adversaire n'a fait aucun pli (*Schwarz*).
+
+Si l'annonce est fausse (moins de 66), l'adversaire marque 2 points, ou 3 s'il n'avait encore fait aucun pli.
+
+Après une **fermeture**, le barème dépend de la situation de l'adversaire **au moment de la fermeture**. Si celui qui a fermé échoue, l'adversaire marque 2 points (3 s'il n'avait aucun pli au moment de la fermeture).
+
+Si personne ne sort et que tout le talon est joué, le gagnant du **dernier pli** marque 1 point.
+
+**Le Bummerl :** chaque joueur part de 7 et retire les points qu'il gagne ; le premier qui arrive à zéro gagne la manche, et le perdant « prend un Bummerl » (on le note d'un point noir).
+
+### Conseils de stratégie
+- **Comptez en permanence** vos points et ceux de l'adversaire. Tout le jeu repose sur la certitude d'avoir 66 ; une annonce fausse coûte cher.
+- **Ne gaspillez pas vos as et vos 10** pendant la phase libre : ce sont eux qui gagneront les plis stricts. Défaussez des valets et des dames sans mariage.
+- **Prenez les 10 adverses** avec vos as d'atout ou en coupant : un 10 qui passe vaut presque un mariage.
+- **Gardez vos mariages pour vos entames**, mais annoncez-les vite si la fin du talon approche : une dame ou un roi isolé peut vous être pris.
+- **Fermez au bon moment.** Une main forte en atouts avec 40 de mariage justifie souvent de fermer tôt, quand l'adversaire n'a encore presque rien : vous visez 2 ou 3 points.
+- **Confirmé :** déduisez la main adverse. À la fermeture, vous connaissez vos cinq cartes et toutes celles déjà jouées ; les cartes inconnues sont peu nombreuses. Les bons joueurs calculent les plis restants comme un problème d'échecs.
+
+### Variantes
+**Sechsundsechzig (66).** 24 cartes avec les 9 (valeur 0) ; on distribue 6 cartes à chacun (3 + 3) et le talon compte 11 cartes plus l'atout. C'est le 9 d'atout qui s'échange contre la carte retournée. Plus de mariage une fois le talon épuisé ou fermé. Si personne ne sort, le dernier pli vaut 10 points de plus et une égalité est possible. On compte souvent en montant de 0 à 7.
+
+**Schnapsen à trois ou à quatre (Dreierschnapsen, Bauernschnapsen).** Formes avec enchères et partenaires, très jouées dans les campagnes autrichiennes ; elles demandent une règle à part.
+
+**Schnapsen à 24 cartes.** Certains Autrichiens jouent avec les 9, mais selon les règles du Schnapsen (mariages après fermeture, pas de bonus de dernier pli).
+
+### Aide-mémoire {#memo-schnapsen-sechsundsechzig}
+- **Cartes :** 20 cartes ; As 11, 10 10, R 4, D 3, V 2 (120 au total) ; force dans cet ordre.
+- **Donne :** 3 cartes chacun, atout retourné, 2 cartes chacun ; talon de 9 + atout.
+- **Talon ouvert :** jeu libre ; le gagnant pioche le premier ; le valet d'atout s'échange contre l'atout retourné (avant d'entamer).
+- **Mariages :** R + D en entamant : 20, ou 40 à l'atout ; valides seulement avec un pli gagné.
+- **Talon fermé ou épuisé :** fournir, monter, couper obligatoirement.
+- **Sortir :** annoncer 66 après un pli gagné ou un mariage ; 1 point (adversaire 33 ou plus), 2 (moins de 33), 3 (aucun pli).
+- **Erreur :** annonce fausse ou fermeture ratée : 2 points à l'adversaire (3 s'il n'avait aucun pli).
+- **Fin de partie :** Bummerl de 7 points, décomptés de 7 à 0.
+
+### Verdict
+Le Schnapsen est peut-être le meilleur jeu de cartes à deux qui tienne dans vingt cartes : rapide, simple à apprendre, mais profond au point que les champions autrichiens y passent leur vie. Il séduira les amateurs de [Belote](#jeu-belote) et de [Piquet](#jeu-piquet) qui cherchent un duel nerveux, et se joue aussi bien entre deux stations de métro que lors d'une longue soirée. Ceux qui n'aiment pas compter dans leur tête souffriront : on n'y triche pas avec l'arithmétique.
+
 ## Jass (Schieber suisse) {#jeu-jass-schieber-suisse}
 *Autres noms : Schieber, Schieberjass ; le Jass désigne toute une famille de jeux suisses*
 
@@ -2442,6 +2746,8 @@ Un jeu de brasserie authentique, rapide et sociable, plus intuitif que le Skat g
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — le jeu des bistrots suisses, les annonces animent la table
 - **Challenge :** 4/5 — choix de l'atout, comptage, coordination avec le partenaire
+
+*Aller à l'[aide-mémoire](#memo-jass-schieber-suisse).*
 
 ### En bref
 
@@ -2496,8 +2802,7 @@ Chaque équipe additionne ses points de plis (157 au total, 257 en cas de match)
 
 **Bieter, Molotow, Kreuzjass, Handjass…** Il existe des dizaines de formes de Jass pour 2 à 6 joueurs ; le Schieber est la plus jouée.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-jass-schieber-suisse}
 - **Cartes :** 36 cartes. Atout : Bauer (Valet) 20, Nell (9) 14, As 11, Roi 4, Dame 3, 10 10, 8, 7, 6. Hors atout : As 11, Roi 4, Dame 3, Valet 2, 10 10, 9, 8, 7, 6.
 - **Donne :** 9 cartes chacun par 3 ; jeu dans le sens inverse des aiguilles d'une montre.
 - **Atout :** le joueur désigné choisit une couleur, Obenabe ou Undenufe, ou pousse à son partenaire ; il entame dans tous les cas.
@@ -2523,6 +2828,8 @@ Un jeu d'équipe vif, convivial, au vocabulaire savoureux. La liberté de couper
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — jeu de café par excellence, « roem » qui fait rire ou râler
 - **Challenge :** 4/5 — obligations strictes, gestion du risque du « nat »
+
+*Aller à l'[aide-mémoire](#memo-klaverjas).*
 
 ### En bref
 
@@ -2579,8 +2886,7 @@ Total : 152 points de cartes, plus **10 pour le dernier pli**, soit 162.
 
 **Troef-maken avec enchères.** Dans certaines compétitions, on enchérit sur un nombre de points.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-klaverjas}
 - **Cartes :** 32 cartes. Atout : Valet 20, 9 14, As 11, 10 10, Roi 4, Dame 3, 8, 7. Hors atout : As 11, 10 10, Roi 4, Dame 3, Valet 2, 9, 8, 7.
 - **Donne :** 8 cartes chacun (3, 2, 3) ; 16 donnes par partie.
 - **Atout :** choisi par le joueur à gauche du donneur (forme obligatoire), qui entame ; son équipe « joue ».
@@ -2603,6 +2909,8 @@ Un excellent jeu de quatre, familier aux amateurs de Belote mais avec ses propre
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — simple, rapide, propice aux échanges vifs entre partenaires
 - **Challenge :** 3/5 — mémoire des cartes, sans enchères
+
+*Aller à l'[aide-mémoire](#memo-sueca).*
 
 ### En bref
 
@@ -2660,8 +2968,7 @@ On joue souvent en 4 « jeux », la partie se gagnant à 4 points.
 
 **Sueca à deux ou trois.** Formes familiales avec une pioche, proches de la Bisca.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-sueca}
 - **Cartes :** 40 cartes (52 sans 8, 9, 10). Ordre : As 11, 7 10, Roi 4, Valet 3, Dame 2, puis 6, 5, 4, 3, 2 (0) ; total 120.
 - **Donne :** 10 cartes chacun ; la dernière carte du donneur est montrée et fixe l'atout.
 - **Jeu :** sens inverse des aiguilles d'une montre ; le joueur à droite du donneur entame.
@@ -2685,6 +2992,8 @@ Un jeu simple, rapide, qui laisse assez de place à la mémoire et à l'entente 
 - **Hasard / réflexion :** environ 60 % hasard, 40 % réflexion (Briscola à deux)
 - **Fun :** 4/5 — rapide, bavard, avec des signes entre partenaires à quatre
 - **Challenge :** 2/5 à deux ; 4/5 pour la chiamata, avec son partenaire caché
+
+*Aller à l'[aide-mémoire](#memo-briscola-et-briscola-chiamata).*
 
 ### En bref
 
@@ -2744,8 +3053,7 @@ On compte les points des plis : 61 pour gagner, 60 à 60 donne nulle. La partie
 
 **Brisca espagnole.** Même jeu avec le jeu espagnol de 40 cartes (le Cavalier y est un *Caballo*, le Valet une *Sota*).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-briscola-et-briscola-chiamata}
 - **Cartes :** 40 cartes italiennes. Ordre : As 11, 3 10, Roi 4, Cavalier 3, Valet 2, puis 7, 6, 5, 4, 2 (0) ; total 120.
 - **Donne :** 3 cartes chacun ; la carte suivante, retournée sous le talon, fixe la briscola et sera piochée en dernier.
 - **Jeu :** sens inverse des aiguilles d'une montre ; à deux, le non-donneur entame ; à quatre, le joueur à droite du donneur.
@@ -2770,6 +3078,8 @@ On compte les points des plis : 61 pour gagner, 60 à 60 donne nulle. La partie
 - **Hasard / réflexion :** environ 30 % hasard, 70 % réflexion
 - **Fun :** 3/5 — moins exubérant que la Briscola, plus concentré
 - **Challenge :** 4/5 — sans atout, tout repose sur le comptage et les signaux autorisés
+
+*Aller à l'[aide-mémoire](#memo-tressette).*
 
 ### En bref
 
@@ -2819,8 +3129,7 @@ On compte les points de cartes (en arrondissant à l'entier inférieur), le dern
 
 **Ciapanò** (ou Traversone). Tressette à l'envers : on cherche à faire le moins de points.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-tressette}
 - **Cartes :** 40 cartes italiennes, sans atout. Ordre : 3, 2, As, Roi, Cavalier, Valet, 7, 6, 5, 4.
 - **Valeurs :** As 1 ; 3, 2, Roi, Cavalier, Valet 1/3 ; dernier pli 1 ; total 11 par donne (tiers restants perdus).
 - **Donne :** 10 cartes chacun ; jeu dans le sens inverse des aiguilles d'une montre.
@@ -2845,6 +3154,8 @@ Un jeu élégant et exigeant, qui récompense la mémoire et la coopération. Le
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — les annonces de Roi et Cavalier font sensation
 - **Challenge :** 3/5 — deux phases de jeu aux règles très différentes
+
+*Aller à l'[aide-mémoire](#memo-tute).*
 
 ### En bref
 
@@ -2896,8 +3207,7 @@ Ordre de force : As, 3, Roi, Cavalier, Valet, 7, 6, 5, 4, 2. Total : 120 point
 
 **Tute subastado** (4 joueurs). On enchérit sur le nombre de points que l'on fera.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-tute}
 - **Cartes :** 40 cartes espagnoles. Ordre : As 11, 3 10, Roi 4, Cavalier 3, Valet 2, puis 7, 6, 5, 4, 2 (0) ; 120 points + 10 de dernier pli.
 - **Donne (à deux) :** 6 cartes chacun, une retourne d'atout, le reste en talon ; à quatre, 10 cartes chacun, la dernière du donneur fixe l'atout.
 - **Retourne :** échangeable contre le 7 d'atout (si c'est un As, un 3 ou une figure) ou le 2 d'atout (si c'est un 4 à 7).
@@ -2911,6 +3221,103 @@ Ordre de force : As, 3, Roi, Cavalier, Valet, 7, 6, 5, 4, 2. Total : 120 point
 
 Un jeu populaire, bavard, où les cantes et la menace d'un Tute donnent du relief à chaque donne. L'enchaînement des deux phases rappelle le [Bésigue](#jeu-bezigue) ou le Mariage allemand. Très plaisant pour découvrir la culture des cartes espagnoles, il laisse un peu plus de place à la chance que les jeux à enchères.
 
+## Hombre {#jeu-hombre}
+*Autres noms : L'Hombre, Ombre, Jeu de l'Hombre ; Tresillo (Espagne), Rocambor (Pérou, Bolivie), Lomber (Danemark)*
+
+- **Famille :** jeu de plis à enchères (jeu historique)
+- **Joueurs :** 3 (à 4, le donneur ne joue pas la donne)
+- **Matériel :** 40 cartes (jeu de 52 sans les 8, 9 et 10) ; jetons
+- **Durée d'une partie :** 5 min par donne ; on joue un nombre de tours convenu (1 h environ)
+- **Âge conseillé :** dès 14 ans
+- **Diffusion :** Niche (encore organisé en club au Danemark ; formes cousines en Espagne et en Amérique du Sud)
+- **Hasard / réflexion :** 35 % hasard, 65 % réflexion
+- **Fun :** 3/5 — beaucoup de saveur et de mots étranges, mais il faut entrer dans sa logique
+- **Challenge :** 4/5 — enchères, échange et jeu à un contre deux demandent un vrai jugement
+
+*Aller à l'[aide-mémoire](#memo-hombre).*
+
+### En bref
+Trois joueurs, quarante cartes, et un ordre des atouts qui défie la logique ordinaire : l'as de pique est toujours le plus fort atout, l'as de trèfle toujours le troisième, et entre eux se glisse la carte la plus faible de la couleur d'atout. Celui qui remporte les enchères, « l'Hombre » (l'homme), joue seul contre les deux autres et doit faire plus de plis que chacun d'eux. C'est le grand-père de presque tous les jeux à enchères européens.
+
+### Histoire et origine
+L'Hombre naît en Espagne, au début du XVIIe siècle au plus tard, comme version à trois d'un jeu à quatre plus ancien. Il franchit les Pyrénées sous Louis XIV et devient pendant plus d'un siècle **le** jeu des salons européens : on le joue à Versailles, à Londres (Alexander Pope en décrit une partie entière dans *La Boucle de cheveux enlevée*, 1714), à Vienne et à Copenhague. Son vocabulaire espagnol (spadille, manille, baste, codille, matadors) est passé dans toutes les langues. Il est l'un des premiers jeux à enchères : l'idée qu'un joueur « prenne » le contrat contre les autres a engendré le Quadrille, le [Tarot](#jeu-tarot), le [Skat](#jeu-skat), le [Boston](#jeu-boston) et le [Preferans](#jeu-preferans). Détrôné à la fin du XVIIIe siècle par le Quadrille puis le [Whist](#jeu-whist), il survit au Danemark (où une association de joueurs l'organise encore), en Espagne sous le nom de Tresillo et en Amérique du Sud sous celui de Rocambor. Les règles ci-dessous suivent la forme danoise décrite par pagat, la mieux documentée aujourd'hui.
+
+### But du jeu
+Pour l'Hombre (le déclarant) : faire plus de plis que chacun des deux défenseurs pris séparément. Pour les défenseurs : l'en empêcher, et si possible faire plus de plis que lui.
+
+### Mise en place
+On retire les 8, 9 et 10 d'un jeu de 52 : il reste 40 cartes.
+
+**Ordre des cartes hors atout :**
+
+- couleurs noires (pique, trèfle) : roi, dame, valet, 7, 6, 5, 4, 3, 2 (les as noirs sont toujours des atouts, voir plus bas) ;
+- couleurs rouges (cœur, carreau) : roi, dame, valet, **as, 2, 3, 4, 5, 6, 7** (dans les rouges, les petites cartes sont plus fortes que les grandes).
+
+**Ordre des atouts :**
+
+- atout noir (11 cartes) : **spadille** (as de pique), **manille** (le 2 d'atout), **baste** (as de trèfle), roi, dame, valet, 7, 6, 5, 4, 3 ;
+- atout rouge (12 cartes) : **spadille** (as de pique), **manille** (le 7 d'atout), **baste** (as de trèfle), **ponte** (l'as d'atout), roi, dame, valet, 2, 3, 4, 5, 6.
+
+La manille est donc la carte qui serait la plus faible de la couleur d'atout. Spadille, manille et baste sont les trois **matadors**.
+
+**Distribution :** le donneur distribue **9 cartes** à chaque joueur, trois par trois, dans le sens inverse des aiguilles d'une montre, en commençant par le joueur à sa droite (le premier en main). Les **13 cartes** restantes forment le talon, face cachée.
+
+### Déroulement
+**Les enchères.** Le premier en main parle d'abord, puis le second, puis le donneur. Chacun peut passer (et ne reparle plus) ou annoncer un contrat plus élevé ; un joueur placé avant dans l'ordre peut « tenir » l'enchère d'un joueur placé après lui (dire « moi aussi »). Quand deux joueurs ont passé, le troisième devient l'Hombre. Si tous passent, on redonne. Contrats, du plus faible au plus fort :
+
+1. **Jeu simple** : l'Hombre nomme l'atout et échange avec le talon (valeur 1).
+2. **Jeu de pique** : pareil, pique atout (1).
+3. **Tourné** : la première carte du talon est retournée et fixe l'atout (1).
+4. **Nolo simple** : sans atout, l'Hombre ne doit faire aucun pli ; il est seul à échanger (2).
+5. **Grand tourné** : comme le tourné, mais l'Hombre doit tenir spadille et baste (2).
+6. **Solo** (« sans prendre ») : l'Hombre nomme l'atout et joue sans échanger ; seuls les défenseurs échangent (2).
+7. **Nolo pur** (sans échange) ou **solo de pique** (3).
+8. **Nolo ouvert** : nolo pur, main de l'Hombre étalée après la première carte (5).
+
+**L'échange.** L'Hombre écarte face cachée autant de cartes qu'il veut et en reprend autant sur le talon. Puis, dans les contrats à atout, chaque défenseur en fait autant avec ce qui reste. Les cartes non prises « dorment » face cachée.
+
+**Le jeu de la carte.** Le premier en main entame le premier pli, quel que soit l'Hombre. On joue dans le sens inverse des aiguilles d'une montre. Il faut **fournir** la couleur demandée ; sans elle, on joue ce qu'on veut (couper n'est pas obligatoire). La plus forte carte de la couleur entamée gagne, sauf si un atout est joué. Le gagnant entame le pli suivant.
+
+**Le privilège des matadors.** Quand on entame atout, un joueur n'est pas obligé de fournir un matador s'il n'a pas d'autre atout : il peut jouer autre chose. Exception : si l'entame est un matador plus fort que le sien, il doit le fournir. Spadille, la plus haute, ne peut jamais être forcée.
+
+### Décompte des points
+Sur 9 plis :
+
+- **Gagné** : l'Hombre fait plus de plis que chacun des défenseurs (5 plis, ou 4 contre 3 et 2). Chaque défenseur lui paie la valeur du contrat.
+- **Remise** (bête) : l'Hombre égale le défenseur le plus fort (4-4-1 ou 3-3-3). Il paie la valeur du contrat à chacun.
+- **Codille** : un défenseur fait plus de plis que l'Hombre. L'Hombre paie la remise plus un supplément (1 pour les petits contrats, 2 pour le nolo pur et le solo de pique, 3 pour le nolo ouvert).
+- **Vole** (tout) : l'Hombre qui annonce avant le sixième pli qu'il fera les 9 plis et y parvient reçoit 1 jeton de plus de chacun ; s'il échoue, il paie 1 jeton à chacun, mais garde le gain du contrat.
+
+Au nolo, l'Hombre gagne sans aucun pli ; un pli fait une remise, deux plis une codille.
+
+Dans les règles anciennes, une partie des paiements passait par un pot (la « poule ») alimenté à chaque donne ; on peut le reprendre si l'on aime le parfum d'époque.
+
+### Conseils de stratégie
+- **Ne prenez pas sans deux matadors**, ou au moins un matador et une longue couleur d'atout. Spadille et baste valent chacune un pli presque sûr.
+- **Écartez franchement.** L'échange avec 13 cartes de talon est généreux : jetez vos couleurs courtes pour pouvoir couper.
+- **Retenez l'ordre inversé des rouges** : le 2 de cœur bat le 7 de cœur hors atout. C'est la première erreur des débutants.
+- **En défense, coopérez sans parler** : celui qui a le plus de plis possibles joue fort, l'autre l'alimente. Un défenseur ne doit pas « voler » la codille à son partenaire au risque de laisser gagner l'Hombre.
+- **Utilisez le privilège des matadors** pour garder votre spadille hors de portée d'une entame atout adverse.
+
+### Variantes
+**Quadrille.** L'Hombre à quatre, en vogue en France au XVIIIe siècle : l'Hombre appelle un roi pour désigner son partenaire secret, idée reprise plus tard par le [Tarot](#jeu-tarot) à cinq.
+
+**Tresillo et Rocambor.** Formes espagnole et sud-américaine, avec des contrats et des paiements différents ; le Rocambor se joue aussi à cinq.
+
+**Grand.** Contrat sans atout ajouté par certaines tables danoises, de valeur négociée à l'avance.
+
+### Aide-mémoire {#memo-hombre}
+- **Cartes :** 40 (sans 8, 9, 10) ; noires hors atout R D V 7…2 ; rouges hors atout R D V A 2…7.
+- **Atouts :** spadille (A pique), manille (2 noir ou 7 rouge d'atout), baste (A trèfle), ponte (A rouge d'atout), puis R D V… ; 11 atouts en noir, 12 en rouge.
+- **Donne :** 9 cartes chacun par 3, talon de 13.
+- **Contrats :** jeu simple 1, pique 1, tourné 1, nolo simple 2, grand tourné 2, solo 2, nolo pur et solo de pique 3, nolo ouvert 5.
+- **Obligations :** fournir ; couper libre ; matadors non forcés par un atout plus faible.
+- **Résultat :** plus de plis que chaque défenseur = gagné ; égalité = remise (paie la valeur) ; défenseur devant = codille (remise + 1, 2 ou 3).
+- **Vole :** annoncée avant le 6e pli, +1 de chacun ; ratée, -1 à chacun.
+
+### Verdict
+L'Hombre est un voyage dans le temps : jouer à la table de Madame de Sévigné, avec des mots qui sonnent comme un roman de cape et d'épée. Pour trois joueurs curieux et patients, c'est un jeu fin et équilibré, dont on comprend vite pourquoi il a régné deux siècles. Ceux qui n'aiment pas apprendre un ordre de cartes contre-intuitif lui préféreront son petit-fils le [Preferans](#jeu-preferans), plus régulier.
+
 ## Truco {#jeu-truco}
 *Autres noms : Truc (Catalogne, Valence), Truque ; Truco uruguayen, Truco paulista ou gaúcho (Brésil)*
 
@@ -2923,6 +3330,8 @@ Un jeu populaire, bavard, où les cantes et la menace d'un Tute donnent du relie
 - **Hasard / réflexion :** environ 40 % hasard, 60 % bluff et réflexion
 - **Fun :** 5/5 — défis à voix haute, mimiques, provocations rituelles
 - **Challenge :** 4/5 — bluff, lecture des adversaires, gestion des enchères
+
+*Aller à l'[aide-mémoire](#memo-truco).*
 
 ### En bref
 
@@ -2999,8 +3408,7 @@ On marque traditionnellement avec des haricots ou des allumettes dessinant des c
 
 **Truco à deux ou six.** À six, en deux équipes de trois, on alterne des manches à six et des duels (*pica-pica*).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-truco}
 - **Cartes :** 40 cartes espagnoles. Ordre : As d'épées, As de bâtons, 7 d'épées, 7 de deniers, les 3, les 2, As de coupes et de deniers, 12, 11, 10, 7 de coupes et de bâtons, 6, 5, 4.
 - **Donne :** 3 cartes chacun, une à une, sens inverse des aiguilles d'une montre ; la « main » (à droite du donneur) parle et joue en premier.
 - **Plis :** ni atout ni obligation ; meilleur de trois ; égalités (parda) : le pli suivant décide, sinon le gagnant du premier, sinon la main.
@@ -3024,6 +3432,8 @@ Le Truco est l'un des jeux de cartes les plus joyeux et les plus sociaux du mond
 - **Hasard / réflexion :** environ 40 % hasard, 60 % bluff et réflexion
 - **Fun :** 5/5 — paris, « órdago » qui joue toute la partie sur un coup
 - **Challenge :** 4/5 — lecture des signes, des adversaires et des probabilités
+
+*Aller à l'[aide-mémoire](#memo-mus).*
 
 ### En bref
 
@@ -3078,8 +3488,7 @@ On marque avec des jetons : un **amarraco** vaut 5 points, une **piedra** 1 poi
 
 **Mus sans signes.** Dans certains tournois en ligne ou de débutants, les signes sont interdits.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-mus}
 - **Cartes :** 40 cartes espagnoles ; à « huit rois », les 3 sont des Rois et les 2 des As.
 - **Valeurs (Juego) :** figures et 3 valent 10 ; As et 2 valent 1 ; les autres leur valeur.
 - **Donne :** 4 cartes chacun ; la main (à droite du donneur) parle d'abord et gagne les égalités.
@@ -3105,6 +3514,8 @@ Un jeu fascinant et profondément culturel, où le bluff compte plus que les car
 - **Hasard / réflexion :** environ 30 % hasard, 70 % réflexion
 - **Fun :** 3/5 — passionnant pour les initiés, la marque est austère
 - **Challenge :** 5/5 — un Bridge à trois, avec défense coopérative et comptages subtils
+
+*Aller à l'[aide-mémoire](#memo-preferans).*
 
 ### En bref
 
@@ -3155,8 +3566,7 @@ Quand la somme des pulkas atteint le total convenu, on convertit la montagne et 
 
 **Preferans à quatre.** Le donneur ne joue pas la donne et touche parfois une part du résultat.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-preferans}
 - **Cartes :** 32 cartes, As fort ; enchères : pique < trèfle < carreau < cœur < sans-atout.
 - **Donne :** 10 cartes chacun, 2 au talon, souvent par deux.
 - **Enchères :** de 6 pique à 10 SA ; qui passe ne revient plus ; misère entre 8 SA et 9 pique, seulement pour un joueur qui n'a pas encore enchéri.
@@ -3182,6 +3592,8 @@ Le Preferans est l'un des plus beaux jeux à trois, d'une profondeur comparable 
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — le choix de l'atout sur cinq cartes crée du suspense, le « court » est spectaculaire
 - **Challenge :** 3/5 — simple, mais demande mémoire et coordination
+
+*Aller à l'[aide-mémoire](#memo-court-piece-rang).*
 
 ### En bref
 
@@ -3225,8 +3637,7 @@ On compte les **courts**. Un court se marque soit en gagnant les sept premières
 
 **Hokm** (Iran). Même principe, partie en 7 donnes ; il existe aussi des formes à 2 et 3 joueurs.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-court-piece-rang}
 - **Cartes :** 52 cartes, As fort ; jeu dans le sens inverse des aiguilles d'une montre.
 - **Donne :** 5 cartes chacun ; le joueur à droite du donneur nomme l'atout ; puis 4 et 4 cartes : 13 chacun.
 - **Entame :** le preneur (à droite du donneur).
@@ -3238,6 +3649,117 @@ On compte les **courts**. Un court se marque soit en gagnant les sept premières
 ### Verdict
 
 Un jeu d'équipe simple et populaire, parfait pour quatre joueurs qui veulent un Whist plus nerveux. Le choix de l'atout sur cinq cartes est une belle idée. Pour plus de profondeur, on lui préférera le [Twenty-Nine](#jeu-twenty-nine), son voisin indien.
+
+## Sheng Ji (Tracteur) {#jeu-sheng-ji-tracteur}
+*Autres noms : Tuolaji (« tracteur »), Bashi fen (« quatre-vingts points »), Shengji (« monter de niveau »), Shuang sheng*
+
+- **Famille :** jeu de plis en équipes, avec paires et suites
+- **Joueurs :** 4, en deux équipes de 2 (variantes de 5 à 7 joueurs)
+- **Matériel :** 2 jeux de 52 cartes et 4 jokers (2 rouges, 2 noirs), soit 108 cartes ; papier pour noter les niveaux
+- **Durée d'une partie :** 1 h 30 à 3 h pour une partie complète (de 2 à l'as) ; 10 à 15 min par donne
+- **Âge conseillé :** dès 12 ans
+- **Diffusion :** Très répandu en Chine et dans la diaspora chinoise ; niche en France
+- **Hasard / réflexion :** 30 % hasard, 70 % réflexion
+- **Fun :** 4/5 — les donnes basculent souvent au dernier pli, et le jeu d'équipe crée une vraie complicité
+- **Challenge :** 5/5 — mémoire de deux paquets, lecture du partenaire, gestion de l'écart : on progresse pendant des années
+
+*Aller à l'[aide-mémoire](#memo-sheng-ji-tracteur).*
+
+### En bref
+Deux équipes s'affrontent pour gravir une échelle de niveaux, du 2 jusqu'à l'as. À chaque donne, une équipe attaque et tente de ramasser les cartes qui comptent (les 5, les 10 et les rois) ; l'autre défend. Avec deux paquets mêlés, les cartes existent en double : on peut jouer des paires et des « tracteurs », suites de paires qui écrasent tout sur leur passage. L'atout change à chaque donne et dépend du niveau de l'équipe : aucune donne ne ressemble à la précédente.
+
+### Histoire et origine
+La famille du Sheng Ji est chinoise et relativement récente : elle s'est répandue dans la seconde moitié du XXe siècle, en particulier à partir des années 1960, et ses règles n'ont jamais été unifiées. Chaque région, chaque université, chaque famille a ses usages, et les noms changent avec eux : « 80 points » dans le Nord, « Tracteur » ailleurs, « Shuang kou » (« double creusage ») dans certaines provinces. Le jeu est aujourd'hui l'un des plus pratiqués du pays, en famille pendant les fêtes du Nouvel An comme sur les grandes plateformes de jeu en ligne, et il a suivi les communautés chinoises du monde entier. Il cousine avec le [Guandan](#jeu-guandan), autre jeu à deux paquets et à niveaux, qui relève lui des jeux de défausse.
+
+### But du jeu
+Être la première équipe à dépasser l'as sur l'échelle des niveaux : 2, 3, 4… 10, valet, dame, roi, as. On monte de niveau en réussissant sa donne quand on est déclarant, ou en ramassant au moins 80 points de cartes quand on est adversaire.
+
+### Mise en place
+Les partenaires sont assis face à face. Les deux équipes commencent au niveau **2**.
+
+**Valeur des cartes :** seuls trois rangs rapportent des points. Chaque **5** vaut 5 points, chaque **10** et chaque **roi** valent 10 points. Le paquet complet contient 200 points (100 par jeu de 52).
+
+**Atouts :** à chaque donne, le **rang d'atout** est le niveau de l'équipe déclarante (le 2 à la première donne). Sont atouts : les quatre jokers, toutes les cartes du rang d'atout (quelle que soit leur couleur) et toutes les cartes de la couleur d'atout. Ordre des atouts, du plus fort au plus faible, si le rang est 2 et la couleur cœur :
+
+1. joker rouge (les deux sont égaux entre eux) ;
+2. joker noir ;
+3. 2 de cœur (rang d'atout dans la couleur d'atout) ;
+4. les autres 2 (pique, trèfle, carreau), égaux entre eux ;
+5. as, roi, dame… 3 de cœur.
+
+Dans les couleurs ordinaires, l'ordre est as, roi, dame, valet, 10… jusqu'au plus petit, en sautant le rang d'atout (qui est parti dans les atouts). Entre deux cartes égales (deux jokers rouges, deux 2 de pique, un 2 de pique et un 2 de trèfle), la première jouée l'emporte.
+
+**Distribution :** à la chinoise, chacun **pioche une carte à la fois** dans le paquet posé au centre, dans le sens inverse des aiguilles d'une montre (on peut aussi distribuer normalement). Chacun reçoit 25 cartes ; les **8 dernières** restent face cachée : c'est le « fond » ou l'écart.
+
+**Choisir l'atout pendant la distribution :** dès qu'un joueur reçoit une carte du rang d'atout, il peut l'exposer : sa couleur devient l'atout. On peut attendre pour voir le reste de sa main, au risque d'être devancé.
+
+- Une **paire** de cartes identiques du rang d'atout (deux 2 de pique) bat une carte seule, même exposée par son partenaire.
+- Une **paire de jokers identiques** (deux rouges ou deux noirs) bat une paire et fait jouer la donne **sans couleur d'atout** : seuls les jokers et les cartes du rang d'atout sont alors atouts.
+- On ne peut pas renforcer sa propre exposition (passer de sa carte seule à sa paire) pour contrer quelqu'un ; une fois une paire exposée, seule une paire de jokers peut la renverser.
+- Si personne n'a rien exposé, on retourne une à une les cartes du fond : la première carte du rang d'atout fixe la couleur ; à défaut, la couleur de la plus forte carte retournée (hors joker).
+
+**Qui déclare :** à la première donne, l'équipe du joueur qui a fixé l'atout devient **déclarante**, et ce joueur est le **meneur** (le « banquier », *zhuangjia*). Aux donnes suivantes, si les déclarants ont réussi, le partenaire du meneur prend la main ; s'ils ont échoué, les adversaires deviennent déclarants et le joueur à droite de l'ancien meneur devient meneur.
+
+**L'écart :** le meneur ramasse les 8 cartes du fond, puis en écarte 8 face cachée. C'est un moment clé : on y cache des cartes inutiles, on y crée des coupes franches, mais attention aux points qu'on y laisse (voir le dernier pli).
+
+### Déroulement
+Le meneur entame le premier pli. Le gagnant d'un pli entame le suivant. Chaque entame impose à chacun de fournir **le même nombre de cartes**.
+
+1. **Carte seule.** On doit fournir la couleur demandée (rappel : tous les atouts, jokers et cartes du rang d'atout compris, forment une seule « couleur »). Sans la couleur, on joue ce qu'on veut, y compris un atout, qui coupe. La plus forte carte de la couleur demandée gagne, sauf si un atout a été joué.
+2. **Paire.** Deux cartes rigoureusement identiques (même rang, même couleur). On doit répondre par une paire de la couleur si on en a une ; sinon par deux cartes de la couleur ; sinon par une carte de la couleur et une autre ; sinon par deux cartes quelconques. Seule une paire peut battre une paire : la plus forte paire de la couleur, ou une paire d'atout si on n'a plus la couleur.
+3. **Tracteur.** Deux paires ou plus de rangs consécutifs dans la même couleur (8-8-9-9, ou 10-10-V-V-D-D). On doit répondre avec un tracteur de même longueur si possible, sinon avec autant de paires de la couleur que possible, puis des cartes isolées de la couleur, puis n'importe quoi. Un tracteur n'est battu que par un tracteur plus fort de même longueur (ou un tracteur d'atout). Le rang d'atout étant sauté, 7-7-9-9 forme un tracteur quand le 8 est atout ; dans les atouts, la plupart des tables admettent aussi des tracteurs comme paire de 2 hors couleur + paire de 2 d'atout + paire de jokers noirs.
+4. **Lancer (combinaison maîtresse).** On peut entamer plusieurs cartes d'une même couleur (seules, paires, tracteurs mélangés) à condition que **chacune soit maîtresse** : aucune carte ou combinaison plus forte de cette couleur ne doit rester chez les autres. Les adversaires fournissent le même nombre de cartes en respectant la forme autant qu'ils le peuvent. Un lancer dans une couleur ordinaire ne peut être pris que par des atouts de même forme (une paire d'atout contre une paire, etc.).
+5. **Lancer raté.** Si un adversaire peut battre un élément du lancer, le lancer est annulé : le joueur reprend ses cartes et doit jouer l'élément battable. Pénalité selon pagat : 10 points de cartes par carte reprise, transférés à l'autre équipe. Beaucoup de tables chinoises se contentent d'obliger à jouer la plus petite composante.
+
+Les adversaires des déclarants posent devant eux les 5, 10 et rois qu'ils gagnent. Les plis gagnés par les déclarants ne comptent pas.
+
+**Le dernier pli.** Si les adversaires gagnent le dernier pli, on retourne l'écart et ses points s'ajoutent aux leurs, **doublés** si le dernier pli était une carte seule, multipliés par 4 si c'était une paire, par 8 pour un tracteur de deux paires (deux fois le nombre de cartes de l'entame). Un fond chargé en points est une bombe à retardement.
+
+### Décompte des points
+Seuls les points des **adversaires** comptent (écart éventuel compris). Barème de pagat :
+
+- 0 point : les déclarants montent de **3** niveaux ;
+- 5 à 35 : les déclarants montent de **2** niveaux ;
+- 40 à 75 : les déclarants montent de **1** niveau ;
+- 80 à 115 : les adversaires deviennent déclarants, sans monter ;
+- 120 à 155 : ils deviennent déclarants et montent de 1 ;
+- 160 à 195 : de 2 ; 200 à 235 : de 3 ; puis un niveau de plus par tranche de 40.
+
+La première équipe qui dépasse l'as gagne la partie. Le niveau de chaque équipe reste acquis : seule l'équipe déclarante joue « à son niveau ».
+
+### Conseils de stratégie
+- **Comptez les points, pas les plis.** Il reste 200 points en jeu : les déclarants doivent en concéder moins de 80. Un pli sans 5, 10 ni roi n'a aucune valeur en soi, il ne sert qu'à garder la main.
+- **Comptez les gros atouts.** Quatre jokers, huit cartes du rang d'atout : savoir combien sont tombés dit quand vos as deviennent maîtres.
+- **Ne cassez pas vos paires.** Une paire vaut bien plus que deux cartes isolées : elle force l'adversaire à casser les siennes. Défaussez vos cartes seules en priorité.
+- **Nourrissez votre partenaire.** Quand votre partenaire gagne un pli, jetez-y vos 10 et vos rois (en défense surtout). Quand l'adversaire gagne, donnez-lui des cartes sans valeur.
+- **L'écart du meneur :** videz une couleur courte pour pouvoir couper, gardez vos paires, et n'y enterrez des points que si vous êtes sûr de garder la maîtrise jusqu'au bout.
+- **Gardez de gros atouts pour la fin.** Les adversaires vont viser le dernier pli pour retourner l'écart : celui qui garde une paire de jokers pour la dernière levée a souvent la donne en main.
+- **Confirmé :** jouez des lancers dès que vous êtes sûr qu'ils sont maîtres ; ils vident votre main sans risque et privent l'adversaire de ses coupes. Et n'exposez pas d'atout trop tôt si votre main est faible : mieux vaut laisser l'adversaire déclarer et le défendre.
+
+### Variantes
+**Niveaux obligatoires.** Certains rangs (souvent le 5, le 10 et le roi, ou seulement l'as) ne peuvent pas être sautés : une équipe qui devrait les dépasser s'y arrête et doit les jouer.
+
+**Valet ou as « crochet ».** Quand on joue au niveau du valet ou de l'as, certaines tables imposent des conditions particulières (gagner le dernier pli avec un valet, par exemple) ; ces règles varient beaucoup.
+
+**Zhao Pengyou (« trouver des amis »).** Pour 5 à 7 joueurs, avec la moitié autant de paquets que de joueurs (arrondie à l'inférieur). Le meneur annonce une ou plusieurs cartes (« le premier as de cœur joué ») : ceux qui les jouent deviennent ses partenaires, révélés en cours de donne. Une excellente variante de groupe.
+
+**Six joueurs.** Trois paquets et six jokers, deux équipes de trois alternées autour de la table.
+
+**Distribution classique.** Ceux qui trouvent la pioche une à une trop lente distribuent les cartes normalement, puis exposent l'atout après coup selon les mêmes priorités.
+
+### Aide-mémoire {#memo-sheng-ji-tracteur}
+- **Cartes :** 2 jeux de 52 + 4 jokers ; points : 5 = 5, 10 = 10, R = 10 (200 au total).
+- **Atouts :** joker rouge, joker noir, rang d'atout dans la couleur d'atout, autres cartes du rang d'atout (égales), puis la couleur d'atout de l'as au plus petit.
+- **Donne :** 25 cartes chacun, 8 au fond ; on expose une carte (ou une paire) du rang d'atout pour fixer la couleur ; paire de jokers = sans couleur.
+- **Écart :** le meneur prend les 8 cartes du fond et en écarte 8, puis entame.
+- **Obligations :** fournir le même nombre de cartes, dans la couleur, en respectant paires et tracteurs autant que possible ; sinon libre (atout coupe).
+- **Lancer raté :** jouer la composante battable ; 10 points par carte reprise à l'autre équipe.
+- **Dernier pli aux adversaires :** points de l'écart x 2 (carte seule), x 4 (paire), x 8 (tracteur de 4 cartes).
+- **Niveaux :** adversaires à 0 : +3 aux déclarants ; 5-35 : +2 ; 40-75 : +1 ; 80-115 : changement de camp ; puis +1 par tranche de 40.
+- **Fin de partie :** première équipe à dépasser l'as.
+
+### Verdict
+Le Sheng Ji est l'un des plus grands jeux de plis du monde, et l'un des moins connus en Occident. Il demande un peu d'apprentissage (l'ordre des atouts déroute à la première donne) et quatre joueurs motivés, mais il récompense par une richesse rare : paires, tracteurs, lancers et écart donnent à chaque donne une dimension tactique que la [Belote](#jeu-belote) ou le [Whist](#jeu-whist) n'ont pas. Les amateurs de [Tichu](#jeu-tichu) et de [Bridge](#jeu-bridge) l'adoreront. Ceux qui préfèrent les parties courtes ou sans effort de mémoire passeront leur chemin : une partie complète est une affaire de soirée.
 
 ## Twenty-Nine {#jeu-twenty-nine}
 *Autres noms : 29, Kaali Teeggi (variante apparentée)*
@@ -3251,6 +3773,8 @@ Un jeu d'équipe simple et populaire, parfait pour quatre joueurs qui veulent un
 - **Hasard / réflexion :** environ 35 % hasard, 65 % réflexion
 - **Fun :** 4/5 — atout secret, révélation théâtrale
 - **Challenge :** 4/5 — enchères sur des points, déduction de l'atout caché
+
+*Aller à l'[aide-mémoire](#memo-twenty-nine).*
 
 ### En bref
 
@@ -3306,8 +3830,7 @@ L'équipe du preneur gagne 1 point de partie si elle atteint son enchère, en pe
 
 **Jeu à trois.** Chacun pour soi, avec des paquets réduits.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-twenty-nine}
 - **Cartes :** 32 cartes. Ordre et valeur : Valet 3, 9 2, As 1, 10 1, Roi, Dame, 8, 7 (0) ; total 28.
 - **Donne :** 4 cartes chacun, enchères, puis 4 de plus : 8 cartes.
 - **Enchères :** de 15 ou 16 à 28 ; le preneur pose face cachée une carte de la couleur d'atout.
@@ -3332,6 +3855,8 @@ Le Twenty-Nine est sans doute le plus beau jeu de plis du sous-continent indien.
 - **Hasard / réflexion :** environ 60 % hasard, 40 % réflexion
 - **Fun :** 3/5 — rapide et léger, enchères audacieuses
 - **Challenge :** 2/5 — peu de cartes, peu de décisions
+
+*Aller à l'[aide-mémoire](#memo-napoleon-nap).*
 
 ### En bref
 
@@ -3373,8 +3898,7 @@ Le preneur reçoit de chaque adversaire autant de jetons que son enchère s'il r
 
 **Pool** : chaque donneur met des jetons dans un pot, que remporte le premier Nap réussi.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-napoleon-nap}
 - **Cartes :** 52 cartes, As fort ; 5 cartes chacun.
 - **Enchères :** une seule fois chacun : 2 (ou 3), 3, misère, 4, Nap (5) ; Wellington après un Nap, Blücher après un Wellington.
 - **Atout :** la couleur de la première carte du preneur, qui entame ; misère sans atout.
@@ -3396,6 +3920,8 @@ Un jeu de pub léger, amusant pour des parties sans prétention et les tables no
 - **Hasard / réflexion :** environ 25 % hasard, 75 % réflexion
 - **Fun :** 3/5 — tendu et cérébral
 - **Challenge :** 5/5 — l'un des jeux de levées les plus fins pour trois
+
+*Aller à l'[aide-mémoire](#memo-ninety-nine).*
 
 ### En bref
 
@@ -3439,8 +3965,7 @@ Faire **exactement** le nombre de levées annoncé, et accumuler le plus de poin
 
 **Sans annonce déclarée.** Règle simplifiée pour débutants.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-ninety-nine}
 - **Cartes :** 36 cartes (As à 6, As fort) ; 12 cartes chacun à trois.
 - **Annonce :** 3 cartes posées face cachée ; trèfle 3, cœur 2, pique 1, carreau 0 ; total de 0 à 9 ; 9 cartes jouées.
 - **Déclarer / révéler :** montrer ses cartes d'annonce (+30) ou toute sa main (+60) ; un seul joueur par donne.
@@ -3463,6 +3988,8 @@ Un petit bijou pour trois joueurs exigeants, plus subtil qu'il n'y paraît : ch
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — annonces exactes, Sorciers qui renversent tout
 - **Challenge :** 3/5 — estimation des levées, lecture de l'atout
+
+*Aller à l'[aide-mémoire](#memo-wizard).*
 
 ### En bref
 
@@ -3507,8 +4034,7 @@ Après la distribution, on retourne la carte suivante du paquet : sa couleur es
 
 **Wizard Extreme** et les extensions modernes ajoutent des cartes spéciales (Dragon, Fée, Bombe…) aux effets particuliers.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-wizard}
 - **Cartes :** 60 cartes : 52 cartes (As fort), 4 Sorciers, 4 Bouffons.
 - **Manches :** 60 / nombre de joueurs (20 à 3, 15 à 4, 12 à 5, 10 à 6) ; 1 carte à la manche 1, 2 à la manche 2, etc.
 - **Atout :** carte retournée ; Sorcier : le donneur choisit ; Bouffon ou plus de carte : sans atout.
@@ -3533,6 +4059,8 @@ Un excellent jeu familial et de soirée : facile à expliquer, tendu à chaque 
 - **Hasard / réflexion :** environ 30 % hasard, 70 % réflexion
 - **Fun :** 5/5 — on gagne ou on perd ensemble, chaque échec donne envie de recommencer
 - **Challenge :** 4/5 — déduction à partir d'informations très limitées
+
+*Aller à l'[aide-mémoire](#memo-the-crew).*
 
 ### En bref
 
@@ -3579,8 +4107,7 @@ Il n'y a pas de points : on gagne ou l'on perd la mission. Le livret garde trac
 
 **The Crew : Mission sous-marine.** La suite remplace les tâches nominatives par des tâches plus variées (« gagner au moins trois plis », « ne gagner aucun 9 »…), chacune ayant un niveau de difficulté ; on peut composer ses propres missions.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-the-crew}
 - **Cartes :** 36 cartes de couleur (rose, bleu, vert, jaune, de 1 à 9) et 4 fusées (1 à 4), toujours atouts.
 - **Donne :** toutes les cartes ; le détenteur de la fusée 4 est commandant et entame.
 - **Tâches :** tirées selon la mission, choisies à tour de rôle à partir du commandant ; jetons d'ordre éventuels.
@@ -3593,11 +4120,13 @@ Il n'y a pas de points : on gagne ou l'on perd la mission. Le livret garde trac
 
 The Crew est une vraie révolution du jeu de plis : coopératif, très facile à expliquer, il transmet la logique du Bridge (lire les cartes du partenaire) à des joueurs qui n'ont jamais touché à une enchère. Les joueurs qui aiment la compétition directe le trouveront peut-être trop sage, et les campagnes demandent une table régulière. Pour une famille ou un groupe d'amis, c'est l'un des meilleurs jeux de cartes modernes.
 
-# Rami, combinaisons et jeux de pêche
+# 3. Rami, combinaisons et jeux de pêche
 
 Ce chapitre réunit deux grandes familles qui ont un point commun : on ne joue pas pour gagner des plis, on joue pour **assembler** des cartes. Dans les jeux de la famille du rami, chacun cherche à former dans sa main des **combinaisons** : des **séries** (ou brelans, carrés), c'est-à-dire plusieurs cartes de même rang, et des **suites** (ou séquences), c'est-à-dire des cartes qui se suivent dans une même couleur. À chaque tour, on **pioche** une carte, soit dans le **talon** (la pioche face cachée), soit sur la **défausse** (le tas face visible), puis on se **défausse** d'une carte. On **pose** ses combinaisons sur la table, on peut parfois **compléter** celles des autres, et le premier qui se débarrasse de toutes ses cartes **sort** (on dit aussi « fait rami » ou « ferme »). Les cartes qui ne servent à rien, celles qui restent en main, s'appellent le **bois mort** : ce sont elles qui coûtent des points.
 
-Derrière ce schéma commun se cache une variété étonnante. Le Rami français et ses cousins anglais (Rummy 500, Kalooki) récompensent la patience ; le Gin Rummy, à deux, est un duel serré où l'on surveille chaque carte de l'adversaire ; la Canasta et ses descendantes (Samba, Burraco) se jouent en équipes avec deux ou trois paquets et visent de longues combinaisons de sept cartes ; le Machiavelli italien permet de démonter et remonter tout ce qui est sur la table ; le Chinchón espagnol, le Conquian mexicain et le Carioca chilien montrent comment le rami a voyagé dans le monde hispanique ; le Yaniv israélien est un rami express de voyageurs. Le Cribbage, enfin, est un cas à part : un jeu anglais à planchette où l'on compte des quinze, des paires et des suites, et qui mérite à lui seul un long détour.
+Derrière ce schéma commun se cache une variété étonnante. Le Rami français et ses cousins anglais (Rummy 500, Kalooki) récompensent la patience ; le Gin Rummy, à deux, est un duel serré où l'on surveille chaque carte de l'adversaire ; la Canasta et ses descendantes (Samba, Burraco) se jouent en équipes avec deux ou trois paquets et visent de longues combinaisons de sept cartes ; le Machiavelli italien permet de démonter et remonter tout ce qui est sur la table ; le Chinchón espagnol, le Conquian mexicain et le Carioca chilien montrent comment le rami a voyagé dans le monde hispanique ; le Yaniv israélien est un rami express de voyageurs, et le Tonk, jeu de comptoir des
+musiciens de jazz américains, un rami encore plus court. Le Cribbage, enfin, est un cas à part : un jeu anglais à planchette où l'on compte des quinze, des paires et des suites, et qui mérite à lui seul un long détour. Les jeux de pêche, de la Scopa italienne au Pishti
+turc, ferment le chapitre.
 
 La seconde famille est celle des **jeux de pêche**. Ici, des cartes sont posées face visible au milieu de la table, et chacun, à son tour, joue une carte de sa main pour **capturer** (« pêcher ») des cartes de même valeur, ou dont la somme égale celle de la carte jouée. Ce sont des jeux méditerranéens par excellence : la Scopa et le Scopone en Italie, la Chkobba en Tunisie, mais aussi le Cassino anglo-américain et la Cuarenta en Équateur. Le Koi-Koi japonais, joué avec les petites cartes fleuries du Hanafuda, applique le même principe d'appariement avec un matériel dédié. On y retrouve un vocabulaire commun : la **rafle** (ou « scopa », « chkobba », « limpia ») quand on vide entièrement la table, et un décompte final qui récompense celui qui a ramassé le plus de cartes et certaines cartes précieuses.
 
@@ -3615,6 +4144,8 @@ Comment choisir ? Pour une soirée familiale à quatre ou plus, le Rami 51 rest
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — convivial, rythmé, on peut discuter en jouant
 - **Challenge :** 3/5 — de vraies décisions de garde et de défausse, mais la pioche pèse lourd
+
+*Aller à l'[aide-mémoire](#memo-rami).*
 
 ### En bref
 
@@ -3682,8 +4213,7 @@ On joue soit un nombre de manches fixé à l'avance (le moins pénalisé gagne),
 
 **Rami à la carte imposée.** Certaines familles exigent que la carte ramassée sur la défausse soit posée avec au moins deux cartes de sa main, pour éviter qu'on ne « pêche » trop facilement.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-rami}
 - **Cartes :** 2 × 52 + 2 jokers ; As-2-3 ou Dame-Roi-As, jamais Roi-As-2 ; figures 10, As 1 ou 11 selon son emploi, joker = la carte remplacée.
 - **Donne :** 13 cartes chacun (14 au premier joueur, qui commence par défausser) ou 13 et une carte retournée.
 - **Tour :** piocher (talon, ou défausse seulement si on la pose aussitôt), poser, compléter (après ouverture), défausser.
@@ -3710,6 +4240,8 @@ Le Rami est le jeu qu'on peut sortir avec n'importe qui : grands-parents, ados,
 - **Hasard / réflexion :** environ 45 % hasard, 55 % réflexion
 - **Fun :** 3/5 — de belles primes à décrocher, mais un barème touffu à apprendre
 - **Challenge :** 3/5 — entente avec le partenaire et choix des combinaisons à viser
+
+*Aller à l'[aide-mémoire](#memo-pinacle).*
 
 ### En bref
 
@@ -3775,8 +4307,7 @@ Selon les tables s'ajoutent des primes pour une sortie sans carte libre (valeur 
 
 **Pinacle à six.** Trois équipes de deux, avec un troisième jeu de cartes et ses jokers.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-pinacle}
 - **Cartes :** 2 × 52 + 4 jokers ; jokers et 2 libres ; joker 30, As et 2 : 15, Roi à 8 : 10, 7 à 3 : 5.
 - **Donne :** 11 cartes chacun, une carte retournée ; coupe exacte 50, 11 cartes de même dos 200.
 - **Tour :** talon (1 carte) ou toute la défausse ; poser ; défausser.
@@ -3803,6 +4334,8 @@ Le Pinacle intéressera les amateurs de Canasta qui veulent des suites en plus d
 - **Hasard / réflexion :** environ 35 % hasard, 65 % réflexion
 - **Fun :** 4/5 — un duel nerveux où chaque manche se joue en quelques minutes
 - **Challenge :** 4/5 — mémoire de la défausse, lecture de l'adversaire, art du « knock »
+
+*Aller à l'[aide-mémoire](#memo-gin-rummy).*
 
 ### En bref
 
@@ -3858,8 +4391,7 @@ Le donneur distribue **10 cartes** à chacun, une par une. Il retourne la carte 
 
 **Straight Gin.** On ne peut frapper qu'avec un gin. Plus long, plus tendu.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-gin-rummy}
 - **Cartes :** 52 cartes, As toujours bas (pas de Dame-Roi-As) ; As 1, figures 10, autres à leur valeur.
 - **Donne :** 10 cartes chacun, une carte retournée ; le non-donneur puis le donneur peuvent la prendre, sinon le non-donneur pioche au talon.
 - **Tour :** prendre la défausse ou le talon, défausser (pas la carte qu'on vient de ramasser).
@@ -3885,6 +4417,8 @@ Le Gin Rummy est le meilleur rami pour deux personnes qui aiment réfléchir san
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — les gros tas de défausse ramassés provoquent de vrais moments d'euphorie
 - **Challenge :** 4/5 — gestion du « gel » de la défausse, entente avec le partenaire, choix du moment de sortir
+
+*Aller à l'[aide-mémoire](#memo-canasta).*
 
 ### En bref
 
@@ -3973,8 +4507,7 @@ La partie s'arrête quand une équipe atteint 5 000 points ; si les deux y parv
 
 **Bolivia.** Descendante sud-américaine qui ajoute les suites de sept cartes de même couleur, appelées « escaleras » ou « bolivias ».
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-canasta}
 - **Cartes :** 2 × 52 + 4 jokers ; jokers et 2 libres ; joker 50, 2 et As 20, Roi à 8 : 10, 7 à 4 et 3 noirs : 5.
 - **Donne :** 11 cartes chacun à quatre (15 à deux, 13 à trois) ; 3 rouges posés et remplacés.
 - **Tour :** une carte du talon ou toute la défausse ; poser ; défausser.
@@ -4001,6 +4534,8 @@ La Canasta est un grand jeu d'équipe, idéal pour quatre amis prêts à y passe
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — encore plus de cartes et de combinaisons spectaculaires que la Canasta
 - **Challenge :** 3/5 — plus généreux, donc un peu moins tendu que la Canasta
+
+*Aller à l'[aide-mémoire](#memo-samba).*
 
 ### En bref
 
@@ -4046,8 +4581,7 @@ Samba : 1 500 ; canasta naturelle : 500 ; canasta mixte : 300 ; sortie : 
 
 **Bolivia.** Cousine très proche, avec deux paquets ou trois selon les tables, où les suites s'appellent « escaleras » et où les canastas de cartes libres seules sont possibles.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-samba}
 - **Cartes :** 3 × 52 + 6 jokers ; jokers et 2 libres ; joker 50, 2 et As 20, Roi à 8 : 10, 7 à 4 et 3 noirs : 5.
 - **Donne :** 15 cartes chacun (13 à six) ; 3 rouges posés et remplacés.
 - **Tour :** piocher 2 cartes du talon et en défausser 1, ou prendre la défausse.
@@ -4075,6 +4609,8 @@ La Samba plaira à ceux qui aiment la Canasta et trouvent qu'il n'y a jamais ass
 - **Hasard / réflexion :** environ 35 % hasard, 65 % réflexion
 - **Fun :** 4/5 — rythme vif, ramassages de défausse spectaculaires, et le suspense du « pozzetto »
 - **Challenge :** 4/5 — jeu d'équipe fin, codifié en compétition
+
+*Aller à l'[aide-mémoire](#memo-burraco).*
 
 ### En bref
 
@@ -4141,8 +4677,7 @@ La partie s'arrête quand une équipe dépasse 2 000 points (2 005 selon l'usage
 
 **Buraco brésilien.** Version d'origine, avec des pénalités et des primes un peu différentes et souvent sans jokers (seuls les 2 sont libres).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-burraco}
 - **Cartes :** 2 × 52 + 4 jokers ; jokers et 2 (pinelle) libres ; joker 30, 2 : 20, As 15, Roi à 8 : 10, 7 à 3 : 5.
 - **Donne :** 11 cartes chacun ; deux pozzetti de 11 cartes ; une carte retournée.
 - **Tour :** une carte du talon ou toute la défausse, sans condition ; poser ; défausser.
@@ -4169,6 +4704,8 @@ Le Burraco est sans doute le meilleur point d'entrée dans la famille de la Cana
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — la défausse étalée donne des coups spectaculaires
 - **Challenge :** 3/5 — il faut calculer quand plonger dans la défausse
+
+*Aller à l'[aide-mémoire](#memo-rummy-500).*
 
 ### En bref
 
@@ -4209,8 +4746,7 @@ Chacun additionne ses cartes posées et retranche ses cartes en main. Un score p
 
 **Grand Rummy 500.** À six ou plus, deux jeux mélangés, et l'objectif passe parfois à 1 000 points.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-rummy-500}
 - **Cartes :** 52 cartes (2 jeux à cinq ou plus) ; As 15 (1 dans As-2-3), figures 10, autres à leur valeur ; jokers éventuels 15.
 - **Donne :** 7 cartes chacun (13 à deux) ; défausse étalée en éventail.
 - **Pioche :** talon, carte du dessus de la défausse, ou carte plus profonde avec tout ce qui la recouvre (à poser aussitôt).
@@ -4233,6 +4769,8 @@ Un très bon rami familial pour trois ou quatre joueurs, plus stratégique que l
 - **Hasard / réflexion :** environ 25 % hasard, 75 % réflexion
 - **Fun :** 4/5 — des tours où l'on démonte la table pour placer une carte sont très satisfaisants
 - **Challenge :** 4/5 — demande une vraie vision combinatoire, et peut faire réfléchir longtemps
+
+*Aller à l'[aide-mémoire](#memo-machiavelli).*
 
 ### En bref
 
@@ -4274,8 +4812,7 @@ On joue souvent en une seule manche, le premier à vider sa main gagne. Pour une
 
 **Ouverture minimale.** Certaines familles exigent une première pose d'un minimum de points (30 comme au Rummikub, ou 36 selon d'autres règles), en comptant l'As 1, les figures 10 et les autres cartes à leur valeur.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-machiavelli}
 - **Cartes :** 2 × 52, sans joker ; As bas ou haut, pas Roi-As-2.
 - **Donne :** 15 (ou 12, ou 13) cartes chacun, une par une.
 - **Tour :** poser une ou plusieurs cartes **ou** piocher une carte ; jamais les deux.
@@ -4298,6 +4835,8 @@ Un des ramis les plus cérébraux, parfait pour les joueurs qui aiment les casse
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — le rêve du « chinchón » qui gagne la partie d'un coup
 - **Challenge :** 3/5 — on décide quand fermer avec quelle main, comme au Gin
+
+*Aller à l'[aide-mémoire](#memo-chinchon).*
 
 ### En bref
 
@@ -4338,8 +4877,7 @@ Chaque joueur ajoute à son score la valeur de ses cartes non combinées. Celui 
 
 **Chinchón à 48 cartes.** Avec les 8 et les 9 du jeu espagnol, les suites sont plus longues et les combinaisons plus faciles.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-chinchon}
 - **Cartes :** jeu espagnol de 40 (ou 48) cartes, 0 à 2 jokers ; Sota, Caballo, Rey après le 7 ; As 1, autres à leur valeur, figures 10 (ou 10, 11, 12).
 - **Donne :** 7 cartes chacun, une carte retournée.
 - **Tour :** talon ou défausse, puis défausser ; combinaisons gardées en main.
@@ -4364,6 +4902,8 @@ Un excellent rami court, très convivial, avec cette pointe de folie qu'apporte 
 - **Hasard / réflexion :** environ 45 % hasard, 55 % réflexion
 - **Fun :** 4/5 — jeu de famille très vivant, avec la chasse aux jokers
 - **Challenge :** 3/5 — proche du Rami 51 en complexité
+
+*Aller à l'[aide-mémoire](#memo-kalooki).*
 
 ### En bref
 
@@ -4403,8 +4943,7 @@ Comme au Rami : chacun ajoute à son score la valeur des cartes en main. Sortir
 
 **Kalooki jamaïcain à contrats.** Deux jeux et quatre jokers. Une partie (« set ») compte neuf manches, de 9 cartes distribuées à la première jusqu'à 16 à la dernière, chacune avec un contrat de séries de 3 cartes et de suites de 4 cartes : trois séries ; deux séries et une suite ; une série et deux suites ; trois suites ; quatre séries ; trois séries et une suite ; deux séries et deux suites ; une série et trois suites ; quatre suites. En main, le joker coûte 50, l'As noir 15, l'As rouge 1, les figures et 10 : 10. Les détails varient d'une île et d'une famille à l'autre.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-kalooki}
 - **Cartes :** 2 × 52 + 2 jokers ; As toujours haut (règle britannique) ; en main : As 11, figures 10, joker 15, autres à leur valeur.
 - **Donne :** 13 cartes chacun, une carte retournée.
 - **Tour :** piocher, poser, défausser ; défausse interdite tant qu'on n'ouvre pas dans le même tour.
@@ -4430,6 +4969,8 @@ Pour un lecteur français, le Kalooki ressemblera beaucoup au Rami 51 ; il vaut
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 3/5 — original, mais sec
 - **Challenge :** 4/5 — chaque carte révélée et chaque « forçage » demandent du calcul
+
+*Aller à l'[aide-mémoire](#memo-conquian).*
 
 ### En bref
 
@@ -4471,8 +5012,7 @@ Traditionnellement on joue pour une mise par manche ; on peut aussi compter une
 
 **Coon Can.** Ancienne forme américaine à deux paquets, aujourd'hui presque oubliée.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-conquian}
 - **Cartes :** 40 cartes (As à 7, Valet, Dame, Roi) ; le Valet suit le 7 ; As toujours bas.
 - **Donne :** 10 cartes chacun ; le reste en talon.
 - **Tour :** retourner la carte du talon ; la poser aussitôt en combinaison avec des cartes de sa main puis défausser, ou la laisser à l'adversaire.
@@ -4485,6 +5025,87 @@ Traditionnellement on joue pour une mise par manche ; on peut aussi compter une
 
 Un jeu historique passionnant et une curiosité pour les amateurs de ramis : on comprend en y jouant d'où viennent les règles modernes. Moins convivial qu'un rami de famille, mais un très bon duel.
 
+## Tonk {#jeu-tonk}
+*Autres noms : Tunk*
+
+- **Famille :** rami (rami à « knock »)
+- **Joueurs :** 2 à 4 (idéal : 3 ou 4)
+- **Matériel :** 1 jeu de 52 cartes ; jetons pour les mises
+- **Durée d'une partie :** 2 à 4 min par donne ; on joue autant qu'on veut
+- **Âge conseillé :** dès 10 ans
+- **Diffusion :** Répandu aux États-Unis (surtout dans le Sud et dans la communauté afro-américaine) ; niche ailleurs
+- **Hasard / réflexion :** 60 % hasard, 40 % réflexion
+- **Fun :** 4/5 — donnes très rapides, coups de bluff au moment de « tomber »
+- **Challenge :** 2/5 — décisions simples, mais le moment de tomber se travaille
+
+*Aller à l'[aide-mémoire](#memo-tonk).*
+
+### En bref
+Un rami express à 5 cartes, joué pour des jetons. On pose des combinaisons, on se débarrasse de ses cartes, et à tout moment on peut « tomber » (*drop*) en pariant que sa main est la plus faible de la table. Une donne dure quelques minutes ; le jeu tient du rami par ses combinaisons et du poker par son audace.
+
+### Histoire et origine
+Le Tonk est un jeu américain de la première moitié du XXe siècle. Dans les années 1930, il était très populaire parmi les musiciens de blues et de jazz du sud de la Louisiane ; l'orchestre de Duke Ellington y jouait entre deux sets, dans l'arrière-salle des clubs. Il est passé ensuite dans les casernes et les pauses de chantier. Ses règles combinent le rami à « knock » (où l'on peut arrêter la donne) et le [Conquian](#jeu-conquian) mexicain. C'est un jeu de jetons et de mises, rarement joué avec un bloc de scores.
+
+### But du jeu
+Gagner la mise de chaque donne : soit en se débarrassant de toutes ses cartes, soit en ayant le plus faible total de points quand on « tombe » ou quand la pioche s'épuise.
+
+### Mise en place
+
+| Carte | Points |
+| --- | --- |
+| As | 1 |
+| 2 à 10 | valeur faciale |
+| Valet, dame, roi | 10 |
+
+Avant chaque donne, on fixe la **mise de base** (par exemple 1 jeton). Chaque joueur reçoit **5 cartes**. La carte suivante est retournée pour commencer la défausse ; le reste forme la pioche.
+
+**Main de 49 ou 50 :** si un joueur reçoit une main totalisant exactement 49 ou 50 points, il l'annonce immédiatement et gagne : chaque autre joueur lui paie **le double** de la mise. Si deux joueurs ont une telle main, la donne est nulle.
+
+### Déroulement
+À son tour, un joueur peut d'abord **tomber** (voir plus bas). Sinon :
+
+1. Il prend la carte du dessus de la pioche ou de la défausse.
+2. Il peut **poser** des combinaisons : un **brelan ou carré** (3 ou 4 cartes de même rang), ou une **suite** de 3 cartes ou plus dans la même couleur (l'as est bas : A-2-3, pas D-R-A).
+3. Il peut **ajouter** (*hit*) des cartes aux combinaisons déjà posées, les siennes comme celles des autres.
+4. Il termine en **défaussant** une carte.
+
+**Fins possibles :**
+
+- **Tonk :** un joueur pose toutes ses cartes en combinaisons et ajouts, sans avoir besoin de défausser. Chaque autre joueur lui paie **le double** de la mise.
+- **Sortie simple :** il se débarrasse de sa dernière carte en défaussant. Chacun lui paie la mise.
+- **Tomber (drop) :** au début de son tour, avant de piocher, un joueur étale sa main en annonçant qu'il a le plus petit total. Tout le monde montre sa main. S'il a bien le plus faible total, chacun lui paie la mise. S'il est **pris** (un autre a un total égal ou plus faible), il paie **le double** à chaque joueur égal ou meilleur, et le joueur le plus faible encaisse en plus la mise des autres.
+- **Pioche épuisée :** le plus petit total gagne la mise de chacun.
+
+### Conseils de stratégie
+- **Débarrassez-vous vite des figures** : une main faible en points vous protège quand un adversaire tombe, et vous donne l'option de tomber vous-même.
+- **Posez avec discernement.** Poser une combinaison réduit votre total, mais donne aux autres des cibles pour leurs ajouts.
+- **Tombez tôt avec une petite main.** Un total de 5 ou 6 points au deuxième tour gagne presque toujours ; au-delà de 10, le risque grandit vite.
+- **Lisez la défausse** : un joueur qui ramasse des petites cartes prépare souvent un drop.
+- **Gardez les cartes qui vous permettent un tonk** quand vous êtes à deux cartes d'une sortie complète : le double vaut le risque.
+
+### Variantes
+**Attente après un ajout.** Dans beaucoup de tables, un joueur dont une combinaison vient de recevoir un ajout d'un adversaire ne peut pas tomber à son tour suivant (ou pendant deux tours).
+
+**Pas de carte retournée.** On commence sans défausse visible.
+
+**Mains de départ basses.** Certaines tables paient aussi une main de départ de 13 points ou moins (double) ou de 9 ou moins (triple).
+
+**Sept cartes, jokers, jeu de 40 cartes.** Autant de formes locales ; l'esprit reste le même.
+
+**« The Big One ».** Les dernières donnes de la soirée se jouent à mise doublée.
+
+### Aide-mémoire {#memo-tonk}
+- **Cartes :** 52 cartes ; as 1, 2 à 10 valeur faciale, figures 10.
+- **Donne :** 5 cartes chacun, une carte retournée en défausse.
+- **Main de 49 ou 50 :** victoire immédiate, mise doublée.
+- **Tour :** tomber (au lieu de jouer) ou piocher, poser, ajouter, défausser.
+- **Combinaisons :** 3 ou 4 de même rang ; suite de 3 et plus dans une couleur, as bas.
+- **Paiements :** tonk (sans défausse) x 2 ; sortie simple x 1 ; drop réussi x 1 ; drop pris : x 2 à chaque joueur égal ou meilleur.
+- **Pioche épuisée :** le plus petit total gagne.
+
+### Verdict
+Le Tonk est un jeu de comptoir, nerveux et convivial, parfait pour une table de trois ou quatre avec des jetons et sans prise de tête. Il ne remplace ni le [Gin Rummy](#jeu-gin-rummy) ni le [Rami](#jeu-rami) pour qui cherche de la profondeur, mais sa vitesse et ses coups de poker en font un excellent jeu d'apéritif.
+
 ## Carioca {#jeu-carioca}
 - **Famille :** rami (à contrats)
 - **Joueurs :** 2 à 6 (idéal : 4)
@@ -4495,6 +5116,8 @@ Un jeu historique passionnant et une curiosité pour les amateurs de ramis : on
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — une progression de contrats qui fait monter la tension
 - **Challenge :** 3/5 — plus de patience que de calcul
+
+*Aller à l'[aide-mémoire](#memo-carioca).*
 
 ### En bref
 
@@ -4544,8 +5167,7 @@ On additionne les points des cartes restées en main sur toutes les manches ; l
 
 Nombre de manches, valeurs des cartes et longueur des escalas changent selon les familles. Certaines permettent de prendre la carte de la défausse hors de son tour, comme au [Contract Rummy](#jeu-contract-rummy), moyennant une petite pénalité (par exemple 2 points). D'autres récompensent celui qui sort en posant tout d'un coup (-30 points).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-carioca}
 - **Cartes :** 2 × 52 + 4 jokers ; As bas ou haut ; en main : cartes à leur valeur, figures 10, As 15 ou 20, joker 25 à 50 selon les familles.
 - **Donne :** 12 cartes chacun (11 selon les familles).
 - **Trío :** 3 cartes de même rang ; **escala :** 4 cartes consécutives de même couleur ; un joker par combinaison.
@@ -4570,6 +5192,8 @@ Un rami de longue haleine, chaleureux et accessible, parfait pour une réunion d
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — le système d'« achat » fait participer tout le monde à chaque tour
 - **Challenge :** 3/5 — décisions d'achat et gestion de main intéressantes
+
+*Aller à l'[aide-mémoire](#memo-contract-rummy).*
 
 ### En bref
 
@@ -4620,8 +5244,7 @@ Les autres joueurs ajoutent la valeur de leurs cartes en main à leur score. Le 
 
 **Shanghai.** Deux jeux et 4 jokers, 11 cartes à toutes les manches, achats limités, et un joker récupérable dans une suite posée.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-contract-rummy}
 - **Cartes :** 2 × 52 + jokers (un de moins que de joueurs) ; en main : cartes à leur valeur, figures 10, As 15, joker 15 (barèmes variables).
 - **Donne :** 10 cartes aux manches 1 à 3, 12 cartes aux manches 4 à 7.
 - **Série :** 3 cartes de même rang ; **suite :** 4+ cartes de même couleur.
@@ -4646,6 +5269,8 @@ Un excellent jeu de groupe pour une longue soirée : chacun reste concerné à 
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 5/5 — rapide, plein de bluff et de cris de « Yaniv ! » et « Assaf ! »
 - **Challenge :** 3/5 — décider quand annoncer demande du flair
+
+*Aller à l'[aide-mémoire](#memo-yaniv).*
 
 ### En bref
 
@@ -4689,8 +5314,7 @@ Valeurs : joker 0, As 1, 2 à 10 à leur valeur, figures 10. Chaque joueur reç
 
 **Seuil variable.** On peut autoriser l'annonce jusqu'à 7 points (ou davantage) pour des manches plus courtes.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-yaniv}
 - **Cartes :** 52 cartes + 2 jokers ; joker 0, As 1, 2 à 10 à leur valeur, figures 10.
 - **Donne :** 5 cartes chacun (parfois 7), une carte retournée.
 - **Tour :** défausser d'abord (une carte, plusieurs cartes de même rang, ou suite de 3+ de même couleur), puis piocher (talon, ou une extrémité de ce que le joueur précédent a jeté).
@@ -4715,6 +5339,8 @@ Un des meilleurs jeux de voyage : un seul paquet, des règles apprises en deux 
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — on marque des points à chaque carte, la planchette rend la course très visuelle
 - **Challenge :** 4/5 — choix des cartes au « crib » et art du jeu en séquence demandent des années de pratique
+
+*Aller à l'[aide-mémoire](#memo-cribbage).*
 
 ### En bref
 
@@ -4800,8 +5426,7 @@ Règle optionnelle du **« Muggins »** : si un joueur oublie de compter des 
 
 **Cribbage sans planchette.** On peut tenir le score sur papier, mais la planchette fait partie du charme du jeu et rend les comptes plus faciles à vérifier.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-cribbage}
 - **Cartes :** 52 cartes ; As 1, figures 10 ; As toujours bas dans les suites.
 - **Donne (à deux) :** 6 cartes chacun, 2 au crib du donneur ; carte de départ retournée (Valet = 2 points au donneur).
 - **Jeu des cartes :** total cumulé jamais au-delà de 31 ; quinze 2, trente et un 2, paire 2, brelan 6, carré 12, suite 1 par carte ; go et dernière carte 1.
@@ -4826,6 +5451,8 @@ Le Cribbage est l'un des plus beaux jeux de cartes pour deux joueurs. Il demande
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 5/5 — chaque « scopa » se claque sur la table avec fierté
 - **Challenge :** 3/5 — simple à apprendre, mais la mémoire des cartes et le jeu défensif font la différence
+
+*Aller à l'[aide-mémoire](#memo-scopa).*
 
 ### En bref
 
@@ -4897,8 +5524,7 @@ La partie se joue en 11 points ; si les deux camps dépassent 11 dans la même 
 
 **Re bello.** On ajoute un point pour la prise du roi de deniers, à la manière du settebello.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-scopa}
 - **Cartes :** 40 cartes ; As à 7 à leur valeur, Fante (Valet) 8, Cavallo (Dame) 9, Re (Roi) 10 ; deniers = carreaux.
 - **Donne :** 3 cartes chacun, 4 sur la table (redonne si 3 ou 4 Rois) ; puis 3 cartes à chacun à chaque tour de table.
 - **Prise :** obligatoire ; carte de même valeur prioritaire sur une somme.
@@ -4924,6 +5550,8 @@ La Scopa est un merveilleux jeu familial : accessible aux enfants qui savent ad
 - **Hasard / réflexion :** environ 15 % hasard, 85 % réflexion
 - **Fun :** 4/5 — tension constante, débats passionnés après chaque donne
 - **Challenge :** 5/5 — un jeu de calcul et de mémoire comparable aux grands jeux de plis
+
+*Aller à l'[aide-mémoire](#memo-scopone-scientifico).*
 
 ### En bref
 
@@ -4962,8 +5590,7 @@ Identique à la Scopa : cartes, deniers, settebello, primiera, scopas. Beaucoup
 
 **Scopone à 2.** Chaque joueur reçoit deux mains successives de 10 cartes ; peu joué.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-scopone-scientifico}
 - **Cartes :** 40 cartes italiennes ; valeurs de capture et primiera comme à la Scopa.
 - **Donne :** 10 cartes à chacun, rien sur la table ; partenaires face à face.
 - **Jeu :** le joueur à droite du donneur commence ; prise obligatoire, carte unique prioritaire sur la somme.
@@ -4988,6 +5615,8 @@ Un jeu exigeant et superbe, pour quatre joueurs qui aiment calculer et qui sont 
 - **Hasard / réflexion :** environ 35 % hasard, 65 % réflexion
 - **Fun :** 3/5 — agréable, mais moins de moments d'éclat que la Scopa
 - **Challenge :** 4/5 — les « constructions » ajoutent une vraie planification
+
+*Aller à l'[aide-mémoire](#memo-cassino).*
 
 ### En bref
 
@@ -5047,8 +5676,7 @@ Hors balayages, il y a 11 points à partager par donne. La partie se joue en 21 
 
 **Draw Casino.** Après chaque carte jouée, on pioche dans le talon pour toujours garder 4 cartes.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-cassino}
 - **Cartes :** 52 cartes ; As 1, 2 à 10 à leur valeur ; figures sans valeur (appariement seulement, une à la fois).
 - **Donne :** 4 cartes chacun et 4 sur la table ; puis 4 cartes chacun, rien sur la table ; dernière donne annoncée.
 - **Actions :** apparier, combiner (sommes), construire (en tenant la carte du total), ou abandonner une carte.
@@ -5073,6 +5701,8 @@ Le Cassino est un excellent jeu de pêche pour deux, plus tactique que la Scopa 
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 5/5 — un jeu de café vivant, ponctué de « chkobba ! » claqués sur la table
 - **Challenge :** 3/5 — même profondeur que la Scopa, avec une forte part de mémoire
+
+*Aller à l'[aide-mémoire](#memo-chkobba).*
 
 ### En bref
 
@@ -5118,8 +5748,7 @@ Les règles de capture sont celles de la Scopa : on joue une carte, on prend ob
 
 **Chkobba avec primiera.** On remplace la bermila par une primiera calculée à l'italienne.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-chkobba}
 - **Cartes :** 52 cartes sans 8, 9, 10 ; As 1, 2 à 7 à leur valeur, **Dame 8, Valet 9**, Roi 10 ; carreaux = deniers.
 - **Donne :** 3 cartes chacun, 4 sur la table ; puis 3 cartes à chacun jusqu'à la fin du paquet.
 - **Prise :** obligatoire ; carte de même valeur prioritaire sur une somme.
@@ -5144,6 +5773,8 @@ La Chkobba a tous les charmes de la Scopa et se joue avec un jeu de cartes ordin
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — les « caídas » sur la carte adverse font rire et râler
 - **Challenge :** 3/5 — le jeu en escalier ajoute une couche de calcul
+
+*Aller à l'[aide-mémoire](#memo-cuarenta).*
 
 ### En bref
 
@@ -5184,8 +5815,7 @@ Règles de fin de partie les plus répandues : un camp arrivé à **30 points**
 
 Les règles de ronda, de fin de partie et de décompte des cartones varient d'une ville à l'autre ; certaines tables jouent aussi à trois.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-cuarenta}
 - **Cartes :** 52 cartes sans 8, 9, 10 ; ordre As… 7, Valet, Dame, Roi ; sommes avec As à 7 seulement.
 - **Donne :** 5 cartes chacun, table vide au départ ; deux donnes par paquet à quatre.
 - **Prise :** appariement ou somme, puis escalier des cartes suivantes.
@@ -5197,6 +5827,81 @@ Les règles de ronda, de fin de partie et de décompte des cartones varient d'un
 ### Verdict
 
 Un jeu de pêche nerveux et original, dont l'escalier et les caídas renouvellent la formule de la Scopa. Il vaut la découverte pour les amateurs du genre, même si les règles locales demandent un peu de négociation.
+
+## Pishti {#jeu-pishti}
+*Autres noms : Pişti (turc)*
+
+- **Famille :** jeu de pêche (capture)
+- **Joueurs :** 2 à 4 (idéal : 4, en deux équipes de 2)
+- **Matériel :** 1 jeu de 52 cartes ; papier pour les scores
+- **Durée d'une partie :** 30 à 45 min (jusqu'à 151 points)
+- **Âge conseillé :** dès 7 ans
+- **Diffusion :** Très répandu en Turquie ; régional au Proche-Orient ; niche en France
+- **Hasard / réflexion :** 60 % hasard, 40 % réflexion
+- **Fun :** 4/5 — rapide, bavard, ponctué de « pişti ! » triomphants
+- **Challenge :** 2/5 — un peu de mémoire et de patience suffisent à bien jouer
+
+*Aller à l'[aide-mémoire](#memo-pishti).*
+
+### En bref
+On joue une carte à la fois sur un tas central. Si elle a le même rang que la carte du dessus, on ramasse tout le tas ; un valet ramasse toujours. Capturer un tas réduit à une seule carte, c'est faire un **pişti**, qui rapporte un gros bonus. Simple comme la [Bataille](#jeu-bataille), mais avec assez de mémoire et de calcul pour récompenser les bons joueurs.
+
+### Histoire et origine
+Le Pişti est le jeu de cartes populaire par excellence en Turquie, joué dans les cafés (*kahvehane*), en famille et sur toutes les applications mobiles du pays. Il appartient à la grande famille méditerranéenne des jeux de pêche, avec la [Scopa](#jeu-scopa) italienne et la [Chkobba](#jeu-chkobba) tunisienne, mais sa règle de capture est plus simple : on ne fait pas d'additions, on ne prend que par paire de rangs ou avec un valet. On connaît des jeux très proches en Grèce (Xeri) et au Proche-Orient (Basra), avec des barèmes un peu différents.
+
+### But du jeu
+Ramasser des cartes qui comptent et réussir des pişti, pour être le premier camp à **151 points**.
+
+### Mise en place
+Paquet de 52 cartes, sans jokers. Les partenaires sont face à face ; le jeu tourne dans le sens inverse des aiguilles d'une montre.
+
+1. Le donneur pose **4 cartes face cachée** au centre, puis distribue **4 cartes** à chaque joueur.
+2. Il retourne la carte du dessus des 4 cartes centrales : elle commence le tas. Si c'est un valet, il en retourne une autre jusqu'à trouver une carte qui n'est pas un valet.
+3. La dernière carte du paquet de pioche est souvent montrée à tous (glissée retournée sous le paquet) : on sait ainsi qu'elle reviendra au donneur.
+
+### Déroulement
+1. Le joueur à droite du donneur commence. Chacun à son tour pose **une carte face visible** sur le tas.
+2. Si elle a le **même rang** que la carte du dessus, le joueur **ramasse tout le tas** et le pose devant lui (ou devant son équipe).
+3. Un **valet** ramasse toujours le tas, quelle que soit la carte du dessus.
+4. Sinon, la carte reste sur le tas.
+5. **Pişti :** si le tas ne contenait **qu'une seule carte** et qu'on la prend avec une carte de même rang, c'est un pişti (10 points). Prendre un valet seul avec un autre valet est un **double pişti** (20 points). Prendre une carte seule avec un valet de rang différent est une prise ordinaire.
+6. Quand tout le monde a joué ses 4 cartes, le donneur en distribue 4 nouvelles à chacun, sans rien ajouter au centre, jusqu'à épuisement du paquet (3 distributions en tout à quatre joueurs, 6 à deux).
+7. À la fin, les cartes restant sur le tas reviennent au dernier camp qui a fait une prise. Le dernier coup du donneur ne compte pas comme pişti.
+
+### Décompte des points
+- chaque **as** : 1 point ; chaque **valet** : 1 point ;
+- **2 de trèfle** : 2 points ;
+- **10 de carreau** : 3 points ;
+- **majorité des cartes** (27 ou plus) : 3 points (rien en cas d'égalité 26-26) ;
+- chaque **pişti** : 10 points (double pişti : 20).
+
+Total hors pişti : 16 points par donne. On joue en **151 points** ; si les deux camps les dépassent dans la même donne, le plus haut l'emporte.
+
+### Conseils de stratégie
+- **Gardez vos valets** pour prendre un gros tas, ou pour faire un double pişti sur un valet seul. Un valet jeté sur un tas de deux cartes est un gâchis.
+- **Comptez les cartes de chaque rang.** S'il reste trois 7 dehors et que vous jouez un 7 sur un tas vide, vous offrez un pişti. Jouez plutôt un rang dont les trois autres exemplaires sont déjà tombés : il est « mort », personne ne pourra le prendre.
+- **Quand le tas est vide**, posez une carte dont vous savez qu'on ne peut pas la prendre, ou dont vous détenez vous-même le double.
+- **Pensez à la dernière carte** du paquet, montrée au début : le donneur sait qu'il la recevra.
+- **Le dernier preneur ramasse le reste** : en fin de donne, garder un valet pour la toute fin est souvent payant.
+
+### Variantes
+**À deux ou à quatre en individuel.** Mêmes règles ; à trois aussi, chacun pour soi.
+
+**Pişti avec bluff (kapalı pişti).** Sur un tas d'une seule carte, on peut poser sa carte face cachée en annonçant un pişti. L'adversaire accepte ou conteste : si la carte correspond, le pişti vaut 20 ; si c'était du bluff, le camp qui a contesté marque 20.
+
+**Valeurs locales.** Certaines tables comptent aussi chaque 10 ou chaque figure pour 1 point, ou jouent en 101.
+
+### Aide-mémoire {#memo-pishti}
+- **Cartes :** 52 cartes ; seul le rang compte.
+- **Donne :** 4 cartes cachées au centre (dessus retourné, jamais un valet), 4 à chaque joueur ; puis 4 de plus à chaque tour de table.
+- **Prise :** même rang que le dessus du tas, ou n'importe quel valet : on ramasse tout.
+- **Pişti :** prendre une carte seule par le même rang : 10 ; valet sur valet seul : 20.
+- **Points :** as 1, valet 1, 2 de trèfle 2, 10 de carreau 3, majorité des cartes 3.
+- **Fin de donne :** le reste du tas va au dernier preneur.
+- **Fin de partie :** 151 points.
+
+### Verdict
+Le jeu de pêche idéal pour initier des enfants ou animer une table de famille : on apprend en deux minutes, les donnes filent, et chaque pişti déclenche une petite fête. Les joueurs qui aiment calculer lui préféreront la [Scopa](#jeu-scopa) ou le [Cassino](#jeu-cassino), plus riches ; mais pour jouer en parlant d'autre chose, le Pişti est imbattable.
 
 ## Koi-Koi {#jeu-koi-koi}
 *Autres noms : Hanafuda Koi-Koi ; les cartes s'appellent Hanafuda ou Hwatu en Corée*
@@ -5210,6 +5915,8 @@ Un jeu de pêche nerveux et original, dont l'escalier et les caídas renouvellen
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — le pari du « koi-koi » crée un suspense délicieux
 - **Challenge :** 3/5 — reconnaître les cartes et peser le risque de continuer demande de la pratique
+
+*Aller à l'[aide-mémoire](#memo-koi-koi).*
 
 ### En bref
 
@@ -5283,8 +5990,7 @@ Le gagnant de la manche marque la somme de ses yaku. Selon une règle très rép
 
 **Hwatu (Corée).** Les Coréens jouent au Go-Stop, un jeu très proche à 2 ou 3 joueurs avec des cartes Hwatu, où l'on annonce « go » ou « stop ».
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-koi-koi}
 - **Cartes :** Hanafuda, 12 mois de 4 cartes ; 5 lumières, 9 animaux, 10 rubans, 24 cartes simples.
 - **Donne :** 8 cartes à chacun, 8 sur la table ; teshi ou kuttsuki en main = 6 points.
 - **Tour :** jouer une carte (capture la carte du même mois), puis retourner la pioche (même règle) ; 3 cartes du mois sur la table = on prend les 4.
@@ -5297,11 +6003,11 @@ Le gagnant de la manche marque la somme de ses yaku. Selon une règle très rép
 
 Le Koi-Koi est un petit bijou pour deux joueurs : des cartes magnifiques, un principe d'appariement immédiat à comprendre, et ce pari du koi-koi qui donne du sel à chaque manche. Le principal obstacle est le matériel (il faut un jeu Hanafuda, heureusement peu coûteux) et l'apprentissage des mois et des catégories, sans chiffres pour aider. Une fois ce cap passé, on y revient avec plaisir.
 
-# Se débarrasser de ses cartes : jeux de défausse et de grimpe
+# 4. Se débarrasser de ses cartes : jeux de défausse et de grimpe
 
 Dans la plupart des jeux de cartes, on cherche à gagner quelque chose : des plis, des points, des combinaisons. Les jeux de ce chapitre renversent la perspective. Ici, la main est un fardeau, et le premier qui s'en débarrasse a gagné. Chaque carte qui reste entre vos doigts à la fin d'une manche est une dette, parfois un simple point de pénalité, parfois l'humiliation d'être désigné « idiot » ou « trou-du-cul » pour la manche suivante. C'est une famille immense, populaire sur tous les continents, et souvent la première que découvrent les enfants.
 
-On peut y distinguer trois grandes branches. Les **jeux de défausse** au sens strict (Huit américain, Mau-Mau, Sept) : on pose une carte sur un talon commun à condition qu'elle s'accorde avec la précédente, par la couleur ou par la valeur ; des cartes spéciales font piocher, sauter un tour ou changer la couleur demandée. Les **jeux de grimpe** (Président, Daifugō, Tichu, Big Two, Dou Dizhu, Guandan), venus en grande partie d'Asie : on joue des combinaisons (simples, paires, suites, brelans…) qui doivent chaque fois battre la précédente ; quand tout le monde passe, la levée est close et le dernier à avoir joué relance. Enfin, des **cousins** qui partagent le même objectif par d'autres moyens : le Durak russe, fait d'attaques et de défenses, le Palace et ses cartes posées devant soi, le Golf où l'on cherche le plus petit total, et les jeux de vitesse (Crapette, Speed, Nerts), où l'on vide son paquet plus vite que l'adversaire.
+On peut y distinguer trois grandes branches. Les **jeux de défausse** au sens strict (Huit américain, Mau-Mau, Sept) : on pose une carte sur un talon commun à condition qu'elle s'accorde avec la précédente, par la couleur ou par la valeur ; des cartes spéciales font piocher, sauter un tour ou changer la couleur demandée. Les **jeux de grimpe** (Président, Daifugō, Tichu, Big Two, Dou Dizhu, Guandan), venus en grande partie d'Asie : on joue des combinaisons (simples, paires, suites, brelans…) qui doivent chaque fois battre la précédente ; quand tout le monde passe, la levée est close et le dernier à avoir joué relance. Enfin, des **cousins** qui partagent le même objectif par d'autres moyens : le Durak russe, fait d'attaques et de défenses, le Palace et ses cartes posées devant soi, le Golf où l'on cherche le plus petit total, et les jeux de vitesse (Crapette, Spite and Malice, Speed, Nerts), où l'on vide son paquet plus vite que l'adversaire.
 
 Quelques mots reviennent souvent. La **pioche** (ou talon de pioche) est le paquet face cachée où l'on tire ; le **talon** ou la **défausse** est la pile visible où l'on pose. Dans les jeux de grimpe, une **levée** (on dit aussi un « tour » ou un « pli », bien que rien ne se ramasse) est la séquence de coups qui se termine quand tous les joueurs ont passé. Une **bombe** est une combinaison spéciale, en général quatre cartes de même valeur, qui bat tout ou presque. Le **rang** ou **titre** désigne la place obtenue à la fin d'une manche, qui donne souvent des avantages ou des corvées pour la suivante.
 
@@ -5319,6 +6025,8 @@ Pour choisir : avec de jeunes enfants ou une grande tablée familiale, le Huit 
 - **Hasard / réflexion :** environ 65 % hasard, 35 % réflexion
 - **Fun :** 4/5 — les attaques à coups de « 2 » et les retournements de dernière seconde font crier toute la table
 - **Challenge :** 2/5 — quelques vraies décisions (garder ses 8, choisir la couleur), mais la main dicte souvent le jeu
+
+*Aller à l'[aide-mémoire](#memo-huit-americain).*
 
 ### En bref
 
@@ -5402,8 +6110,7 @@ Ce barème est celui du Crazy Eights ; les recueils américains ne fixent pas d
 
 **Huit sans pioche** : on donne toutes les cartes et l'on passe si l'on ne peut pas jouer ; le jeu devient une course plus calculée.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-huit-americain}
 - **Cartes :** 52 (deux jeux au-delà de 5 joueurs) ; seule compte l'égalité de couleur ou de valeur.
 - **Donne :** Crazy Eights 7 cartes à 2, 5 à 3 et plus ; en France souvent 8 cartes ; carte retournée pour lancer le talon (on la remplace si c'est un 8 ou une carte spéciale).
 - **Jouer :** même couleur ou même valeur ; sinon piocher (une carte, ou jusqu'à pouvoir jouer selon la table).
@@ -5429,6 +6136,8 @@ Le Huit américain est la porte d'entrée idéale vers les jeux de cartes : rè
 - **Hasard / réflexion :** environ 70 % hasard, 30 % réflexion
 - **Fun :** 3/5 — vif et convivial, l'annonce « Mau-Mau ! » finale est un petit plaisir
 - **Challenge :** 2/5 — un peu plus tendu que le Huit à cause du petit paquet, mais toujours léger
+
+*Aller à l'[aide-mémoire](#memo-mau-mau).*
 
 ### En bref
 
@@ -5477,8 +6186,7 @@ Le plus souvent, on ne compte pas : chaque manche a un gagnant. Pour une partie
 
 **Mau-Mau à deux jeux** : à six joueurs ou plus, on mélange deux jeux de 32 cartes.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-mau-mau}
 - **Cartes :** 32 (as, R, D, V, 10, 9, 8, 7) ; deux jeux à 6 et plus.
 - **Donne :** 5 cartes (parfois 6) ; carte retournée pour le talon.
 - **Jouer :** même couleur ou même valeur ; sinon piocher une carte, la jouer si possible, sinon passer.
@@ -5504,6 +6212,8 @@ Un jeu d'enfance que des millions d'Allemands connaissent par cœur. Plus court 
 - **Hasard / réflexion :** environ 55 % hasard, 45 % réflexion
 - **Fun :** 3/5 — calme, avec une tension sourde quand on bloque délibérément les autres
 - **Challenge :** 3/5 — l'art de retenir ses 7 et ses 6 est plus subtil qu'il n'y paraît
+
+*Aller à l'[aide-mémoire](#memo-sept).*
 
 ### En bref
 
@@ -5554,8 +6264,7 @@ Avec cagnotte : le gagnant ramasse le pot, et chaque perdant lui verse en plus 
 
 **Fan Tan avec ouverture libre** : une variante américaine laisse le premier joueur choisir la valeur de départ (pas forcément un 7), et les rangées « tournent » du roi à l'as.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-sept}
 - **Cartes :** 52, toutes distribuées ; chacun met un jeton au pot (version cagnotte).
 - **Ouverture :** le 7 de carreau (ou de cœur), selon la table ; sinon voisin du donneur.
 - **Jouer :** une carte : un 7, ou la suivante vers le roi, ou vers l'as, dans une couleur ouverte.
@@ -5579,6 +6288,8 @@ Le Sept est un jeu tranquille, parfait pour une grande tablée intergénération
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 5/5 — la hiérarchie sociale de la table, les échanges forcés et le chambrage en font un jeu d'ambiance redoutable
 - **Challenge :** 3/5 — vraie gestion de main et lecture des adversaires, mais l'avantage du Président rend la remontée difficile
+
+*Aller à l'[aide-mémoire](#memo-president).*
 
 ### En bref
 
@@ -5669,8 +6380,7 @@ On peut jouer sans compter, pour le seul plaisir des titres. Pour désigner un v
 
 **Grand Président à deux paquets** : à huit joueurs ou plus, on mélange deux jeux et l'on admet les quintes de même valeur (cinq 7).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-president}
 - **Ordre :** 3 (faible) … R, as, 2 (fort) ; couleurs sans importance ; jokers au-dessus des 2 si on les ajoute.
 - **Donne :** toutes les cartes, une à une.
 - **Levée :** même nombre de cartes, valeur supérieure, ou passer ; quand tous passent, le dernier à avoir joué rouvre.
@@ -5697,6 +6407,8 @@ Le Président est un jeu social avant d'être un jeu de cartes : l'échange for
 - **Hasard / réflexion :** environ 45 % hasard, 55 % réflexion
 - **Fun :** 4/5 — les révolutions et les règles locales provoquent des renversements spectaculaires
 - **Challenge :** 4/5 — les règles additionnelles demandent vigilance et calcul
+
+*Aller à l'[aide-mémoire](#memo-daifugo).*
 
 ### En bref
 
@@ -5744,8 +6456,7 @@ On joue souvent sans compter. Sinon, on donne par exemple 2 points au Daifugō, 
 
 Le Daifugō est par nature un jeu de variantes. On peut le jouer « à la française » sans aucune règle locale, puis ajouter révolution et coupe du 8, et enfin le verrou et la chute de la capitale quand la table est rodée.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-daifugo}
 - **Cartes :** 52 + 1 joker ; ordre 3 … as, 2, joker ; le joker remplace aussi n'importe quelle carte.
 - **Donne :** tout.
 - **Levée :** même combinaison plus forte ou passer ; qui a passé ne rejoue pas dans la levée (usage japonais).
@@ -5770,6 +6481,8 @@ Pour qui aime le Président et en a fait le tour, le Daifugō est une excellente
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — les combinaisons à cinq cartes, empruntées au poker, donnent du panache
 - **Challenge :** 4/5 — la planification de sa main entière est un vrai casse-tête
+
+*Aller à l'[aide-mémoire](#memo-big-two).*
 
 ### En bref
 
@@ -5818,8 +6531,7 @@ Chaque perdant paie au gagnant un point par carte restante (jusqu'à 9 cartes), 
 
 **Tiến lên** (Vietnam) : sans mains de cinq cartes, mais avec des suites de toute longueur et des « bombes » (carré, suites de paires) qui coupent les 2.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-big-two}
 - **Cartes :** 52 ; ordre 3 … R, as, 2 ; couleurs carreau < trèfle < cœur < pique (Pusoy Dos : trèfle < pique < cœur < carreau).
 - **Donne :** 13 cartes à 4 ; à 3, 17 chacun et la dernière au détenteur du 3 de carreau.
 - **Ouverture :** 3 de carreau, inclus dans la première combinaison.
@@ -5844,6 +6556,8 @@ Le Big Two est l'un des jeux de grimpe les plus équilibrés : chacun a treize 
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — l'alliance temporaire contre le propriétaire et les bombes qui doublent l'enjeu sont très excitantes
 - **Challenge :** 4/5 — enchères, coopération muette et combinaisons variées
+
+*Aller à l'[aide-mémoire](#memo-dou-dizhu).*
 
 ### En bref
 
@@ -5900,8 +6614,7 @@ La mise de base est l'enchère (1, 2 ou 3). Elle est **doublée** à chaque bomb
 
 **Enchère « je veux le propriétaire »** : dans une variante populaire en ligne, les enchères se font par doublements successifs plutôt que par 1, 2, 3.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-dou-dizhu}
 - **Cartes :** 54 ; ordre 3 … as, 2, petit joker, grand joker ; couleurs sans importance.
 - **Donne :** 17 cartes chacun, 3 en réserve pour le propriétaire.
 - **Enchères :** 1, 2 ou 3, chacun une fois en surenchérissant ; 3 arrête ; tous passent = redonne.
@@ -5925,6 +6638,8 @@ Le Dou Dizhu est l'un des meilleurs jeux à trois joueurs, configuration pourtan
 - **Hasard / réflexion :** environ 35 % hasard, 65 % réflexion
 - **Fun :** 5/5 — annonces audacieuses, bombes, coups de théâtre et complicité avec le partenaire
 - **Challenge :** 5/5 — l'un des jeux de cartes en équipe les plus profonds qui soient
+
+*Aller à l'[aide-mémoire](#memo-tichu).*
 
 ### En bref
 
@@ -6015,8 +6730,7 @@ La partie se joue en 1 000 points ; en cas d'égalité au-delà, on joue une ma
 
 **Sens du jeu** : beaucoup de tables, notamment en France, jouent dans le sens des aiguilles d'une montre sans que cela change quoi que ce soit au fond.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-tichu}
 - **Cartes :** 52 + Mah-jong (1), Chien, Phénix, Dragon ; ordre 2 … as ; Phénix seul = carte jouée + 0,5 ; Dragon au-dessus de tout en carte seule.
 - **Donne :** 8 cartes (Grand Tichu possible), puis 6 (14 en tout) ; échange : 1 carte à chaque autre joueur.
 - **Ouverture :** détenteur du Mah-jong ; jeu vers la droite (sens inverse des aiguilles d'une montre).
@@ -6043,6 +6757,8 @@ Le Tichu est souvent cité par les amateurs comme le meilleur jeu de cartes mode
 - **Hasard / réflexion :** environ 35 % hasard, 65 % réflexion
 - **Fun :** 4/5 — les grosses bombes et la montée des niveaux créent un vrai feuilleton
 - **Challenge :** 5/5 — mains énormes, carte joker variable et jeu d'équipe très fin
+
+*Aller à l'[aide-mémoire](#memo-guandan).*
 
 ### En bref
 
@@ -6091,8 +6807,7 @@ Quand un joueur sort et que tout le monde passe après sa dernière combinaison,
 
 Les règles de tournoi chinoises fixent précisément le tribut, les conditions de victoire au niveau as et l'ordre des bombes ; dans les familles, on simplifie souvent ces points.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-guandan}
 - **Cartes :** 108 (2 jeux + 4 jokers), 27 par joueur ; ordre 2 … as, carte de niveau, petit joker, grand joker.
 - **Joker variable :** le cœur de la carte de niveau remplace toute carte sauf un joker.
 - **Combinaisons :** seule, paire, brelan, full, suite de 5 exactement, 3 paires suivies, 2 brelans suivis.
@@ -6118,6 +6833,8 @@ Le Guandan est un très grand jeu, au moins aussi riche que le [Tichu](#jeu-tich
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — attaques coordonnées, défenses désespérées et la honte du « durak » final
 - **Challenge :** 4/5 — beaucoup de mémoire et de lecture de jeu
+
+*Aller à l'[aide-mémoire](#memo-durak).*
 
 ### En bref
 
@@ -6169,8 +6886,7 @@ On ne compte pas de points : le durak distribue la manche suivante et subit les
 
 **Durak à 52 cartes** : avec beaucoup de joueurs, on garde tout le paquet.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-durak}
 - **Cartes :** 36 (6 à as) ; as fort ; carte retournée = atout, dernière de la pioche.
 - **Donne :** 6 cartes ; on complète à 6 après chaque tour (attaquant d'abord, défenseur en dernier).
 - **Premier attaquant :** plus petit atout à la première manche.
@@ -6196,6 +6912,8 @@ Le Durak est un jeu malin et social, où l'on ne se contente pas de jouer ses ca
 - **Hasard / réflexion :** environ 60 % hasard, 40 % réflexion
 - **Fun :** 4/5 — les cartes cachées retournées à l'aveugle et les ramassages de tas énormes font rire
 - **Challenge :** 2/5 — quelques choix réels, mais la fin se joue à l'aveugle
+
+*Aller à l'[aide-mémoire](#memo-palace).*
 
 ### En bref
 
@@ -6245,8 +6963,7 @@ On ne compte pas : le perdant distribue la manche suivante.
 
 **Karma** est une version commerciale aux cartes spécifiques.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-palace}
 - **Cartes :** 52 ; ordre 2 (spécial) … R, as ; deux jeux au-delà de 5 joueurs.
 - **Donne :** 3 cachées, 3 visibles dessus, 3 en main ; échange libre main/visibles avant de jouer.
 - **Jouer :** une ou plusieurs cartes de même valeur, égales ou supérieures ; complétez à 3 tant qu'il y a une pioche.
@@ -6271,6 +6988,8 @@ Le Palace est un excellent jeu de soirée, simple à apprendre et plein de rebon
 - **Hasard / réflexion :** environ 55 % hasard, 45 % réflexion
 - **Fun :** 4/5 — retourner ses cartes une à une crée un suspense délicieux
 - **Challenge :** 3/5 — mémoire, prise de risque et timing de la fin de manche
+
+*Aller à l'[aide-mémoire](#memo-golf-a-6-cartes).*
 
 ### En bref
 
@@ -6327,8 +7046,7 @@ On additionne la valeur de ses six cartes, à ceci près que **deux cartes de m�
 
 **Pénalité de fin** : si celui qui a mis fin à la manche n'a pas le plus petit total, il double son score de la manche.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-golf-a-6-cartes}
 - **Cartes :** 52 (deux jeux à partir de 5 joueurs) ; as 1, 2 = -2, 3 à 10 valeur faciale, V et D 10, R 0.
 - **Donne :** 6 cartes face cachée en 2 rangées de 3 ; chacun en retourne 2 ; une carte retournée lance la défausse.
 - **Tour :** prendre la défausse (échange obligatoire) ou la pioche (échanger, ou défausser et retourner une de ses cartes).
@@ -6353,6 +7071,8 @@ Le Golf est un excellent jeu familial, rapide à expliquer et plus subtil qu'il 
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 4/5 — les « Crapette ! » lancés à l'adversaire qui s'est trompé sont un grand plaisir
 - **Challenge :** 4/5 — beaucoup d'options à chaque tour et une règle de priorité exigeante
+
+*Aller à l'[aide-mémoire](#memo-crapette).*
 
 ### En bref
 
@@ -6412,8 +7132,7 @@ La règle française de base ne compte pas de points : le premier qui a placé 
 
 **Crapette avec 12 cartes** de réserve : certaines familles réduisent la crapette.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-crapette}
 - **Cartes :** 2 jeux de 52 aux dos différents, un par joueur.
 - **Mise en place :** crapette 13 cartes (dessus visible), 4 cartes de tableau chacun (8 piles), talon 35 cartes ; 8 fondations au centre.
 - **Premier joueur :** plus forte carte de crapette (règle française).
@@ -6427,6 +7146,79 @@ La règle française de base ne compte pas de points : le premier qui a placé 
 
 La Crapette est l'une des rares patiences à deux joueurs dignes de ce nom : on joue chacun son tour, mais l'interaction est constante. Il faut apprendre l'ordre de priorité et s'y tenir, ce qui rend les premières parties un peu laborieuses, puis le jeu devient très prenant. Idéal pour un couple ou deux amis qui veulent autre chose qu'un jeu de plis.
 
+## Spite and Malice {#jeu-spite-and-malice}
+*Autres noms : Cat and Mouse (« le chat et la souris »)*
+
+- **Famille :** patience à deux (jeu de construction en duel)
+- **Joueurs :** 2 (variantes à 3 ou 4)
+- **Matériel :** 2 jeux de 52 cartes, de dos différents si possible
+- **Durée d'une partie :** 20 à 40 min
+- **Âge conseillé :** dès 8 ans
+- **Diffusion :** Répandu dans les pays anglo-saxons ; niche en France (mais son dérivé commercial Skip-Bo y est connu)
+- **Hasard / réflexion :** 50 % hasard, 50 % réflexion
+- **Fun :** 3/5 — tranquille et prenant, avec de jolis enchaînements, mais peu d'interaction directe
+- **Challenge :** 3/5 — la gestion des piles de défausse demande du soin et de l'anticipation
+
+*Aller à l'[aide-mémoire](#memo-spite-and-malice).*
+
+### En bref
+Chacun possède une pile de cartes à écouler. Au centre, on construit des suites communes de l'as à la dame ; les rois sont des jokers. Le premier qui vide sa pile gagne. Le sel du jeu tient dans les quatre piles de défausse personnelles, qu'il faut organiser pour préparer de longues séquences sans offrir de cartes utiles à l'adversaire.
+
+### Histoire et origine
+Spite and Malice est un jeu américain, inconnu dans les livres avant les années 1960 : Richard L. Frey en publie les règles en 1965, comme un jeu récent joué entre époux. Le spécialiste du bridge Easley Blackwood le découvre sur un paquebot et contribue à le populariser dans les années 1970. David Parlett y voit une refonte de la [Crapette](#jeu-crapette) du XIXe siècle. Ses descendants commerciaux sont nombreux, dont le célèbre Skip-Bo (Mattel), qui reprend exactement la même mécanique avec des cartes numérotées de 1 à 12.
+
+### But du jeu
+Être le premier à jouer au centre la dernière carte de sa **pile de réserve** (la « pile de paiement »).
+
+### Mise en place
+Les couleurs ne comptent pas, seuls les rangs : as (1), 2… 10, valet (11), dame (12). Les **rois** sont jokers.
+
+1. Mélangez les deux paquets ensemble.
+2. Chaque joueur reçoit une pile de réserve de **20 cartes** face cachée (26 dans les versions des livres anglais) ; on retourne la carte du dessus.
+3. Chacun reçoit **5 cartes** en main. Le reste forme la pioche commune.
+4. Le joueur dont la carte de réserve visible est la plus forte commence (en cas d'égalité, on remélange).
+
+### Déroulement
+À son tour :
+
+1. **Complétez votre main à 5 cartes** en piochant.
+2. **Jouez au centre** autant de cartes que vous voulez, depuis votre main, le dessus de votre réserve ou le dessus de l'une de vos piles de défausse. Une pile centrale commence obligatoirement par un **as**, puis monte d'un rang à la fois jusqu'à la dame. Il peut y avoir jusqu'à **trois piles centrales** en même temps (quatre selon les livres).
+3. Quand vous jouez la carte du dessus de votre réserve, retournez la suivante.
+4. Si vous videz votre main sans avoir défaussé, piochez 5 nouvelles cartes et continuez.
+5. **Terminez votre tour en défaussant** une carte de votre main sur l'une de vos **quatre piles de défausse** (devant vous). Seule la carte du dessus d'une défausse est jouable.
+
+Restrictions : on ne place jamais de carte de réserve sur une défausse, on ne déplace pas de carte d'une défausse à l'autre et on ne reprend rien au centre. Un **roi** posé au centre vaut le rang suivant celui de la carte qu'il recouvre ; posé sur une défausse, il ne vaut rien tant qu'il n'est pas joué au centre. Une pile centrale qui atteint la dame est retirée et remélangée dans la pioche.
+
+### Décompte des points
+Le premier qui vide sa réserve gagne la partie. Pour une série, le vainqueur marque 5 points plus 1 point par carte restant dans la réserve adverse. Si la pioche s'épuise sans vainqueur, la partie est nulle (ou le joueur dont la réserve est la plus petite marque la différence).
+
+### Conseils de stratégie
+- **Priorité à la réserve.** Toute action doit servir à faire sortir la carte visible de votre réserve. Ne remplissez pas une pile centrale jusqu'au rang dont votre adversaire a besoin.
+- **Surveillez la réserve adverse.** Si son dessus est un 7, évitez de laisser une pile centrale à 6.
+- **Ordonnez vos défausses en descendant** (un 9 sur un 10, un 8 sur le 9…) : elles se dérouleront d'un coup au centre plus tard.
+- **Gardez une défausse libre** ou dédiée aux cartes « poubelles » pour ne pas boucher vos bonnes séquences.
+- **Économisez les rois.** Un roi joué trop tôt vous manquera pour débloquer votre réserve au moment décisif.
+
+### Variantes
+**Version des livres.** Réserve de 26 cartes, un paquet de 52 plus un autre avec 4 jokers ; jokers et rois sauvages (sauf comme as) ; une défausse ne peut recevoir qu'une carte égale ou inférieure d'un rang à son sommet ; les as et les 2 visibles doivent être joués.
+
+**Réserves plus courtes.** 14 à 15 cartes pour une partie de 10 minutes.
+
+**À trois ou quatre.** Un paquet de plus par joueur supplémentaire ; à quatre, on peut jouer en équipes et utiliser les défausses de son partenaire.
+
+**Skip-Bo.** Le jeu commercial reprend les mêmes règles avec ses propres cartes de 1 à 12 et des jokers « Skip-Bo ».
+
+### Aide-mémoire {#memo-spite-and-malice}
+- **Cartes :** 2 jeux de 52 mêlés ; as à dame ; rois sauvages ; couleurs sans importance.
+- **Donne :** réserve de 20 cartes (dessus visible), 5 en main, le reste en pioche.
+- **Tour :** compléter à 5 ; jouer au centre depuis main, réserve ou dessus des défausses ; finir par une défausse.
+- **Centre :** jusqu'à 3 piles, de l'as à la dame ; pile complète remélangée dans la pioche.
+- **Défausses :** 4 piles personnelles, seule la carte du dessus est jouable ; jamais de carte de réserve dessus.
+- **Fin de partie :** premier à vider sa réserve ; 5 points + 1 par carte de réserve adverse.
+
+### Verdict
+Un très bon jeu de couple ou de vacances, accessible aux enfants et assez tactique pour occuper des adultes. Ceux qui aiment les patiences y trouveront une version à deux avec un adversaire à surveiller ; les amateurs de jeux plus interactifs le trouveront lent et un peu solitaire. Pour d'autres duels de ce type, voir les [Patiences à deux](#jeu-patiences-a-deux).
+
 ## Speed {#jeu-speed}
 *Autres noms : Spit (version voisine), Slam*
 
@@ -6439,6 +7231,8 @@ La Crapette est l'une des rares patiences à deux joueurs dignes de ce nom : on
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexes
 - **Fun :** 5/5 — frénétique, bruyant, irrésistible
 - **Challenge :** 2/5 — de la vivacité et de l'œil plus que du calcul
+
+*Aller à l'[aide-mémoire](#memo-speed).*
 
 ### En bref
 
@@ -6474,8 +7268,7 @@ Chaque joueur reçoit **20 cartes**, dont il fait sa pioche. Au centre, on pose 
 
 **Spit** : chaque joueur reçoit la moitié du jeu et dispose cinq piles de 1, 2, 3, 4 et 5 cartes devant lui, carte du dessus visible. On pose sur deux piles centrales en suivant le même principe. Quand personne ne peut jouer, on retourne une nouvelle carte de son paquet. Quand un joueur a vidé ses piles, il tape sur la pile centrale la plus petite et la prend ; l'autre prend la plus grosse ; on recommence jusqu'à ce qu'un joueur n'ait plus de cartes.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-speed}
 - **Cartes :** 52 ; couleurs sans importance ; l'as touche le 2 et le roi.
 - **Mise en place :** 20 cartes de pioche chacun, 5 en main ; au centre 2 paquets de secours de 5 et 2 cartes de départ.
 - **Départ :** au signal, on retourne les 2 cartes centrales.
@@ -6499,6 +7292,8 @@ Un jeu de réflexes jubilatoire, parfait pour des enfants ou des adultes qui ont
 - **Hasard / réflexion :** environ 40 % hasard, 60 % rapidité et observation
 - **Fun :** 5/5 — un chaos joyeux autour des fondations communes
 - **Challenge :** 3/5 — rapidité, vision du jeu et sang-froid
+
+*Aller à l'[aide-mémoire](#memo-nerts).*
 
 ### En bref
 
@@ -6549,8 +7344,7 @@ Chaque joueur marque **1 point par carte** qu'il a posée sur les fondations (on
 
 **Nerts par équipes** : deux joueurs partagent une même mise en place.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-nerts}
 - **Cartes :** 1 jeu de 52 par joueur, dos différents.
 - **Mise en place :** pile Nerts de 13 cartes (dessus visible), 4 colonnes d'une carte, reste en pioche.
 - **Pioche :** retourner par 3, jouer la carte du dessus.
@@ -6564,13 +7358,13 @@ Chaque joueur marque **1 point par carte** qu'il a posée sur les fondations (on
 
 Le Nerts transforme la patience solitaire en fête collective : la table devient un champ de bataille où les mains s'entrechoquent au-dessus des fondations. Il demande un jeu de cartes par joueur et un peu d'espace, mais une fois lancé, c'est l'un des jeux de cartes les plus amusants pour une bande d'amis. Les joueurs lents ou anxieux peuvent s'y sentir dépassés.
 
-# Poker, jeux de mise et jeux de casino
+# 5. Poker, jeux de mise et jeux de casino
 
 Les jeux de ce chapitre ont un point commun qui les distingue de tous les autres : on n'y gagne pas des plis ni des points, on y gagne une **mise**. Chaque coup est une petite négociation entre ce que l'on sait, ce que l'on suppose de l'adversaire et ce que l'on est prêt à risquer. Certains, comme le poker et ses cousins (Brag, Teen Patti, Bouillotte), opposent les joueurs entre eux : la banque n'existe pas, le pot appartient à celui qui le remporte, et l'on peut gagner avec une main faible pourvu que les autres y croient. D'autres, comme le Blackjack, le Baccara ou le Trente-et-quarante, opposent chaque joueur à une **banque** qui encaisse et paie selon un barème fixe ; la réflexion y est plus étroite, mais le suspense de la carte retournée reste intact.
 
 Ce chapitre a son vocabulaire. Le **pot** est l'ensemble des jetons misés au centre. L'**ante** (ou cave d'entrée, « la mise de base ») est une petite contribution obligatoire de chacun avant la donne ; les **blinds** (mises à l'aveugle) en sont une version qui ne frappe que deux joueurs à tour de rôle. **Suivre** (« call »), c'est égaliser la mise en cours ; **relancer** (« raise »), c'est l'augmenter ; **parler** ou **checker**, c'est passer son tour sans miser quand personne n'a encore misé ; **se coucher** (« fold »), c'est abandonner la main et tout ce qu'on a déjà mis. Le **tapis** (« all-in ») désigne la totalité des jetons d'un joueur. L'**abattage** (« showdown ») est le moment où les mains restantes sont retournées. Enfin l'**avantage de la maison** est la part moyenne de chaque mise que la banque conserve à long terme dans un jeu de casino.
 
-Pour choisir : si vous voulez **le** jeu de poker de référence, prenez le Texas Hold'em ; si la table aime les mains spectaculaires, l'Omaha ; si vous jouez en famille avec des enfants, commencez par le Poker fermé à 5 cartes, le Sept et demi ou l'Entre-deux, très simples. Le Blackjack et le Baccara font découvrir l'ambiance d'un casino ; le Pharaon, la Bouillotte et le Brag intéresseront les amateurs d'histoire. Une soirée « au choix du donneur » permet d'en goûter plusieurs à la suite.
+Pour choisir : si vous voulez **le** jeu de poker de référence, prenez le Texas Hold'em ; si la table aime les mains spectaculaires, l'Omaha ; si vous jouez en famille avec des enfants, commencez par le Poker fermé à 5 cartes, le Sept et demi ou l'Entre-deux, très simples. Le Blackjack et le Baccara font découvrir l'ambiance d'un casino ; le Pharaon, le Lansquenet, la Bouillotte et le Brag intéresseront les amateurs d'histoire. Une soirée « au choix du donneur » permet d'en goûter plusieurs à la suite.
 
 Un mot de **jeu responsable**, une fois pour toutes. Dans ce livre, on joue avec des **jetons sans valeur**, des allumettes ou des haricots, pour le plaisir du bluff et du calcul. Les jeux de casino sont construits pour que la banque gagne à la longue : aucune stratégie, pas même le comptage de cartes, ne fait de la roulette ou du baccara un moyen de gagner de l'argent. Si l'envie vous prend de jouer de l'argent réel, fixez à l'avance une somme que vous acceptez de perdre et arrêtez-vous quand elle est épuisée ; et si le jeu cesse d'être un amusement, parlez-en à un proche ou à un service d'aide spécialisé.
 
@@ -6630,6 +7424,8 @@ Si les cinq cartes sont de même rang des deux côtés, il y a **égalité** et 
 - **Hasard / réflexion :** sur une main, 70 % hasard ; sur une soirée, 30 % hasard, 70 % réflexion
 - **Fun :** 5/5 — tension, bluff, retournements de dernière carte
 - **Challenge :** 5/5 — simple à apprendre, une vie entière pour le maîtriser
+
+*Aller à l'[aide-mémoire](#memo-texas-hold-em).*
 
 ### En bref
 
@@ -6725,8 +7521,7 @@ On compare ce chiffre à ses chances d'améliorer sa main. On compte ses **outs*
 
 Voir aussi plus loin l'[Omaha](#jeu-omaha), le [Short Deck](#jeu-short-deck) et le [Pineapple](#jeu-pineapple), qui sont tous des Hold'em modifiés.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-texas-hold-em}
 - **Cartes :** 52 cartes, as haut (ou bas dans as-2-3-4-5) ; hiérarchie des mains standard ; les couleurs ne départagent jamais.
 - **Avant la donne :** petite blind à gauche du bouton, grosse blind à sa gauche ; le bouton tourne d'un siège à gauche à chaque main ; à deux, le bouton pose la petite blind.
 - **Donne :** 2 cartes cachées chacun, une à la fois ; puis flop (3 cartes), turn (1), river (1), chacun précédé d'une carte brûlée.
@@ -6753,6 +7548,8 @@ Le Texas Hold'em mérite sa réputation : les règles tiennent sur une page, et
 - **Hasard / réflexion :** 40 % hasard, 60 % réflexion
 - **Fun :** 5/5 — des mains énormes et des pots gigantesques à chaque tour
 - **Challenge :** 4/5 — les calculs sont plus serrés qu'au Hold'em, les erreurs coûtent cher
+
+*Aller à l'[aide-mémoire](#memo-omaha).*
 
 ### En bref
 
@@ -6810,8 +7607,7 @@ Les tours d'enchères sont identiques à ceux du Hold'em : pré-flop, flop (tro
 
 **Limit Omaha Hi-Lo** : la forme habituelle des tournois mixtes, plus calme, en limite fixe.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-omaha}
 - **Cartes :** 52 cartes, 10 joueurs au plus ; 4 cartes cachées chacun.
 - **Mises obligatoires :** bouton, petite et grosse blinds comme au Hold'em.
 - **Déroulement :** pré-flop, flop (3), turn (1), river (1), quatre tours d'enchères, abattage.
@@ -6836,6 +7632,8 @@ L'Omaha s'adresse aux joueurs qui connaissent déjà le Hold'em et en ont envie 
 - **Hasard / réflexion :** 60 % hasard, 40 % réflexion
 - **Fun :** 4/5 — simple, rapide, idéal pour débuter et bluffer en famille
 - **Challenge :** 3/5 — peu d'information, donc moins de profondeur que le Hold'em
+
+*Aller à l'[aide-mémoire](#memo-poker-ferme-a-5-cartes).*
 
 ### En bref
 
@@ -6884,8 +7682,7 @@ Si le paquet s'épuise pendant le tirage, on mélange les défausses (sans les c
 
 **Poker de la veillée** : pour les plus jeunes, on supprime le second tour d'enchères ; chacun mise une fois, change ses cartes et abat. On apprend la hiérarchie sans pression.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-poker-ferme-a-5-cartes}
 - **Cartes :** 52 cartes, hiérarchie standard ; une ante de chacun.
 - **Donne :** 5 cartes cachées à chacun, une à la fois ; la donne tourne à gauche.
 - **1er tour :** le joueur à gauche du donneur checke ou ouvre ; si tout le monde checke, on redonne.
@@ -6910,6 +7707,8 @@ C'est le meilleur point d'entrée dans le poker, en particulier avec des enfants
 - **Hasard / réflexion :** 35 % hasard, 65 % réflexion
 - **Fun :** 4/5 — on suit la construction des mains carte après carte
 - **Challenge :** 5/5 — mémoire des cartes vues, lecture des mains, calcul fin
+
+*Aller à l'[aide-mémoire](#memo-stud-a-7-cartes).*
 
 ### En bref
 
@@ -6956,8 +7755,7 @@ Chaque joueur pose une ante. Le donneur distribue à chacun deux cartes face cac
 
 **Stud à jokers ou à cartes sauvages** : la base de nombreux jeux de soirée (voir le [Dealer's Choice](#jeu-dealer-s-choice)).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-stud-a-7-cartes}
 - **Cartes :** 52 cartes, 2 à 8 joueurs ; ante de chacun ; limite fixe, petite et grosse mise (par exemple 2 et 4).
 - **3e rue :** 2 cartes cachées et 1 visible ; la plus faible carte visible paie le bring-in (à rang égal : trèfle < carreau < cœur < pique).
 - **4e rue :** 1 carte visible ; la meilleure main visible parle en premier ; petite mise (grosse permise si paire visible).
@@ -6982,6 +7780,8 @@ Le Stud à 7 cartes est le poker des joueurs patients et observateurs. Il plaît
 - **Hasard / réflexion :** 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — beaucoup de mains fortes et d'actions
 - **Challenge :** 3/5 — les probabilités changent, il faut désapprendre ses réflexes de Hold'em
+
+*Aller à l'[aide-mémoire](#memo-short-deck).*
 
 ### En bref
 
@@ -7031,8 +7831,7 @@ C'est l'ordre le plus courant : la quinte reste au-dessus du brelan. Certaines 
 
 **Short Deck Omaha** : quatre cartes chacun, rarissime en dehors des parties privées.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-short-deck}
 - **Cartes :** 36 cartes (6 à as) ; l'as peut être bas dans as-6-7-8-9.
 - **Ordre des mains :** quinte flush royale, quinte flush, carré, **couleur**, **full**, quinte, brelan, double paire, paire, carte haute (brelan devant la quinte selon certaines tables).
 - **Mises obligatoires :** blinds comme au Hold'em, ou ante de chacun et mise supplémentaire du bouton.
@@ -7054,6 +7853,8 @@ Un excellent dépaysement pour des joueurs de Hold'em qui veulent de l'action sa
 - **Hasard / réflexion :** 60 % hasard, 40 % réflexion
 - **Fun :** 4/5 — chacun a une main qui donne envie de jouer
 - **Challenge :** 3/5 — une décision de plus qu'au Hold'em, mais des mains moins lisibles
+
+*Aller à l'[aide-mémoire](#memo-pineapple).*
 
 ### En bref
 
@@ -7089,8 +7890,7 @@ Comme au Hold'em (bouton, blinds), mais chaque joueur reçoit **trois** cartes f
 
 **Open-Face Chinese Pineapple** : un jeu très différent, où l'on dispose treize cartes en trois rangées visibles ; il mériterait sa propre fiche et n'est cité ici que pour éviter la confusion.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-pineapple}
 - **Cartes :** 52 cartes ; bouton et blinds comme au Hold'em ; 3 cartes cachées chacun.
 - **Pineapple :** on jette une carte après les enchères pré-flop, avant le flop.
 - **Crazy Pineapple :** on jette une carte après le flop, à la fin du deuxième tour d'enchères.
@@ -7113,6 +7913,8 @@ Un Hold'em plus généreux, idéal pour des joueurs qui trouvent qu'ils se couch
 - **Hasard / réflexion :** très variable selon les jeux, souvent 70 % hasard
 - **Fun :** 5/5 — rires, surprises et règles farfelues
 - **Challenge :** 2/5 — les cartes sauvages réduisent la stratégie ; on est là pour s'amuser
+
+*Aller à l'[aide-mémoire](#memo-dealer-s-choice).*
 
 ### En bref
 
@@ -7157,8 +7959,7 @@ Voici quelques classiques, décrits dans leur forme la plus courante.
 
 On peut créer ses propres variantes, à condition de les rédiger avant la soirée. Les plus inventifs font des cartes « maudites » (le 7 de carreau fait perdre la main), des pots partagés entre main haute et main basse, ou des jokers qui ne comptent que pour leur propriétaire.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-dealer-s-choice}
 - **Avant la soirée :** liste fermée de variantes et structure de mise commune (par exemple ante 1, mises 2 et 4).
 - **À chaque main :** le donneur annonce la variante et ses règles avant de distribuer ; une même variante une fois par tour de table.
 - **Baseball :** Stud à 7 cartes, 3 et 9 sauvages ; 4 visible = une carte visible en plus ; 3 visible = payer (souvent le pot) ou se coucher.
@@ -7183,6 +7984,8 @@ La formule idéale pour une bande d'amis qui aime le poker sans le prendre au s�
 - **Hasard / réflexion :** 80 % hasard, 20 % réflexion (les décisions sont connues et calculées)
 - **Fun :** 4/5 — rapide, tendu, chacun joue sa main
 - **Challenge :** 2/5 — une fois la stratégie de base apprise, peu de décisions ouvertes
+
+*Aller à l'[aide-mémoire](#memo-blackjack).*
 
 ### En bref
 
@@ -7280,8 +8083,7 @@ Le comptage est légal, mais les casinos en interdisent l'usage et peuvent exclu
 
 **Double exposition** : les deux cartes du croupier sont visibles, mais il gagne les égalités. Un bon exercice de stratégie.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-blackjack}
 - **Valeurs :** 2 à 10 leur valeur ; figures 10 ; as 1 ou 11 (main « souple » si l'as compte 11).
 - **Donne :** 2 cartes visibles à chaque joueur ; au croupier, une visible et une cachée (ou une seule avant le jeu des joueurs, en Europe).
 - **Blackjack :** as + carte de 10 en deux cartes, payé 3 pour 2 ; mise rendue si le croupier a aussi blackjack.
@@ -7306,6 +8108,8 @@ Un excellent jeu de casino à reproduire en famille : on apprend le calcul ment
 - **Hasard / réflexion :** 99 % hasard en Punto Banco ; un peu de choix en Chemin de fer
 - **Fun :** 3/5 — rituel élégant et suspense du retournement, mais aucune décision
 - **Challenge :** 1/5 — en Punto Banco, tout est imposé ; 2/5 en Chemin de fer
+
+*Aller à l'[aide-mémoire](#memo-baccara).*
 
 ### En bref
 
@@ -7367,8 +8171,7 @@ Description du **Punto Banco**, forme la plus jouée.
 
 **Pari sans commission** (« No Commission ») : la Banque est payée à égalité, mais une victoire de la Banque sur un 6 n'est payée qu'à moitié.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-baccara}
 - **Valeurs :** as 1 ; 2 à 9 leur valeur ; 10 et figures 0 ; on ne garde que le chiffre des unités.
 - **Donne :** 2 cartes visibles au Joueur, 2 à la Banque ; 8 ou 9 d'emblée (naturel), on ne tire plus.
 - **Joueur :** tire sur 0 à 5, reste sur 6 ou 7.
@@ -7393,6 +8196,8 @@ Le baccara est un jeu d'ambiance plus qu'un jeu de réflexion : son charme tien
 - **Hasard / réflexion :** 60 % hasard, 40 % réflexion
 - **Fun :** 4/5 — le jeu à l'aveugle crée des situations comiques et tendues
 - **Challenge :** 3/5 — beaucoup de bluff, peu de calcul
+
+*Aller à l'[aide-mémoire](#memo-brag).*
 
 ### En bref
 
@@ -7442,8 +8247,7 @@ Pour les suites, la règle la plus répandue fait de **as-2-3** la plus forte, p
 
 **Nine-card Brag** : neuf cartes, trois mains de trois à disposer par ordre de force ; un jeu de construction sans enchères.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-brag}
 - **Cartes :** 52 cartes ; ante de chacun ; 3 cartes cachées à chacun.
 - **Ordre des mains :** prial (trois 3, puis trois as, trois rois… trois 2), running flush, run, flush, paire, carte haute.
 - **Suites :** as-2-3 la plus forte, puis as-roi-dame, roi-dame-valet… ; 2-as-roi n'est pas une suite.
@@ -7468,6 +8272,8 @@ Un jeu nerveux et convivial, parfait pour qui aime l'idée du poker sans sa comp
 - **Hasard / réflexion :** 60 % hasard, 40 % réflexion
 - **Fun :** 4/5 — rapide et bruyant, avec le jeu à l'aveugle
 - **Challenge :** 3/5 — bluff et gestion du risque, peu de calcul
+
+*Aller à l'[aide-mémoire](#memo-teen-patti).*
 
 ### En bref
 
@@ -7516,8 +8322,7 @@ Chacun pose une mise de départ, le **boot**. On distribue trois cartes face cac
 
 **999** : la main la plus proche de 9 (en additionnant les points comme au [baccara](#jeu-baccara)) gagne.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-teen-patti}
 - **Cartes :** 52 cartes ; mise de départ (boot) de chacun ; 3 cartes cachées à chacun.
 - **Ordre des mains :** trail (trois as en tête), pure sequence, sequence, color, pair, high card.
 - **Suites :** as-roi-dame, puis as-2-3, puis roi-dame-valet… (as-2-3 en tête selon certaines tables).
@@ -7542,6 +8347,8 @@ Un jeu plein de vie, parfait pour un groupe nombreux qui veut des parties rapide
 - **Hasard / réflexion :** 60 % hasard, 40 % réflexion
 - **Fun :** 3/5 — curieux et vivant, mais le décompte final demande de l'habitude
 - **Challenge :** 3/5 — bluff et mémoire des cartes d'un jeu réduit
+
+*Aller à l'[aide-mémoire](#memo-bouillotte).*
 
 ### En bref
 
@@ -7580,8 +8387,7 @@ Chaque joueur dispose d'une cave (par exemple 50 jetons), qui limite ses mises. 
 
 **Brelan** : l'ancêtre, joué avec un paquet plus long et des règles d'enchères plus complexes, aujourd'hui seulement documenté dans les anciens traités.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-bouillotte}
 - **Cartes :** 20 cartes à 4 (as, roi, dame, 9, 8) ; 24 à 5 (avec les valets) ; 16 à 3 (sans les dames).
 - **Valeurs pour le point :** as 11, figures 10, 9 et 8 leur valeur.
 - **Mises :** cave égale pour chacun ; mise initiale au pot ; carré et contre-carré facultatifs avant la donne.
@@ -7608,6 +8414,8 @@ Un jeu pour les curieux d'histoire et les tablées qui aiment ressusciter de vie
 - **Hasard / réflexion :** 95 % hasard, 5 % réflexion
 - **Fun :** 3/5 — tension à chaque paire de cartes, ambiance de saloon
 - **Challenge :** 1/5 — à part le dernier tour, aucune décision qui compte
+
+*Aller à l'[aide-mémoire](#memo-pharaon).*
 
 ### En bref
 
@@ -7646,8 +8454,7 @@ Les **treize cartes d'une même couleur** (traditionnellement des piques), de l'
 
 **Bassette** : l'ancêtre italien, avec des paiements progressifs pour les mises laissées en place.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-pharaon}
 - **Tapis :** les 13 piques de l'as au roi ; le paquet de 52 cartes face visible dans la boîte.
 - **Soda :** la première carte visible, sans effet.
 - **Chaque tour :** 1re carte perdante (la banque ramasse les mises sur ce rang), 2e gagnante (payée 1 pour 1).
@@ -7658,6 +8465,70 @@ Les **treize cartes d'une même couleur** (traditionnellement des piques), de l'
 ### Verdict
 
 Une curiosité historique savoureuse, idéale pour une soirée à thème « western » ou une reconstitution. Les enfants adorent la simplicité du principe. Les adultes trouveront vite qu'il n'y a pas grand-chose à décider, mais l'ambiance compense le temps d'un paquet ou deux.
+
+## Lansquenet {#jeu-lansquenet}
+*Autres noms : Landsknecht (allemand) ; formes voisines : Zecchinetta (Italie), Skin (États-Unis)*
+
+- **Famille :** jeu de banque (jeu de hasard historique)
+- **Joueurs :** 3 à 10
+- **Matériel :** 1 jeu de 52 cartes (autrefois plusieurs mêlés) ; jetons
+- **Durée d'une partie :** à volonté ; un coup dure moins d'une minute
+- **Âge conseillé :** dès 10 ans (avec des jetons sans valeur)
+- **Diffusion :** Niche (historique)
+- **Hasard / réflexion :** 95 % hasard, 5 % décision (mises, garder ou passer la banque)
+- **Fun :** 3/5 — suspense pur à chaque carte retournée, pour quelques tours
+- **Challenge :** 0/5 — aucune décision ne change les chances
+
+*Aller à l'[aide-mémoire](#memo-lansquenet).*
+
+### En bref
+Le banquier retourne deux cartes : une pour lui, une pour les joueurs. Puis il retourne les cartes du paquet une à une : si le rang de la carte des joueurs sort le premier, la banque paie ; si c'est le rang de sa propre carte, elle encaisse. Rien à calculer, tout à espérer : c'est la pure mécanique du jeu de hasard, qui fit la fortune et la ruine de bien des courtisans.
+
+### Histoire et origine
+Le nom vient des *Landsknechte*, les mercenaires allemands des XVe et XVIe siècles, qui auraient apporté le jeu en France. Rabelais le cite dans la liste des jeux de Gargantua (édition de 1542). Au XVIIe siècle, il fait fureur à la cour : une gravure de 1694 montre le Grand Dauphin y jouant à Versailles, et les sommes perdues au lansquenet alimentent la chronique du temps. Sa simplicité en faisait aussi le terrain favori des tricheurs, qui préparaient un paquet de cartes à l'avance. Il a cédé la place au [Pharaon](#jeu-pharaon) puis au [Baccara](#jeu-baccara), qui reposent sur le même principe de cartes appariées, et survit en Italie sous le nom de Zecchinetta. Les règles ci-dessous suivent la forme française du XIXe siècle décrite par pagat, jouée ici avec des jetons.
+
+### But du jeu
+Pour le banquier : voir sortir le rang de sa carte avant celui de la carte des joueurs. Pour les joueurs (les pontes) : l'inverse.
+
+### Mise en place
+Les couleurs ne comptent pas, seuls les rangs. On joue avec un paquet de 52 cartes, mélangé avant chaque coup (autrefois six paquets mêlés). Chaque joueur reçoit un même capital de jetons, par exemple 100.
+
+Tirez au sort le premier banquier. Il mélange, le joueur à sa gauche coupe.
+
+### Déroulement
+1. **La mise de la banque.** Le banquier pose sa mise au centre, par exemple 10 jetons.
+2. **Les mises des pontes.** En commençant par le joueur à droite du banquier, chacun peut **tenir** toute la mise (les autres ne misent plus), en tenir une partie (le total des pontes ne dépassant jamais la mise de la banque), ou passer.
+3. **Les deux cartes.** Le banquier retourne une carte pour lui, à sa gauche, et une carte pour les joueurs, à sa droite. Si elles sont de même rang, la banque gagne aussitôt toutes les mises.
+4. **Le tirage.** Sinon, il retourne les cartes une à une. Une carte d'un autre rang ne fait rien. Dès qu'une carte reproduit le rang de **la carte de la banque**, le banquier ramasse toutes les mises. Dès qu'elle reproduit le rang de **la carte des joueurs**, il paie à chacun l'équivalent de sa mise.
+5. **Après le coup.** Si la banque a perdu, elle passe au joueur suivant (à droite). Si elle a gagné, le banquier peut **laisser** ses gains dans la mise (qui double donc) et faire un nouveau coup, ou **passer** la banque. Un autre joueur peut alors l'**acheter** en déposant la même mise ; sinon elle passe au suivant.
+
+### Décompte des points
+On joue avec des jetons. La partie s'arrête à l'heure convenue, ou quand un joueur est ruiné ; le plus riche gagne.
+
+### Conseils de stratégie
+- **Il n'y a pas de stratégie de jeu** : les deux cartes ont exactement les mêmes chances de sortir la première. Le seul avantage de la banque vient du cas où les deux premières cartes sont égales.
+- **Savoir s'arrêter** est la seule compétence : un banquier qui laisse doubler sa mise trois ou quatre fois de suite joue tout son gain sur un tirage. Fixez-vous une limite avant de commencer.
+- **Ne tenez pas toute la mise** si votre capital est faible : vous pourriez être éliminé d'un coup.
+
+### Variantes
+**Lansquenet à plusieurs cartes.** Dans une forme ancienne, le banquier retourne une carte pour chaque ponte (de rangs tous différents) et une pour lui ; un ponte dont la carte est appariée perd sa mise ; si la carte de la banque sort d'abord, le banquier paie tous les pontes encore en jeu.
+
+**Jumelles.** Selon certaines descriptions, si les deux rangs sortent en même temps, la banque ne prend que la moitié des mises.
+
+**Zecchinetta.** Version italienne, avec un jeu de 40 cartes et deux cartes pour les joueurs : on parie que sa carte ne sera pas appariée avant celle du banquier.
+
+**Version enfants.** Sans mises variables : chaque coup se joue pour 1 jeton, la banque tourne à chaque coup. Un bon moyen d'expliquer les probabilités.
+
+### Aide-mémoire {#memo-lansquenet}
+- **Cartes :** 52, seuls les rangs comptent ; mélanger à chaque coup.
+- **Mises :** la banque pose sa mise ; les pontes la tiennent en tout ou en partie, jamais au-delà.
+- **Tirage :** une carte pour la banque (à gauche), une pour les joueurs (à droite) ; égales : la banque gagne.
+- **Résultat :** le rang de la banque sort d'abord : elle ramasse ; celui des joueurs : elle paie chaque mise.
+- **Banque :** perdue, elle passe à droite ; gagnée, on laisse doubler ou on la passe (achat possible).
+- **Fin de partie :** heure convenue ou ruine d'un joueur.
+
+### Verdict
+Le Lansquenet ne vaut pas par sa profondeur, qui est nulle, mais par ce qu'il raconte : la fièvre du jeu à la cour de Louis XIV, la tentation de « laisser courir » une banque gagnante. Joué avec des jetons sans valeur, il amuse un quart d'heure et sert de jolie leçon de probabilités. Comme jeu de soirée, la [Bouillotte](#jeu-bouillotte) ou le [Baccara](#jeu-baccara) offrent davantage.
 
 ## Trente-et-quarante {#jeu-trente-et-quarante}
 *Autres noms : Rouge et Noir*
@@ -7671,6 +8542,8 @@ Une curiosité historique savoureuse, idéale pour une soirée à thème « wes
 - **Hasard / réflexion :** 100 % hasard
 - **Fun :** 3/5 — rituel élégant, suspense de la ligne qui s'allonge
 - **Challenge :** 0/5 — aucune décision une fois la mise posée
+
+*Aller à l'[aide-mémoire](#memo-trente-et-quarante).*
 
 ### En bref
 
@@ -7705,8 +8578,7 @@ Il n'y en a aucune qui change les chances : tous les paris se valent. Certains 
 
 **Trente-et-quarante familial** : un joueur tient la banque à tour de rôle. Sans commission ni refait, le jeu devient parfaitement équitable, et l'on peut en faire un exercice d'addition pour les enfants.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-trente-et-quarante}
 - **Valeurs :** as 1, figures 10, autres cartes leur valeur ; 6 jeux de 52 cartes.
 - **Donne :** rangée Noir d'abord, puis Rouge, chacune jusqu'à dépasser 30 (total de 31 à 40).
 - **Gagnant :** la rangée au total le plus bas ; Rouge et Noir payés 1 pour 1.
@@ -7730,6 +8602,8 @@ Un jeu de pur hasard, mais d'une élégance désuète qui plaît dans une soiré
 - **Hasard / réflexion :** 75 % hasard, 25 % réflexion
 - **Fun :** 4/5 — rapide, festif, tout le monde participe
 - **Challenge :** 2/5 — une seule décision, mais elle se discute
+
+*Aller à l'[aide-mémoire](#memo-sept-et-demi).*
 
 ### En bref
 
@@ -7777,8 +8651,7 @@ Un joueur tient la **banque**. Chacun reçoit une carte face cachée, puis mise 
 
 **Version enfants** : chacun tient la banque pour cinq coups ; on mise des bonbons, chaque joueur commence avec dix.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-sept-et-demi}
 - **Cartes :** 40 cartes (ou 52 sans les 8, 9 et 10) ; as à 7 leur valeur ; figures un demi-point.
 - **Matta :** roi de deniers (roi de carreau) sauvage, en Italie.
 - **Donne :** une carte cachée à chacun, puis chacun mise.
@@ -7802,6 +8675,8 @@ Le jeu de mise familial par excellence : on l'explique en une minute aux enfant
 - **Hasard / réflexion :** 85 % hasard, 15 % réflexion
 - **Fun :** 4/5 — le moment où l'on mise le pot entier est électrique
 - **Challenge :** 2/5 — une seule décision : combien miser
+
+*Aller à l'[aide-mémoire](#memo-entre-deux).*
 
 ### En bref
 
@@ -7843,8 +8718,7 @@ Chacun met une ante dans le pot (par exemple 2 jetons). L'as est la carte la plu
 
 **Sans poteau double** : toucher le poteau fait seulement perdre la mise. Recommandé avec les jeunes enfants.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-entre-deux}
 - **Cartes :** 52 cartes, as haut, 2 bas ; ante de chacun dans le pot (par exemple 2 jetons).
 - **Coup :** deux cartes retournées devant le joueur ; il mise du minimum à la totalité du pot.
 - **Résultat :** troisième carte strictement entre, il prend sa mise au pot ; en dehors, sa mise va au pot ; égale à l'une (poteau), il paie le double.
@@ -7868,6 +8742,8 @@ Le jeu idéal pour initier des enfants aux mises et aux probabilités : on voit
 - **Hasard / réflexion :** 90 % hasard, 10 % réflexion
 - **Fun :** 3/5 — tension simple, paiements variés
 - **Challenge :** 1/5 — une seule décision, facile à calculer
+
+*Aller à l'[aide-mémoire](#memo-red-dog).*
 
 ### En bref
 
@@ -7902,8 +8778,7 @@ Ne doublez que sur un écart de **7 ou plus** : c'est le seul cas où les chanc
 
 **Red Dog familial** : un joueur tient la banque à tour de rôle, avec le même barème ; à la maison, le paquet unique rend le jeu plus prévisible pour qui suit les cartes.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-red-dog}
 - **Cartes :** 1 à 8 jeux, as haut, couleurs sans importance ; on mise avant de voir les cartes.
 - **Écart :** nombre de rangs strictement entre les deux cartes retournées.
 - **Consécutives :** coup nul ; **paire :** brelan payé 11 pour 1, sinon coup nul.
@@ -7926,6 +8801,8 @@ Un petit jeu rapide, plus cadré que l'Entre-deux. Il apprend le lien entre risq
 - **Hasard / réflexion :** 40 % hasard, 60 % réflexion
 - **Fun :** 5/5 — annonces de plus en plus folles, et l'instant du « menteur ! »
 - **Challenge :** 4/5 — estimer, déduire, bluffer : beaucoup de finesse
+
+*Aller à l'[aide-mémoire](#memo-liar-s-poker).*
 
 ### En bref
 
@@ -7964,8 +8841,7 @@ Version cartes. Retirez les figures : on garde l'as (qui vaut 1) jusqu'au 10, s
 
 **Poker de bluff** : chaque joueur reçoit quelques cartes du paquet complet, et les annonces portent sur des **mains de poker** que l'on pourrait former avec l'ensemble des cartes en jeu (« il y a une paire de rois », « une couleur à cœur »). Les annonces suivent la hiérarchie des mains. C'est une belle façon de réviser cette hiérarchie.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-liar-s-poker}
 - **Cartes :** 40 cartes, as (1) à 10 ; 5 cartes chacun (8 à 3 ou 4 joueurs) ; 5 jetons chacun.
 - **Annonce :** une quantité et un rang présents au total dans toutes les mains (« trois 6 »).
 - **Surenchère :** même quantité d'un rang supérieur, ou quantité supérieure ; 10 le plus haut, as le plus bas.
@@ -7977,7 +8853,7 @@ Version cartes. Retirez les figures : on garde l'as (qui vaut 1) jusqu'au 10, s
 
 Un jeu de bluff remarquable, rapide à apprendre et très riche, qui marche avec des joueurs de tous âges dès que l'on sait compter. Il plaît aux amateurs de psychologie autant qu'aux calculateurs, et l'instant du dévoilement collectif est toujours un moment fort. Il peut déplaire aux joueurs qui n'aiment pas être accusés de mentir… ce qui est le principe même du jeu.
 
-# Patiences et réussites : jouer seul
+# 6. Patiences et réussites : jouer seul
 
 Une patience, c'est un jeu de cartes que l'on mène seul contre le paquet. Le joueur dispose les cartes selon un plan fixe, puis tente, en les déplaçant selon quelques règles simples, de les ranger toutes dans un ordre convenu : le plus souvent par couleur, de l'as au roi. Le français hésite entre deux mots. « Patience » insiste sur la vertu qu'il faut pour aller au bout ; « réussite » dit ce que l'on espère, et rappelle qu'au XIXe siècle on tirait volontiers la réussite pour savoir si un vœu serait exaucé. Les Anglais disent *patience*, les Américains *solitaire*. On ignore où et quand le genre est né exactement : les premières descriptions imprimées apparaissent en Europe du Nord à la fin du XVIIIe siècle, et les recueils se multiplient au XIXe, en France comme en Angleterre, où Lady Adelaide Cadogan publie vers 1870 un petit livre qui fait date.
 
@@ -8000,6 +8876,8 @@ Pour choisir, retenez ceci : si vous voulez un jeu détendu, prenez Klondike ou
 - **Taux de réussite :** selon les études par ordinateur, environ 80 % des donnes (82 % selon le calcul le plus cité) sont gagnables avec une connaissance parfaite des cartes ; un joueur attentif en gagne environ 30 à 40 % en pioche 1 et 10 à 20 % en pioche 3
 - **Fun :** 4/5 — le plaisir simple de voir les colonnes se dégager, et des parties courtes qu'on enchaîne
 - **Challenge :** 3/5 — plus de décisions qu'il n'y paraît, surtout en pioche 3, mais beaucoup de donnes sont perdues d'avance
+
+*Aller à l'[aide-mémoire](#memo-klondike).*
 
 ### En bref
 
@@ -8066,8 +8944,7 @@ Le jeu « libre » se contente de compter les victoires. La version Windows pr
 
 **Double Klondike** : deux jeux mélangés (104 cartes), neuf colonnes de 1 à 9 cartes et huit fondations. Plus long et un peu plus facile. On peut aussi y jouer à deux, en compétition : voir les [Patiences à deux](#jeu-patiences-a-deux) à la fin de ce chapitre.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-klondike}
 - **Tableau :** 7 colonnes de 1 à 7 cartes (28 cartes) ; seule la carte du dessus de chaque colonne est visible (0 à 6 cachées dessous).
 - **Talon :** 24 cartes face cachée ; défausse à côté ; 4 fondations vides.
 - **Fondations :** par couleur, de l'as au roi.
@@ -8094,6 +8971,8 @@ Klondike est la patience des pauses et des soirées calmes, idéale pour commenc
 - **Taux de réussite :** presque 100 % des donnes sont gagnables (sur les 32 000 donnes numérotées de Windows, une seule est réputée impossible, la n° 11982) ; un joueur régulier gagne 80 à 95 % de ses parties, un expert presque toutes
 - **Fun :** 4/5 — la satisfaction de résoudre un vrai problème, sans jamais accuser la malchance
 - **Challenge :** 4/5 — certaines donnes demandent de planifier quinze coups à l'avance
+
+*Aller à l'[aide-mémoire](#memo-freecell).*
 
 ### En bref
 
@@ -8147,8 +9026,7 @@ La partie est gagnée quand toutes les cartes sont sur les fondations. Elle est 
 
 **Double FreeCell** : deux jeux, dix colonnes, six cases libres, huit fondations ; plus long.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-freecell}
 - **Tableau :** 52 cartes face visible en 8 colonnes : 4 de 7 cartes (à gauche), 4 de 6 cartes.
 - **Zones :** 4 cases libres (une carte chacune) et 4 fondations, vides au départ ; ni talon ni défausse.
 - **Fondations :** par couleur, de l'as au roi.
@@ -8174,6 +9052,8 @@ FreeCell est la patience des esprits logiques, de ceux qui veulent pouvoir dire 
 - **Taux de réussite :** à une couleur, la quasi-totalité des donnes sont gagnables et un joueur régulier en gagne la grande majorité ; à deux couleurs, un bon joueur gagne environ la moitié de ses parties ; à quatre couleurs, la plupart des donnes seraient gagnables par un jeu parfait (les estimations varient), mais un joueur ordinaire n'en gagne que 5 à 20 %, un expert patient peut-être 30 à 50 %
 - **Fun :** 4/5 — le plaisir de démêler peu à peu un enchevêtrement, et le « clac » d'une suite complète qui s'envole
 - **Challenge :** 4/5 — à quatre couleurs, c'est l'une des patiences les plus exigeantes qui soient
+
+*Aller à l'[aide-mémoire](#memo-araignee).*
 
 ### En bref
 
@@ -8245,8 +9125,7 @@ Le score de Windows, facile à reproduire : on part de **500 points**, on perd 
 
 **[Scorpion](#jeu-scorpion)** est une cousine, qui fait l'objet d'une fiche plus loin.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-araignee}
 - **Paquet :** 104 cartes (2 jeux) ; niveaux à 1, 2 ou 4 couleurs.
 - **Tableau :** 54 cartes en 10 colonnes : colonnes 1 à 4 de 6 cartes (5 cachées + 1 visible), colonnes 5 à 10 de 5 cartes (4 cachées + 1 visible).
 - **Talon :** 50 cartes, distribuées en 5 fois 10 cartes (une visible sur chaque colonne) ; interdit tant qu'une colonne est vide.
@@ -8273,6 +9152,8 @@ L'Araignée est la patience des longues soirées : à une couleur, c'est une do
 - **Taux de réussite :** avec un seul passage du talon et la règle stricte (vider aussi le talon), on gagne environ une partie sur cinquante selon les estimations courantes ; en ne vidant que la pyramide, un peu plus ; avec trois passages, une partie sur cinq ou un peu plus ; même avec un jeu parfait, beaucoup de donnes restent impossibles
 - **Fun :** 3/5 — rapide et plaisant, mais souvent perdu
 - **Challenge :** 2/5 — quelques vrais choix entre plusieurs paires, peu de planification
+
+*Aller à l'[aide-mémoire](#memo-pyramide).*
 
 ### En bref
 
@@ -8315,8 +9196,7 @@ On gagne quand la pyramide est vide. Certaines versions exigent aussi d'avoir é
 
 **Giza** : la pyramide est faite comme d'habitude, mais les 24 autres cartes sont étalées face visible en trois rangées de huit (réserve à découvert). Plus aucun hasard dans l'ordre : c'est un problème pur.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-pyramide}
 - **Valeurs :** as 1, chiffres à leur valeur, valet 11, dame 12, roi 13.
 - **Tableau :** 28 cartes face visible en pyramide de 7 rangées (1 à 7 cartes) ; chaque carte est recouverte par deux cartes de la rangée inférieure.
 - **Talon :** 24 cartes face cachée, retournées une à une sur une défausse.
@@ -8329,7 +9209,7 @@ On gagne quand la pyramide est vide. Certaines versions exigent aussi d'avoir é
 
 Une patience courte, idéale pour une pause ou pour faire réviser les additions aux enfants. Elle lasse vite les joueurs qui veulent de la réflexion : le hasard décide de la plupart des parties.
 
-## Golf {#jeu-golf}
+## Golf (patience) {#jeu-golf-patience}
 *Autres noms : Golf Solitaire*
 
 - **Famille :** patience d'appariement par suite (une de plus ou une de moins)
@@ -8342,6 +9222,8 @@ Une patience courte, idéale pour une pause ou pour faire réviser les additions
 - **Taux de réussite :** une part notable des donnes serait gagnable en connaissant toutes les cartes, sans chiffre établi ; en pratique, on vide entièrement le tableau dans une minorité de donnes, de l'ordre d'une sur dix (estimation prudente)
 - **Fun :** 3/5 — vif et rythmé, surtout avec le score façon golf
 - **Challenge :** 2/5 — les choix existent, mais restent simples
+
+*Aller à l'[aide-mémoire](#memo-golf-patience).*
 
 ### En bref
 
@@ -8388,8 +9270,7 @@ Le score d'une donne est le **nombre de cartes restées dans le tableau**. Si l'
 
 **Golf à plusieurs** : chaque joueur joue avec son propre jeu ; le meilleur total sur neuf trous l'emporte.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-golf-patience}
 - **Tableau :** 7 colonnes de 5 cartes face visible (35 cartes) ; seule la dernière de chaque colonne est jouable.
 - **Défausse :** une carte retournée pour commencer ; talon de 16 cartes face cachée.
 - **Pose :** sur la défausse, une carte d'une valeur de plus ou de moins, couleur indifférente ; enchaînements libres.
@@ -8415,9 +9296,11 @@ Une petite patience nerveuse et très plaisante, pour quelques minutes de jeu. L
 - **Fun :** 4/5 — les longues chaînes qui font tomber les trois pics sont très satisfaisantes
 - **Challenge :** 2/5 — un peu plus de choix qu'au Golf, mais le hasard décide souvent
 
+*Aller à l'[aide-mémoire](#memo-tripeaks).*
+
 ### En bref
 
-Un [Golf](#jeu-golf) en trois montagnes : trois pyramides côte à côte, dont les cartes du haut sont cachées. On les fait tomber en posant sur la défausse des cartes d'une valeur juste au-dessus ou au-dessous. Rapide, coloré, addictif.
+Un [Golf](#jeu-golf-patience) en trois montagnes : trois pyramides côte à côte, dont les cartes du haut sont cachées. On les fait tomber en posant sur la défausse des cartes d'une valeur juste au-dessus ou au-dessous. Rapide, coloré, addictif.
 
 ### Histoire et origine
 
@@ -8465,8 +9348,7 @@ Le score de la version d'origine récompense les **séries** : chaque carte d'u
 
 **À découvert** : toutes les cartes du tableau visibles dès le départ ; le jeu devient un vrai problème de planification.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-tripeaks}
 - **Tableau :** 28 cartes en trois pics : 3 cachées (sommets), 6 cachées, 9 cachées, puis une base de 10 cartes visibles.
 - **Défausse :** une carte retournée pour commencer ; talon de 23 cartes.
 - **Pose :** une carte non recouverte, d'une valeur de plus ou de moins que la défausse, couleur indifférente.
@@ -8490,6 +9372,8 @@ Le meilleur « Golf » qui soit, parfait pour quelques minutes de détente. On
 - **Taux de réussite :** il n'y a pas de talon, donc pas de « mauvaise pioche » ; selon les estimations disponibles, une large majorité des donnes est gagnable avec un jeu parfait, et un joueur attentif en gagne environ un quart à la moitié (chiffres à prendre avec prudence)
 - **Fun :** 3/5 — on déplace de grands blocs, c'est spectaculaire
 - **Challenge :** 3/5 — beaucoup de coups possibles, donc beaucoup de façons de se tromper
+
+*Aller à l'[aide-mémoire](#memo-yukon).*
 
 ### En bref
 
@@ -8540,8 +9424,7 @@ En pratique, on distribue d'abord comme au Klondike (une rangée de 1 à 7 carte
 
 **Yukon à deux jeux** : dix colonnes, huit fondations, pour des parties plus longues.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-yukon}
 - **Tableau :** 7 colonnes de 1, 6, 7, 8, 9, 10 et 11 cartes ; colonne 1 : 1 visible ; colonnes 2 à 7 : 1 à 6 cachées surmontées de 5 visibles.
 - **Pas de talon :** les 52 cartes sont distribuées ; 4 fondations vides.
 - **Fondations :** par couleur, de l'as au roi, depuis le bas d'une colonne.
@@ -8567,6 +9450,8 @@ Une excellente patience pour qui connaît le Klondike et veut plus de liberté. 
 - **Taux de réussite :** nettement plus difficile que Yukon ; un joueur expérimenté gagne environ une partie sur cinq à une sur dix, et une part importante des donnes semble impossible même avec un jeu parfait (pas de chiffre fiable connu)
 - **Fun :** 3/5 — tendu, mais souvent frustrant
 - **Challenge :** 4/5 — il faut prévoir loin pour libérer la bonne carte au bon moment
+
+*Aller à l'[aide-mémoire](#memo-russian-solitaire).*
 
 ### En bref
 
@@ -8601,8 +9486,7 @@ Exactement comme Yukon : sept colonnes de 1, 6, 7, 8, 9, 10 et 11 cartes ; dan
 
 **Alaska**, plus facile, voir la fiche Yukon.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-russian-solitaire}
 - **Tableau :** comme le Yukon, 7 colonnes de 1, 6, 7, 8, 9, 10, 11 cartes ; 1 à 6 cachées sous 5 visibles (colonnes 2 à 7).
 - **Pas de talon ;** 4 fondations par couleur, de l'as au roi.
 - **Tableau :** sur la valeur supérieure de la **même couleur** (enseigne).
@@ -8625,6 +9509,8 @@ Pour les amateurs de Yukon qui veulent un vrai défi. La construction en couleur
 - **Taux de réussite :** réputé difficile ; un joueur attentif gagne environ une partie sur cinq à une sur trois, et une partie des donnes est impossible quoi qu'on fasse (pas d'estimation fiable connue)
 - **Fun :** 3/5 — on démêle un nœud de cartes en grands mouvements
 - **Challenge :** 3/5 — de bons choix à faire, mais beaucoup de parties se jouent sur les cartes cachées
+
+*Aller à l'[aide-mémoire](#memo-scorpion).*
 
 ### En bref
 
@@ -8671,8 +9557,7 @@ La partie est gagnée quand les quatre suites sont formées.
 
 **Tout à découvert** : on distribue les 49 cartes face visible ; plus de réflexion, moins de hasard.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-scorpion}
 - **Tableau :** 49 cartes en 7 colonnes de 7 ; colonnes 1 à 4 : 3 cachées + 4 visibles ; colonnes 5 à 7 : 7 visibles.
 - **Réserve :** 3 cartes face cachée, distribuées une seule fois sur les colonnes 1 à 3.
 - **But :** 4 suites roi-as complètes, chacune d'une seule couleur (pas de fondations carte à carte).
@@ -8698,6 +9583,8 @@ Une patience originale, à mi-chemin de l'Araignée et du Yukon, qui demande de 
 - **Taux de réussite :** avec deux redonnes et le « merci », un joueur réfléchi gagne de l'ordre d'une partie sur cinq à une sur trois selon les sources ; sans redonne, très peu de parties aboutissent
 - **Fun :** 3/5 — élégante et rapide à installer, avec le petit suspense du « merci »
 - **Challenge :** 3/5 — tout est visible, mais les blocages sont fréquents et il faut anticiper
+
+*Aller à l'[aide-mémoire](#memo-la-belle-lucie).*
 
 ### En bref
 
@@ -8741,8 +9628,7 @@ Ranger les 52 cartes sur quatre fondations, par couleur, de l'as au roi.
 
 **House in the Wood** : une version à deux jeux, où l'on construit en couleur vers le haut ou vers le bas, décrite dans les recueils anglais.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-la-belle-lucie}
 - **Tableau :** 17 éventails de 3 cartes et un 18e d'une carte, tout face visible ; ni talon ni réserve.
 - **Jouable :** seulement la carte du dessus de chaque éventail, une carte à la fois.
 - **Fondations :** par couleur, de l'as au roi.
@@ -8768,6 +9654,8 @@ Une belle patience classique, facile à installer, dont le charme tient au « m
 - **Taux de réussite :** difficile ; un joueur ordinaire ne gagne qu'une petite fraction des parties (de l'ordre de quelques pour cent à une partie sur dix), alors qu'un solveur informatique a trouvé environ 70 % des donnes gagnables en connaissant toutes les cartes ; un expert pourrait viser autour d'une partie sur trois (chiffres variables selon les sources)
 - **Fun :** 3/5 — rapide, nerveux, avec un parfum de casino
 - **Challenge :** 3/5 — le maniement de la réserve et du talon demande de l'attention
+
+*Aller à l'[aide-mémoire](#memo-canfield).*
 
 ### En bref
 
@@ -8816,8 +9704,7 @@ Ranger les 52 cartes sur quatre fondations, par couleur, en partant d'une valeur
 
 **Superior Canfield** : la réserve est étalée face visible ; plus de réflexion, moins de hasard.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-canfield}
 - **Réserve :** 13 cartes en paquet, celle du dessus visible.
 - **Fondations :** la carte suivante fixe la valeur de base des 4 fondations ; montée par couleur en tournant (roi puis as).
 - **Tableau :** 4 cartes visibles côte à côte ; descente en alternant les couleurs, en tournant (roi sur as).
@@ -8843,6 +9730,8 @@ Une patience courte, parfaite pour qui aime les défis rapides et l'ambiance «�
 - **Taux de réussite :** l'une des patiences classiques les plus difficiles ; un bon joueur gagne autour d'une partie sur dix, peut-être un peu plus, et une part notable des donnes est impossible quoi qu'on fasse (estimations variables)
 - **Fun :** 3/5 — les parties sont longues et souvent perdues, mais chaque victoire se savoure
 - **Challenge :** 4/5 — chaque déplacement compte, et le talon ne passe qu'une fois
+
+*Aller à l'[aide-mémoire](#memo-quarante-voleurs).*
 
 ### En bref
 
@@ -8888,8 +9777,7 @@ Mélangez les deux jeux. Distribuez **dix colonnes de quatre cartes**, toutes **
 
 **Maria** : neuf colonnes de quatre cartes, construction en alternant les couleurs (environ une partie sur huit).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-quarante-voleurs}
 - **Paquet :** 104 cartes (2 jeux).
 - **Tableau :** 10 colonnes de 4 cartes, toutes face visible (40 cartes).
 - **Talon :** 64 cartes, retournées une par une sur une défausse ; **un seul passage**.
@@ -8914,6 +9802,8 @@ Pour les joueurs patients qui aiment les défis rudes et les parties longues. Su
 - **Taux de réussite :** bien plus clément que Quarante Voleurs : la grande majorité des donnes se gagne avec un jeu soigneux (les estimations vont d'environ trois parties sur quatre à neuf sur dix)
 - **Fun :** 3/5 — les suites qui se déplacent en bloc donnent du souffle aux parties
 - **Challenge :** 3/5 — le talon unique oblige à planifier, mais les erreurs se rattrapent mieux
+
+*Aller à l'[aide-mémoire](#memo-carre-de-napoleon).*
 
 ### En bref
 
@@ -8952,8 +9842,7 @@ Mélangez les deux jeux. Distribuez **douze colonnes de quatre cartes**, toutes 
 
 **Josephine** : dix colonnes, mais déplacement des suites en bloc ; à mi-chemin des deux jeux.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-carre-de-napoleon}
 - **Paquet :** 104 cartes (2 jeux).
 - **Tableau :** 12 colonnes de 4 cartes, toutes face visible (48 cartes), sur trois côtés d'un carré.
 - **Talon :** 56 cartes, une par une sur une défausse ; **un seul passage**.
@@ -8979,6 +9868,8 @@ Pour les joueurs qui trouvent Quarante Voleurs trop cruel : on garde le charme 
 - **Taux de réussite :** l'une des patiences les plus « gagnables » : la grande majorité des donnes peut être résolue, et un joueur soigneux en gagne nettement plus de la moitié
 - **Fun :** 3/5 — un joli problème tranquille, sans mauvaise surprise
 - **Challenge :** 3/5 — tout est visible, mais il faut planifier pour ne pas s'enfermer
+
+*Aller à l'[aide-mémoire](#memo-baker-s-dozen).*
 
 ### En bref
 
@@ -9018,8 +9909,7 @@ Distribuez **13 colonnes de 4 cartes**, toutes **face visible**, en chevauchemen
 
 **Portuguese Solitaire** : les rois restent en place, et seule une carte de roi peut aller dans une colonne vide (selon les sources).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-baker-s-dozen}
 - **Tableau :** 13 colonnes de 4 cartes, toutes face visible ; avant de jouer, chaque roi est glissé tout au fond de sa colonne.
 - **Pas de talon ;** 4 fondations vides.
 - **Jouable :** seulement la carte du dessus de chaque colonne, une carte à la fois.
@@ -9044,6 +9934,8 @@ Une patience reposante pour les amateurs de logique, qui voient tout et peuvent 
 - **Taux de réussite :** un joueur débutant gagne rarement ; un joueur expérimenté gagne la majorité de ses parties, les meilleurs revendiquent bien plus de la moitié, voire les trois quarts (chiffres d'amateurs, non vérifiés)
 - **Fun :** 3/5 — plaisir austère mais vif quand le plan se déroule
 - **Challenge :** 4/5 — une vraie marge de progression, qui récompense la mémoire et l'anticipation
+
+*Aller à l'[aide-mémoire](#memo-calculation).*
 
 ### En bref
 
@@ -9093,8 +9985,7 @@ On gagne quand les quatre fondations sont terminées par un roi.
 
 **Calculation à pile visible** : on étale les piles de dépôt en éventail pour voir toutes les cartes, ce qui ne change pas les règles mais aide la mémoire.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-calculation}
 - **Fondations :** un as, un 2, un 3, un 4 (couleurs indifférentes) sortis d'avance.
 - **Intervalles :** l'as monte de 1 en 1, le 2 de 2 en 2, le 3 de 3 en 3, le 4 de 4 en 4 ; on retire 13 au-delà du roi (V 11, D 12, R 13) ; toutes finissent par un roi.
 - **Suites :** 2-4-6-8-10-D-A-3-5-7-9-V-R ; 3-6-9-D-2-5-8-V-A-4-7-10-R ; 4-8-D-3-7-V-2-6-10-A-5-9-R.
@@ -9119,6 +10010,8 @@ La patience idéale pour qui aime calculer et prévoir. Elle est peu spectaculai
 - **Taux de réussite :** avec deux redonnes, un joueur expérimenté gagne peut-être une partie sur vingt si l'on mélange les cartes à chaque redonne, environ une sur sept sans mélanger ; avec des redonnes illimitées, la victoire devient presque certaine
 - **Fun :** 3/5 — les cartes qui glissent une à une vers leur place, c'est hypnotique
 - **Challenge :** 3/5 — il faut bien choisir quelles cases remplir et dans quel ordre
+
+*Aller à l'[aide-mémoire](#memo-montana).*
 
 ### En bref
 
@@ -9158,8 +10051,7 @@ Distribuez toutes les cartes **face visible** en **quatre rangées de treize car
 
 **Redonnes illimitées** ou **sans redonne** selon la difficulté voulue.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-montana}
 - **Tableau :** 52 cartes face visible en 4 rangées de 13, sans chevauchement ; on retire les 4 as, d'où 4 trous.
 - **But :** chaque rangée d'une seule couleur, du 2 au roi, de gauche à droite.
 - **Remplir un trou :** avec la carte de même couleur et de valeur immédiatement supérieure à celle de gauche.
@@ -9184,6 +10076,8 @@ Une patience originale et très visuelle, qui plaît beaucoup à ceux qui aiment
 - **Taux de réussite :** exactement 1 chance sur 13, soit environ 7,7 % ; le joueur n'y peut rien
 - **Fun :** 2/5 — joli rituel et petite tension, mais rien à faire
 - **Challenge :** 0/5 — aucune décision : le résultat est fixé dès que le jeu est mélangé
+
+*Aller à l'[aide-mémoire](#memo-l-horloge).*
 
 ### En bref
 
@@ -9220,8 +10114,7 @@ Il n'y en a aucun : le jeu ne laisse aucun choix. On peut tout au plus en faire
 
 **Réussite de l'horloge en oracle** : on formule un vœu avant de commencer ; certaines familles lisent un présage dans l'heure où la partie s'est arrêtée.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-l-horloge}
 - **Tableau :** 13 tas de 4 cartes face cachée : 12 en cercle (as à 1 heure… valet à 11 heures, dame à midi), 1 au centre pour les rois.
 - **Départ :** retourner la carte du dessus du tas central.
 - **Coup :** la poser face visible sous le tas de son heure, puis retourner la carte du dessus de ce tas.
@@ -9245,6 +10138,8 @@ Pas un jeu de réflexion, mais un petit rituel apaisant et un outil parfait pour
 - **Taux de réussite :** très difficile : réunir toutes les cartes en un seul tas n'arrive qu'environ une fois sur cent en jeu normal selon les recueils ; les études par ordinateur montrent pourtant qu'une grande partie des donnes serait gagnable en connaissant l'ordre des cartes
 - **Fun :** 2/5 — curieux et méditatif, mais on perd presque toujours
 - **Challenge :** 2/5 — de vrais choix, dont on mesure mal les conséquences
+
+*Aller à l'[aide-mémoire](#memo-accordeon).*
 
 ### En bref
 
@@ -9283,8 +10178,7 @@ Battez le jeu. Gardez-le en main, face cachée. Il n'y a rien à installer : le
 
 **Objectif réduit** : la partie est gagnée avec deux, trois ou cinq tas.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-accordeon}
 - **Mise en place :** aucune ; on pose les cartes une à une en ligne, de gauche à droite.
 - **Coup :** un tas va sur le tas immédiatement à sa gauche ou sur le troisième à sa gauche.
 - **Condition :** les deux cartes du dessus sont de même couleur (enseigne) ou de même valeur.
@@ -9307,6 +10201,8 @@ Une curiosité, à jouer pour la beauté du geste ou pour se lancer un défi pre
 - **Taux de réussite :** plutôt clément pour une patience à découvert : Morehead et Mott-Smith l'estiment à environ deux parties sur trois pour un joueur soigneux, mais une partie des donnes est bloquée d'emblée
 - **Fun :** 3/5 — le double sens des fondations donne un charme particulier
 - **Challenge :** 3/5 — tout est visible et chaque déplacement se réfléchit
+
+*Aller à l'[aide-mémoire](#memo-bisley).*
 
 ### En bref
 
@@ -9348,8 +10244,7 @@ Ranger toutes les cartes sur les fondations : chaque couleur est partagée entr
 
 **Bisley sans tableau double sens** : construction uniquement vers le bas, plus difficile.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-bisley}
 - **Fondations d'as :** les 4 as sortis d'avance, côte à côte à gauche de la première rangée ; montée par couleur.
 - **Tableau :** 48 cartes face visible en 13 colonnes : 4 de 3 cartes (sous les as), 9 de 4 cartes.
 - **Fondations de rois :** chaque roi libéré se place au-dessus de son as ; descente par couleur ; les deux piles d'une couleur peuvent se rejoindre.
@@ -9374,6 +10269,8 @@ Une patience élégante et méconnue, idéale pour ceux qui ont fait le tour de 
 - **Taux de réussite :** une étude par ordinateur (2019) estime qu'environ deux donnes sur trois (68 %) sont gagnables avec un jeu parfait ; un joueur soigneux en gagne nettement moins, peut-être une sur trois
 - **Fun :** 3/5 — la disposition en château est belle et les parties sont tendues
 - **Challenge :** 4/5 — tout se joue sur la planification, carte par carte
+
+*Aller à l'[aide-mémoire](#memo-chateau-assiege).*
 
 ### En bref
 
@@ -9415,8 +10312,7 @@ Ranger les 52 cartes sur les quatre fondations, par couleur, de l'as au roi.
 
 **Fortress** : cinq rangées de chaque côté des fondations, construction en couleur, vers le haut ou vers le bas.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-chateau-assiege}
 - **Fondations :** les 4 as sortis d'avance, l'un sous l'autre au centre ; montée par couleur jusqu'au roi.
 - **Tableau :** 48 cartes face visible en 8 rangées de 6, quatre à gauche et quatre à droite des as.
 - **Jouable :** la carte la plus éloignée du centre de chaque rangée, une carte à la fois.
@@ -9441,6 +10337,8 @@ Un vrai problème logique, plus serré que [FreeCell](#jeu-freecell) car il n'y 
 - **Taux de réussite :** on ne gagne pas contre le jeu mais contre l'autre joueur : le plus efficace l'emporte
 - **Fun :** 4/5 — l'esprit de compétition transforme la patience en jeu animé
 - **Challenge :** 2/5 — surtout de l'attention et des réflexes
+
+*Aller à l'[aide-mémoire](#memo-patiences-a-deux).*
 
 ### En bref
 
@@ -9485,8 +10383,7 @@ On trie les fondations par dos de carte : chaque joueur marque **1 point par ca
 
 **Crapette** et **Nerts** : les grandes patiences à deux, décrites dans le chapitre des jeux de défausse.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-patiences-a-deux}
 - **Matériel :** un jeu de 52 cartes par joueur, dos différents.
 - **Tableau :** chacun installe un Klondike complet (7 colonnes de 1 à 7 cartes, dernière carte visible, talon de 24).
 - **Fondations :** communes au centre (jusqu'à 8 à deux), par couleur, de l'as au roi ; chacun peut jouer sur toutes.
@@ -9498,11 +10395,11 @@ On trie les fondations par dos de carte : chaque joueur marque **1 point par ca
 
 Une excellente manière d'initier un enfant à la patience ou de jouer à deux sans apprendre de nouvelles règles. La version simultanée met de l'ambiance ; la version à tour de rôle convient aux soirées calmes. Les joueurs exigeants passeront à la Crapette.
 
-# Jeux de famille, d'enfants, de bluff et de rapidité
+# 7. Jeux de famille, d'enfants, de bluff et de rapidité
 
 Ce chapitre rassemble les jeux que l'on apprend avant tous les autres, souvent sur un coin de table de cuisine, pendant les vacances ou un après-midi de pluie. Ils ont en commun des règles qui s'expliquent en deux minutes, une ambiance bruyante et une place modeste accordée au calcul. On y joue pour rire, pour se défier du regard, pour taper le premier sur la pile ou pour mentir avec aplomb à son petit frère. Beaucoup se jouent avec un jeu de 52 cartes ordinaire ; quelques-uns, devenus des institutions françaises, demandent un matériel propre, comme le Nain jaune et son plateau ou le Mille Bornes et ses cartes illustrées.
 
-Ces jeux se répartissent en quatre grandes familles. Les **jeux d'enfants** (Bataille, Pouilleux, Sept familles, Pêche, Memory) apprennent à reconnaître les cartes, à compter, à attendre son tour et à perdre sans drame. Les **jeux de rapidité** (Bataille corse, Snap, Slapjack, Cuillères) récompensent le réflexe et l'attention : on y « tape », on y « claque », on y attrape. Les **jeux de bluff et de déduction** (Menteur, Kems, Coucou, Assassin) reposent sur ce que l'on montre ou cache aux autres, et deviennent passionnants entre adolescents et adultes. Enfin, quelques **jeux de famille plus construits** (Nain jaune, Mille Bornes, le jeu du 24, Plus ou moins) offrent une vraie partie à toutes les générations réunies.
+Ces jeux se répartissent en quatre grandes familles. Les **jeux d'enfants** (Bataille, Pouilleux, Sept familles, Pêche, Memory) apprennent à reconnaître les cartes, à compter, à attendre son tour et à perdre sans drame. Les **jeux de rapidité** (Bataille corse, Snap, Slapjack, Cuillères) récompensent le réflexe et l'attention : on y « tape », on y « claque », on y attrape. Les **jeux de bluff et de déduction** (Menteur, Kems, Coucou, Assassin) reposent sur ce que l'on montre ou cache aux autres, et deviennent passionnants entre adolescents et adultes. Enfin, quelques **jeux de famille plus construits** (Nain jaune, Mille Bornes, le jeu du 24, Plus ou moins, Gops) offrent une vraie partie à toutes les générations réunies.
 
 Un peu de vocabulaire revient souvent. **Taper** ou **claquer** : poser vivement la main à plat sur la pile centrale pour la revendiquer. Le **talon** ou la **pioche** : les cartes non distribuées, face cachée. Un **carré** : quatre cartes de même valeur. Une **famille** : un groupe de cartes à réunir (les quatre rois, ou les six membres d'une famille illustrée). Une **pénalité** : en général, une carte que l'on doit donner ou glisser sous la pile après une erreur.
 
@@ -9520,6 +10417,8 @@ Pour choisir : avec des enfants de 4 à 6 ans, Bataille, Memory, Snap et Sept f
 - **Hasard / réflexion :** 100 % hasard : l'issue est entièrement fixée par la distribution
 - **Fun :** 2/5 — les « batailles » font crier les petits, mais les adultes s'ennuient vite
 - **Challenge :** 0/5 — aucune décision à prendre, à aucun moment
+
+*Aller à l'[aide-mémoire](#memo-bataille).*
 
 ### En bref
 Chacun retourne la carte du dessus de son paquet ; la plus forte emporte les deux. En cas d'égalité, c'est la « bataille » qui donne son nom au jeu. C'est le premier jeu de cartes de presque tous les enfants de France, et aussi le seul jeu de ce livre où les joueurs ne décident strictement rien.
@@ -9560,8 +10459,7 @@ Les variantes suivantes ajoutent ce qui manque à la Bataille : une décision.
 
 **Le 2 bat l'as.** Selon certaines tables, le 2 (la plus petite carte) bat l'as : un petit retournement qui donne une chance aux faibles.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-bataille}
 - **Cartes :** 52 (ou 32) ; as > roi > dame > valet > 10 > … > 2 (ou 7) ; couleurs sans importance.
 - **Donne :** toutes les cartes, une par une, face cachée ; on ne regarde pas son paquet.
 - **Tour :** chacun retourne sa carte du dessus ; la plus forte prend les cartes, qui vont sous le paquet du gagnant.
@@ -9584,6 +10482,8 @@ Un jeu pour les tout-petits, et pour les adultes qui jouent avec eux. Il plaît 
 - **Hasard / réflexion :** 60 % hasard, 40 % réflexes et attention
 - **Fun :** 4/5 — cris, mains qui s'entassent et retournements permanents
 - **Challenge :** 1/5 — on progresse en vigilance, presque pas en réflexion
+
+*Aller à l'[aide-mémoire](#memo-bataille-corse).*
 
 ### En bref
 On pose à tour de rôle sa carte du dessus au centre, sans la regarder avant. Les figures et les as obligent le joueur suivant à « payer » plusieurs cartes. Et surtout, dès que deux cartes de même valeur se suivent, le premier qui tape sur la pile la ramasse. Les rapides peuvent renverser une partie perdue d'avance.
@@ -9627,8 +10527,7 @@ Le règlement de la claque simultanée est simple : la main **du dessous** (la 
 
 **Claque sur le valet.** On ne tape que lorsqu'un valet apparaît : c'est le [Slapjack](#jeu-slapjack), présenté plus loin.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-bataille-corse}
 - **Cartes :** 52 ; seules les valeurs comptent.
 - **Donne :** toutes les cartes, face cachée ; on retourne sa carte vers l'extérieur sans la voir.
 - **Paiement :** as 4 cartes, roi 3, dame 2, valet 1 ; si le payeur ne sort aucune figure ni as, le poseur de la figure ramasse et rejoue ; une figure posée en payant transfère la dette au suivant.
@@ -9651,6 +10550,8 @@ Le meilleur jeu de rapidité avec un jeu ordinaire. Il plaît aux enfants dès 6
 - **Hasard / réflexion :** 70 % hasard, 30 % attention
 - **Fun :** 3/5 — vif et drôle avec les petits, vite répétitif ensuite
 - **Challenge :** 1/5 — seule l'attention compte
+
+*Aller à l'[aide-mémoire](#memo-snap).*
 
 ### En bref
 Chacun retourne à son tour une carte sur sa propre pile ; quand deux piles montrent la même valeur, le premier qui crie « Snap ! » ramasse les deux piles. C'est un jeu d'observation pur, parfait pour les petits qui commencent à reconnaître les cartes.
@@ -9682,8 +10583,7 @@ Surveillez toutes les piles, pas seulement la vôtre. Retournez votre carte vers
 
 **Snap tapé.** Au lieu de crier, on tape sur la pile. Le jeu devient alors une petite Bataille corse sans figures de paiement.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-snap}
 - **Cartes :** 52 ; seule la valeur compte.
 - **Donne :** toutes les cartes, face cachée.
 - **Tour :** on retourne sa carte sur **sa propre** pile visible.
@@ -9706,6 +10606,8 @@ Un excellent premier jeu de rapidité pour les 4 à 7 ans, plus amusant que la B
 - **Hasard / réflexion :** 60 % hasard, 40 % réflexes
 - **Fun :** 3/5 — des claques franches et des fous rires, mais un seul ressort
 - **Challenge :** 1/5 — réflexe pur
+
+*Aller à l'[aide-mémoire](#memo-slapjack).*
 
 ### En bref
 On empile ses cartes au centre une à une ; dès qu'un valet apparaît, tout le monde tape dessus et la première main posée remporte la pile. C'est la [Bataille corse](#jeu-bataille-corse) réduite à sa plus simple expression : une seule carte à guetter.
@@ -9736,8 +10638,7 @@ Il n'y a guère que deux conseils : gardez la main près de la pile (sans la to
 
 **Évolution vers la Bataille corse.** On ajoute progressivement les doublons, puis les cartes de paiement, et l'on arrive au jeu précédent.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-slapjack}
 - **Cartes :** 52 ; seul le valet compte.
 - **Donne :** toutes les cartes, face cachée.
 - **Tour :** chacun retourne sa carte sur la pile centrale, vers l'extérieur.
@@ -9761,6 +10662,8 @@ Pour les petits de 4 à 7 ans qui veulent un jeu physique et bruyant. Simple, ra
 - **Hasard / réflexion :** 85 % hasard, 15 % bluff (le visage du porteur du Pouilleux)
 - **Fun :** 3/5 — la peur de tirer la carte maudite crée un vrai petit frisson
 - **Challenge :** 1/5 — presque tout est joué d'avance, sauf la comédie
+
+*Aller à l'[aide-mémoire](#memo-pouilleux).*
 
 ### En bref
 On forme des paires que l'on pose, puis l'on tire à tour de rôle une carte au hasard dans la main de son voisin. Une seule carte n'a pas de paire : celui qui la garde à la fin est le Pouilleux. Le jeu est simple, court, et apprend aux enfants à garder un visage impassible.
@@ -9803,8 +10706,7 @@ Le perdant est traditionnellement chahuté (« Pouilleux ! ») et, dans certa
 
 **Pouilleux à gages.** Le perdant subit un petit gage (chanter, faire le tour de la table à cloche-pied). Toujours bienveillant.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-pouilleux}
 - **Cartes :** 52 moins le valet de trèfle (51) ; le valet de pique est le Pouilleux.
 - **Paire :** même valeur et même teinte (deux rouges ou deux noires) ; variante : même valeur seule, en retirant trois valets.
 - **Donne :** toutes les cartes, une par une ; mains inégales permises.
@@ -9828,6 +10730,8 @@ Un jeu court et drôle pour les 4 à 8 ans, idéal pour apprendre les paires et 
 - **Hasard / réflexion :** 50 % hasard, 50 % mémoire
 - **Fun :** 3/5 — la formule « Dans la famille… je voudrais… » amuse toujours
 - **Challenge :** 2/5 — retenir qui a demandé quoi donne un vrai avantage
+
+*Aller à l'[aide-mémoire](#memo-jeu-des-sept-familles).*
 
 ### En bref
 Chaque joueur cherche à réunir des familles complètes en demandant aux autres les cartes qui lui manquent, avec la formule rituelle : « Dans la famille Boulanger, je voudrais le grand-père. » Si l'autre ne l'a pas : « Pioche ! » C'est un jeu de mémoire déguisé, car chaque demande révèle ce que l'on possède.
@@ -9876,8 +10780,7 @@ Le joueur qui a posé le plus de familles gagne. Dans certaines éditions, une f
 
 **Version tricheuse.** Pour les plus grands : on a le droit de répondre « Pioche ! » en mentant, mais si l'on est démasqué plus tard (la carte apparaît dans votre famille posée), on rend une famille. Ambiance garantie.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-jeu-des-sept-familles}
 - **Cartes :** 42 (7 familles de 6 : grand-père, grand-mère, père, mère, fils, fille) ; avec un jeu classique, une valeur = une famille de 4.
 - **Donne :** 7 cartes chacun le plus souvent (6, ou 5, selon les règles et le nombre de joueurs) ; le reste en pioche.
 - **Demande :** « Dans la famille X, je voudrais Y » à un joueur au choix ; il faut avoir au moins une carte de la famille.
@@ -9901,6 +10804,8 @@ Un incontournable pour les 5 à 10 ans et pour les réunions de famille où peti
 - **Hasard / réflexion :** 55 % hasard, 45 % mémoire et déduction
 - **Fun :** 3/5 — on se pique ses cartes, on crie « Va à la pêche ! »
 - **Challenge :** 2/5 — un bon mémorisateur bat régulièrement les autres
+
+*Aller à l'[aide-mémoire](#memo-peche).*
 
 ### En bref
 C'est le cousin du [jeu des sept familles](#jeu-jeu-des-sept-familles) avec un jeu ordinaire : on demande à un adversaire toutes ses cartes d'une valeur donnée pour réunir des carrés. S'il n'en a pas : « Va à la pêche ! » Plus rapide et plus nerveux que les sept familles, puisqu'on récupère toutes les cartes d'un coup.
@@ -9940,8 +10845,7 @@ Le joueur qui a le plus de carrés gagne. On peut jouer plusieurs manches et add
 
 **Pêche à quatre sans rejouer.** Une demande par tour, quel qu'en soit le résultat. Les parties sont plus équilibrées.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-peche}
 - **Cartes :** 52 ; on réunit des carrés (4 cartes de même valeur).
 - **Donne :** 7 cartes à 2 ou 3 joueurs, 5 à partir de 4 ; le reste étalé en « étang ».
 - **Demande :** une valeur que l'on possède, à un joueur au choix ; il donne **toutes** ses cartes de cette valeur, et l'on rejoue.
@@ -9965,6 +10869,8 @@ Un très bon jeu pour les 5 à 9 ans, plus rythmé que les sept familles et joua
 - **Hasard / réflexion :** 30 % hasard, 70 % mémoire
 - **Fun :** 3/5 — les enfants battent souvent les adultes, ce qui les ravit
 - **Challenge :** 2/5 — un pur entraînement de mémoire visuelle
+
+*Aller à l'[aide-mémoire](#memo-memory-avec-un-jeu-de-cartes).*
 
 ### En bref
 Toutes les cartes sont étalées face cachée ; on en retourne deux à chaque tour en espérant trouver une paire. Le jeu de mémoire le plus simple du monde, et l'un des rares où un enfant de six ans bat honnêtement ses parents.
@@ -10002,8 +10908,7 @@ Le joueur qui a le plus de paires gagne. Avec la règle « même valeur et mêm
 
 **Memory désordonné.** On étale les cartes en vrac plutôt qu'en grille : bien plus difficile, car il n'y a plus de repères.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-memory-avec-un-jeu-de-cartes}
 - **Cartes :** 52 (26 paires) ou 32 (16 paires), étalées face cachée en grille.
 - **Paire :** même valeur et même teinte (débutants : même valeur seule).
 - **Tour :** retourner deux cartes, visibles de tous quelques secondes.
@@ -10025,6 +10930,8 @@ Parfait pour les petits, très bon pour entraîner la mémoire à tout âge. Les
 - **Hasard / réflexion :** 75 % hasard, 25 % calcul de risque
 - **Fun :** 3/5 — le « encore une ! » donne des sueurs froides
 - **Challenge :** 1/5 — un peu de probabilité et beaucoup de cran
+
+*Aller à l'[aide-mémoire](#memo-plus-ou-moins).*
 
 ### En bref
 Une carte est retournée ; il faut deviner si la suivante sera plus forte ou plus faible. Tant qu'on a raison, on continue et l'on accumule des points ; on peut s'arrêter pour les mettre à l'abri, ou tout perdre sur une erreur. Un petit jeu de « stop ou encore » idéal pour initier les enfants aux probabilités.
@@ -10066,8 +10973,7 @@ On joue en un nombre fixé de tours (par exemple cinq tours par joueur), ou jusq
 
 **Solitaire.** On cherche à traverser tout le paquet en se trompant le moins possible.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-plus-ou-moins}
 - **Cartes :** 52 ; as le plus bas (1) jusqu'au roi (ou as le plus haut, à annoncer).
 - **Tour :** pronostiquer « plus » ou « moins » sur la carte suivante.
 - **Juste :** 1 point provisoire ; continuer ou s'arrêter pour encaisser.
@@ -10078,6 +10984,76 @@ On joue en un nombre fixé de tours (par exemple cinq tours par joueur), ou jusq
 
 ### Verdict
 Un jeu court pour toutes les générations, qui fait sentir aux enfants ce qu'est une probabilité. Il ne tient pas une soirée à lui seul, mais il fait un excellent intermède ou un jeu d'attente au restaurant. Les joueurs avides de décisions riches s'en lasseront vite.
+
+## Gops {#jeu-gops}
+*Autres noms : Goofspiel, Game of Pure Strategy, Psychological Jujitsu*
+
+- **Famille :** jeu d'enchères simultanées (jeu de pure stratégie)
+- **Joueurs :** 2 (variantes de 3 à 7)
+- **Matériel :** 1 jeu de 52 cartes, dont on n'utilise que trois couleurs ; papier pour additionner
+- **Durée d'une partie :** 10 à 15 min
+- **Âge conseillé :** dès 10 ans
+- **Diffusion :** Niche (connu des mathématiciens, des étudiants et des amateurs de théorie des jeux)
+- **Hasard / réflexion :** 15 % hasard (l'ordre des lots), 85 % réflexion et psychologie
+- **Fun :** 3/5 — tendu et mystérieux, mais austère et sans ambiance
+- **Challenge :** 5/5 — aucune solution simple : chaque enchère est un pari sur l'esprit adverse
+
+*Aller à l'[aide-mémoire](#memo-gops).*
+
+### En bref
+Les deux joueurs ont exactement les mêmes cartes, de l'as au roi. On retourne un lot (une carte de carreau) ; chacun mise en secret une de ses cartes ; la plus forte emporte le lot. Pas de main cachée inégale, pas de pioche, aucune chance de mauvais tirage : on ne gagne qu'en devinant ce que l'autre va faire. Un duel de poker sans argent et sans cartes cachées.
+
+### Histoire et origine
+Le Gops est attribué au mathématicien américain Merrill Flood, qui l'aurait inventé à l'université de Princeton dans les années 1930. Sa première description imprimée connue figure dans le manuel de théorie des jeux de Luce et Raiffa (1957). Le jeu est devenu un exemple classique de « jeu simultané à plusieurs étapes » en théorie des jeux et en intelligence artificielle ; des chercheurs ont calculé des stratégies optimales pour des versions simplifiées, mais le jeu complet reste trop vaste pour être résolu à la main. Alex Randolph s'en est inspiré pour son jeu *Hol's der Geier* (*Raj*), où les lots peuvent aussi être négatifs.
+
+### But du jeu
+Remporter le plus de points de lots : la somme des valeurs des carreaux gagnés.
+
+### Mise en place
+Valeur des cartes : as = 1, 2 à 10 = valeur faciale, valet = 11, dame = 12, roi = 13.
+
+1. Un joueur prend les 13 piques, l'autre les 13 trèfles : ce sont les mains de mise, visibles de leur seul propriétaire.
+2. Les 13 carreaux, mélangés, forment la pile de lots, face cachée. Les cœurs ne servent pas.
+
+### Déroulement
+1. Retournez le premier lot.
+2. Chaque joueur choisit une carte de sa main et la pose face cachée.
+3. On révèle ensemble. La carte la plus forte remporte le lot. Les deux cartes de mise sont défaussées (et restent visibles : on sait ce que l'autre a déjà joué).
+4. **Égalité :** les deux mises sont défaussées, le lot reste en jeu ; on retourne le lot suivant et l'enchère suivante porte sur les deux lots ensemble.
+5. On continue jusqu'à épuisement des 13 cartes. Si la dernière enchère est une égalité, les lots restants ne sont gagnés par personne.
+
+### Décompte des points
+Additionnez les lots gagnés. Le total des lots est 91 ; il faut donc plus de 45,5 points pour être sûr de gagner. Jouez en plusieurs manches et cumulez.
+
+### Conseils de stratégie
+- **Gagner de peu.** L'idéal est de battre la mise adverse d'un seul point : un roi qui emporte un lot contre un 2 est un gaspillage de 11 points de mise.
+- **Sacrifier franchement.** Quand vous pensez perdre un lot, misez votre plus petite carte : perdre avec un 8 est pire que perdre avec un as.
+- **La mise « égale au lot »** (miser le 7 sur le lot de 7) est une base raisonnable, mais un adversaire qui la repère vous battra d'un point à chaque coup. Variez.
+- **Tenez la comptabilité** des cartes jouées des deux côtés : en fin de partie, tout devient calculable, et l'on peut parfois forcer la victoire.
+- **Les égalités sont des armes.** Si vous savez que l'adversaire va miser son roi, jouez votre roi pour l'annuler : le lot passe au tour suivant, et c'est vous qui avez gardé le reste de votre main.
+- **Confirmé :** pensez en « mains restantes ». Votre force n'est pas la carte que vous jouez, mais l'écart entre ce qui vous reste et ce qui reste à l'adversaire.
+
+### Variantes
+**Égalité éliminatoire.** En cas d'égalité, le lot est défaussé au lieu d'être reporté.
+
+**As fort.** L'as vaut 14 comme lot (et comme mise).
+
+**À trois ou plus.** Chaque joueur reçoit une couleur complète (un paquet pour 3 joueurs, deux paquets de 4 à 7). Les cartes égales s'annulent, et la plus forte carte non égalée remporte le lot ; si toutes sont égales, le lot est défaussé ou mis en jeu avec le suivant.
+
+**Lots négatifs.** Inspiré de *Hol's der Geier* : on ajoute des lots de valeur négative (par exemple les cœurs de l'as au 5 comptés de -1 à -5) ; pour un lot négatif, c'est la plus **petite** mise qui doit le prendre.
+
+**Lots visibles.** On étale tous les lots face visible et le gagnant choisit le lot qu'il prend : le jeu devient presque entièrement calculatoire.
+
+### Aide-mémoire {#memo-gops}
+- **Cartes :** 13 piques, 13 trèfles, 13 carreaux (lots) ; as 1 … roi 13.
+- **Tour :** retourner un lot ; chacun mise une carte face cachée ; révélation simultanée.
+- **Gain :** la plus forte mise prend le lot ; les mises sont défaussées visibles.
+- **Égalité :** le lot reste et s'ajoute au suivant.
+- **Points :** somme des lots gagnés (91 au total).
+- **Fin de partie :** après 13 enchères ; égalité finale : lots perdus.
+
+### Verdict
+Le Gops est un bijou pour les esprits analytiques : un jeu où les deux camps ont exactement les mêmes moyens et où tout repose sur la lecture de l'adversaire. Il plaira aux amateurs d'échecs, de poker et de casse-tête, et se joue en quelques minutes avec n'importe quel paquet. Ceux qui cherchent de l'ambiance ou de la variété le trouveront aride : il n'y a qu'une seule idée, mais elle est inépuisable.
 
 ## Le jeu du 24 {#jeu-le-jeu-du-24}
 *Autres noms : Twenty-Four, 24 Game (version commerciale)*
@@ -10091,6 +11067,8 @@ Un jeu court pour toutes les générations, qui fait sentir aux enfants ce qu'es
 - **Hasard / réflexion :** 20 % hasard, 80 % calcul
 - **Fun :** 3/5 — grisant pour les amateurs de calcul, frustrant pour les autres
 - **Challenge :** 4/5 — certaines combinaisons résistent aux meilleurs
+
+*Aller à l'[aide-mémoire](#memo-le-jeu-du-24).*
 
 ### En bref
 On retourne quatre cartes ; le premier qui trouve comment obtenir 24 en les combinant avec des additions, soustractions, multiplications et divisions remporte les cartes. Un jeu d'énigmes arithmétiques étonnamment addictif, où l'on cherche plus qu'on ne compte.
@@ -10143,8 +11121,7 @@ Quand le paquet est épuisé, celui qui a remporté le plus de cartes gagne.
 
 **Coopératif.** On cherche ensemble, et l'on compte le nombre de quadruplets résolus en dix minutes.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-le-jeu-du-24}
 - **Cartes :** as = 1, 2 à 10 ; figures retirées (40 cartes) ou valet 11, dame 12, roi 13.
 - **Tour :** quatre cartes retournées ; obtenir exactement 24 en utilisant chaque carte une fois.
 - **Opérations :** addition, soustraction, multiplication, division, parenthèses libres ; fractions permises en cours de calcul.
@@ -10167,6 +11144,8 @@ Un formidable jeu pour les enfants de 8 à 14 ans qui aiment les nombres, et pou
 - **Hasard / réflexion :** 30 % hasard, 70 % bluff, mémoire et lecture des autres
 - **Fun :** 5/5 — mentir effrontément et se faire prendre, c'est irrésistible
 - **Challenge :** 3/5 — compter les cartes et doser ses mensonges demande du métier
+
+*Aller à l'[aide-mémoire](#memo-menteur).*
 
 ### En bref
 On se débarrasse de ses cartes en les posant face cachée au centre et en annonçant ce qu'elles sont. On a le droit de mentir. N'importe qui peut crier « Menteur ! » : si le menteur est démasqué, il ramasse toute la pile ; sinon, c'est l'accusateur qui la prend. Le premier qui n'a plus de cartes gagne. C'est le grand jeu de bluff des familles et des adolescents.
@@ -10232,8 +11211,7 @@ En une seule partie, le premier qui a vidé sa main gagne. Pour une soirée, on 
 
 **Deux jeux.** À partir de 7 joueurs, on mélange deux paquets ; on peut alors poser jusqu'à huit cartes, et le comptage devient plus difficile.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-menteur}
 - **Cartes :** 52 (deux jeux à partir de 7 joueurs) ; seule la valeur s'annonce.
 - **Donne :** toutes les cartes, une par une.
 - **Séquence :** as, 2, 3… roi, puis as ; chaque joueur annonce la valeur suivante.
@@ -10257,6 +11235,8 @@ L'un des meilleurs jeux de société que l'on puisse faire avec un simple paquet
 - **Hasard / réflexion :** 35 % hasard, 65 % vitesse, observation et complicité
 - **Fun :** 5/5 — les signaux secrets et les « contre-Kems » déclenchent des éclats de rire
 - **Challenge :** 3/5 — inventer, cacher et décrypter des signaux devient un vrai métier
+
+*Aller à l'[aide-mémoire](#memo-kems).*
 
 ### En bref
 Chaque équipe de deux convient en secret d'un signe discret : un clin d'œil, un tapotement, un mouvement de sourcil. Les joueurs échangent frénétiquement leurs cartes avec celles du centre pour réunir un carré. Celui qui y parvient fait le signal à son partenaire, qui doit crier « Kems ! » avant que les adversaires n'aient compris le manège. Et si un adversaire repère le signal, il peut crier « Contre-Kems ! » en désignant le joueur. Un jeu d'équipe, d'espionnage et de vitesse à la fois.
@@ -10324,8 +11304,7 @@ Selon les tables encore, la simple version « 1 point par manche gagnée, premi
 
 **Kems en deux temps.** Le centre est renouvelé à intervalles fixes (le donneur compte jusqu'à cinq), ce qui donne un rythme plus régulier et évite les débats.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-kems}
 - **Équipes :** de 2, partenaires face à face ; signal secret, visuel et silencieux.
 - **Cartes :** 52 ; 4 cartes en main chacun, 4 face visible au centre ; le donneur tient la pioche.
 - **Échanges :** simultanés, une carte de la main contre une du centre ; toujours 4 cartes en main.
@@ -10351,6 +11330,8 @@ Un des meilleurs jeux d'ambiance que l'on puisse jouer avec un paquet ordinaire,
 - **Hasard / réflexion :** 50 % hasard, 50 % vitesse et vigilance
 - **Fun :** 5/5 — la ruée sur les cuillères est un moment de chaos joyeux
 - **Challenge :** 1/5 — on progresse en vitesse de tri, pas en réflexion
+
+*Aller à l'[aide-mémoire](#memo-cuilleres).*
 
 ### En bref
 Les cartes circulent à toute vitesse autour de la table, chacun en prenant une à droite et en passant une à gauche. Au centre, des cuillères, une de moins que de joueurs. Dès qu'un joueur réunit un carré, il prend une cuillère, et tout le monde se jette sur les autres. Celui qui reste les mains vides prend une lettre. C'est le jeu des chaises musicales version cartes.
@@ -10393,8 +11374,7 @@ Un joueur qui prend une cuillère le premier **sans avoir de carré** reçoit un
 
 **Cuillère du malin.** Une fois par partie, chaque joueur a le droit de faire semblant de prendre une cuillère sans la prendre ; ceux qui se jettent sur les cuillères à tort reçoivent une lettre.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-cuilleres}
 - **Cartes :** autant de carrés que de joueurs (ou le jeu complet) ; cuillères au centre, une de moins que de joueurs.
 - **Donne :** 4 cartes chacun ; pioche devant le donneur.
 - **Circulation :** le donneur pioche, chacun garde ou passe une carte face cachée à gauche ; toujours 4 cartes en main ; le dernier défausse.
@@ -10419,6 +11399,8 @@ Un des jeux les plus hilarants pour un grand groupe, de 7 à 77 ans. Il fonction
 - **Hasard / réflexion :** 60 % hasard, 40 % déduction et bluff
 - **Fun :** 4/5 — des tours très courts, de la tension et beaucoup de rires
 - **Challenge :** 2/5 — un peu de déduction sur ce que gardent ou échangent les autres
+
+*Aller à l'[aide-mémoire](#memo-coucou).*
 
 ### En bref
 Chacun reçoit une seule carte. À tour de rôle, on décide de la garder ou de l'échanger de force avec son voisin de gauche, sauf s'il a un roi qui le protège. À la fin du tour, la plus petite carte perd une vie. Les règles s'expliquent en une minute, le jeu accepte un très grand nombre de joueurs, et la déduction s'invite vite : pourquoi mon voisin a-t-il gardé sa carte ?
@@ -10462,8 +11444,7 @@ Il n'y a pas de points : le dernier joueur qui garde au moins un jeton gagne. C
 
 **Mise en argent.** Traditionnellement, chaque joueur misait trois pièces au pot ; le dernier survivant emporte le pot. En famille, des bonbons font parfaitement l'affaire.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-coucou}
 - **Cartes :** 52 ; roi (le plus fort) … 2, as (le plus faible) ; couleurs sans importance.
 - **Vies :** 3 jetons par joueur.
 - **Donne :** une carte face cachée chacun ; le donneur garde le paquet.
@@ -10488,6 +11469,8 @@ Un jeu merveilleux pour les grandes tablées, les fins de repas et les veillées
 - **Hasard / réflexion :** 20 % hasard, 80 % observation et sang-froid
 - **Fun :** 4/5 — les morts théâtrales et les accusations font rire tout le monde
 - **Challenge :** 2/5 — observer, déduire et cacher ses regards
+
+*Aller à l'[aide-mémoire](#memo-assassin).*
 
 ### En bref
 Un joueur reçoit secrètement la carte de l'assassin : il tue ses victimes d'un simple clin d'œil. Les victimes meurent avec plus ou moins de théâtre, et le détective, ou les survivants, doivent démasquer l'assassin avant qu'il n'ait vidé la table. Les cartes ne servent qu'à distribuer les rôles en secret ; le vrai jeu se joue dans les regards.
@@ -10527,8 +11510,7 @@ On joue généralement sans points, en enchaînant les manches. Pour un score :
 
 **Le complice.** Une dame désigne un complice qui connaît l'assassin et cherche à orienter les soupçons.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-assassin}
 - **Cartes :** autant que de joueurs : un as (assassin), un roi (détective), des cartes basses (innocents).
 - **Rôles :** chacun regarde sa carte en secret ; le détective se fait connaître.
 - **Meurtre :** clin d'œil discret de l'assassin ; la victime compte jusqu'à 5 (ou 10), meurt et retourne sa carte.
@@ -10552,6 +11534,8 @@ Un jeu formidable pour les grands groupes, les anniversaires et les veillées, q
 - **Hasard / réflexion :** 65 % hasard, 35 % réflexion
 - **Fun :** 4/5 — le plaisir de rafler une case pleine de jetons, d'une génération à l'autre
 - **Challenge :** 2/5 — l'ordre dans lequel on joue ses séquences compte, sans plus
+
+*Aller à l'[aide-mémoire](#memo-nain-jaune).*
 
 ### En bref
 On pose des cartes dans l'ordre croissant, de l'as au roi, en disant à voix haute « 5, 6, 7… sans 8 ». Celui qui a le 8 continue. Cinq cartes particulières, dessinées sur le plateau, permettent de rafler les jetons accumulés dans leur case ; la plus précieuse est le 7 de carreau, le Nain jaune. Le premier qui vide sa main fait payer aux autres la valeur des cartes qui leur restent. Un jeu français par excellence, souvent transmis de grands-parents à petits-enfants avec la boîte elle-même.
@@ -10623,8 +11607,7 @@ Les cartes du talon créent des trous dans les séquences, ce qui rend le jeu im
 
 **Pope Joan.** Le cousin anglais utilise un plateau à huit cases (dont le neuf de carreau, la « Pope ») et un jeu de 51 cartes sans le 8 de carreau ; on y retrouve la même mécanique de séquences et de cases à rafler.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-nain-jaune}
 - **Cartes :** 52 ; as (1) … roi ; couleurs sans importance sauf pour les belles cartes.
 - **Mise par joueur et par manche :** 10 de carreau 1, valet de trèfle 2, dame de pique 3, roi de cœur 4, 7 de carreau (Nain jaune) 5.
 - **Donne :** 3 joueurs 15 cartes (talon 7) ; 4 : 12 (4) ; 5 : 9 (7) ; 6 : 8 (4) ; 7 : 7 (3) ; 8 : 6 (4) ; le talon ne sert pas.
@@ -10650,6 +11633,8 @@ Un trésor du patrimoine ludique français, qui plaît à toutes les génératio
 - **Hasard / réflexion :** 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — les crevaisons infligées au voisin et les coups fourrés ravissent toutes les tables
 - **Challenge :** 3/5 — gestion de la main, comptage des cartes et choix des cibles
+
+*Aller à l'[aide-mémoire](#memo-mille-bornes).*
 
 ### En bref
 Chaque joueur ou équipe conduit une voiture et doit parcourir exactement 1 000 kilomètres, en posant des cartes de distance. Les adversaires sèment des embûches : feux rouges, crevaisons, pannes d'essence, accidents, limitations de vitesse. Il faut les réparer avec la bonne parade, ou s'en protéger définitivement avec les précieuses **bottes**, qu'on peut même jouer en « coup fourré » au nez de l'attaquant. Le jeu de cartes français le plus célèbre au monde.
@@ -10744,8 +11729,7 @@ On additionne les manches ; la partie se termine quand un joueur ou une équipe
 
 **Jouer avec un jeu classique ?** Ce n'est guère praticable : le Mille Bornes repose sur ses cartes illustrées. Un paquet dédié est indispensable.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-mille-bornes}
 - **Cartes (106) :** distances 25, 50, 75 (10 chacune), 100 (12), 200 (4) ; attaques : 5 feux rouges, 4 limitations, 3 pannes, 3 crevaisons, 3 accidents ; parades : 14 feux verts, 6 de chaque autre ; 4 bottes.
 - **Donne :** 6 cartes chacun ; à son tour, piocher puis jouer ou défausser une carte.
 - **Rouler :** il faut un Feu vert (ou le Véhicule prioritaire) ; après une parade, nouveau Feu vert (règle classique).
@@ -10758,7 +11742,7 @@ On additionne les manches ; la partie se termine quand un joueur ou une équipe
 ### Verdict
 Le grand classique français des jeux de cartes en boîte, qui plaît dès 7 ans et jusqu'aux grands-parents qui y jouaient enfants. Les attaques, les coups fourrés et la course aux 1 000 bornes exactes créent de vraies émotions, et le jeu en équipes de deux est particulièrement réussi. Les manches peuvent traîner si les parades ne viennent pas, et une main sans Feu vert est frustrante. Mais peu de jeux réunissent aussi bien toutes les générations autour d'une table.
 
-# Les jeux de cartes modernes à paquet dédié
+# 8. Les jeux de cartes modernes à paquet dédié
 
 Pendant des siècles, jouer aux cartes voulait dire sortir le jeu de 32 ou de 52 cartes et choisir une règle parmi des centaines. Depuis la seconde moitié du XXe siècle, une autre famille a pris une place énorme sur les tables : les jeux édités, vendus dans une boîte avec un paquet conçu pour eux seuls. Uno en 1971, puis la vague allemande des années 1990 (6 qui prend !, Les Cités perdues), puis l'explosion des années 2000 et 2010, portée par les boutiques spécialisées, les festivals et le financement participatif. Leurs cartes ne portent plus seulement une couleur et une valeur : elles portent un pouvoir, un dessin, un mot, une ressource. Chaque boîte invente sa propre mécanique, et le livret de règles remplace la tradition orale.
 
@@ -10778,6 +11762,8 @@ Beaucoup de ces jeux peuvent être dépannés avec un jeu classique, et chaque f
 - **Hasard / réflexion :** environ 70 % hasard, 30 % réflexion
 - **Fun :** 4/5 — retournements, coups bas et cris de « Uno ! » garantis
 - **Challenge :** 2/5 — quelques choix de timing, mais la main décide beaucoup
+
+*Aller à l'[aide-mémoire](#memo-uno).*
 
 ### En bref
 Le jeu de cartes le plus vendu au monde après le jeu classique. Il faut se débarrasser de toutes ses cartes en posant sur la défausse une carte de même couleur ou de même valeur, en s'aidant de cartes spéciales qui font piocher, passer le tour ou changer de sens. Simple, rapide, méchant juste ce qu'il faut.
@@ -10844,8 +11830,7 @@ Les règles maison d'Uno sont presque un folklore. Les plus célèbres :
 
 **Jouer avec un jeu classique : le Huit américain.** Uno descend directement du [Huit américain](#jeu-huit-americain) (voir sa fiche au chapitre des jeux de défausse), qui se joue avec un ou deux jeux de 52 cartes. Une correspondance courante : les 8 servent de Joker (changement de couleur), les 2 font piocher deux cartes, les valets font passer le tour et les as inversent le sens ; un joker de jeu classique peut servir de +4. Les couleurs remplacent celles d'Uno.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-uno}
 - **Cartes :** 108 ; par couleur (rouge, jaune, vert, bleu) un 0, deux de chaque chiffre de 1 à 9, deux +2, deux Passe ton tour, deux Inversion ; 4 Jokers et 4 +4.
 - **Donne :** 7 cartes chacun ; on retourne la première carte (un +4 retourne dans la pioche) ; le voisin de gauche du donneur commence.
 - **Jouer :** même couleur, même chiffre ou même symbole ; Joker sur tout ; sinon piocher 1 carte, posable aussitôt si elle convient.
@@ -10868,6 +11853,8 @@ Un jeu parfait pour les enfants, les vacances et les familles où plusieurs gén
 - **Hasard / réflexion :** environ 60 % hasard, 40 % réflexion
 - **Fun :** 4/5 — tension croissante à chaque carte retournée, fins de manche dramatiques
 - **Challenge :** 2/5 — quelques calculs de risque, vite maîtrisés
+
+*Aller à l'[aide-mémoire](#memo-skyjo).*
 
 ### En bref
 Chaque joueur possède une grille de douze cartes cachées qu'il améliore peu à peu en échangeant des cartes. Le but est d'avoir le total le plus bas. Le jeu tient tout entier dans le pari du moment où l'on clôt la manche.
@@ -10908,8 +11895,7 @@ Chaque joueur additionne ses cartes. Le joueur qui a clos la manche doit avoir l
 
 **Jouer avec un jeu classique (le Golf).** Avec un ou deux jeux de 52 cartes et les jokers, on peut reproduire Skyjo : joker = -2, roi = 0, as = 1, cartes de 2 à 10 à leur valeur, valet = 11, dame = 12. On garde la grille de 3 sur 4, les colonnes identiques et le doublement. L'éventail est moins large que les 150 cartes d'origine, mais les sensations sont les mêmes.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-skyjo}
 - **Cartes :** 150 ; cinq -2, dix -1, quinze 0, dix de chaque valeur de 1 à 12.
 - **Donne :** 12 cartes cachées en grille de 3 lignes et 4 colonnes ; chacun en retourne 2 ; le plus haut total visible commence.
 - **Tour :** prendre la défausse et l'échanger ; ou piocher, puis échanger, ou défausser et retourner une carte cachée.
@@ -10933,6 +11919,8 @@ Le jeu familial idéal pour démarrer : dix secondes d'explication, un vrai sus
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 5/5 — rires et grognements simultanés à chaque révélation
 - **Challenge :** 3/5 — on lit la table et on anticipe, mais le chaos domine à beaucoup
+
+*Aller à l'[aide-mémoire](#memo-6-qui-prend).*
 
 ### En bref
 Tout le monde choisit une carte en secret, puis on les place dans l'ordre croissant au bout de quatre rangées. Celui qui pose la sixième carte d'une rangée ramasse les cinq précédentes et leurs têtes de bœuf. Un jeu de bluff et d'anticipation où l'on rit de ses propres erreurs.
@@ -10981,8 +11969,7 @@ Chacun compte les têtes de bœuf ramassées et les note. On rebat les 104 carte
 
 **Jouer avec un jeu classique.** Avec deux jeux de 52 cartes au dos différent et la numérotation de 1 à 104 décrite en introduction, on retrouve exactement le paquet. Il suffit de calculer les têtes avec le tableau ci-dessus (ou de convenir que chaque carte vaut une tête et que les multiples de 5 en valent deux, pour simplifier).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-6-qui-prend}
 - **Cartes :** 104, de 1 à 104 ; têtes : 55 vaut 7, autres multiples de 11 5, multiples de 10 3, autres multiples de 5 2, le reste 1.
 - **Donne :** 10 cartes chacun ; 4 cartes au centre ouvrent 4 rangées.
 - **Tour :** chacun choisit une carte en secret ; révélation simultanée ; on place de la plus petite à la plus grande.
@@ -11004,6 +11991,8 @@ Le meilleur jeu « grand groupe » du chapitre avec [Time's Up!](#jeu-time-s-u
 - **Hasard / réflexion :** très peu de réflexion, tout est réflexe
 - **Fun :** 4/5 — frénétique, bruyant, mains qui se croisent
 - **Challenge :** 2/5 — c'est l'œil et la main qui progressent, pas la stratégie
+
+*Aller à l'[aide-mémoire](#memo-ligretto).*
 
 ### En bref
 Tout le monde joue en même temps sur des piles centrales communes, comme une patience collective sous adrénaline. Il faut vider sa pile « Ligretto » avant les autres.
@@ -11045,8 +12034,7 @@ On trie les cartes centrales par dos. Chaque joueur marque 1 point par carte pos
 
 **Version douce pour enfants.** On joue sans retourner les cartes par trois, mais une par une.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-ligretto}
 - **Cartes :** 40 par joueur (4 couleurs de 1 à 10), dos distincts.
 - **Mise en place :** pile Ligretto de 10 cartes visibles ; rangée de 5 cartes à 2 joueurs, 4 à 3, 3 à partir de 4 ; le reste en main.
 - **Centre :** un 1 ouvre une pile ; on monte en même couleur jusqu'au 10.
@@ -11068,6 +12056,8 @@ Un défouloir excellent pour des joueurs de même niveau. Entre un adulte rapide
 - **Hasard / réflexion :** pas de réflexion, observation et réflexes
 - **Fun :** 5/5 — hurlements, bousculades, fous rires
 - **Challenge :** 1/5 — on s'améliore un peu en vitesse, rien de plus
+
+*Aller à l'[aide-mémoire](#memo-jungle-speed).*
 
 ### En bref
 Chacun retourne à tour de rôle la carte du dessus de son paquet. Dès que deux joueurs montrent la même forme, ils se jettent sur le totem au centre de la table. Le jeu repose sur des formes presque identiques qui piègent l'œil.
@@ -11103,8 +12093,7 @@ Les cartes sous le totem restent donc en attente jusqu'au duel ou à la faute su
 
 **Sans totem.** Pour éviter les blessures avec de jeunes enfants, on peut remplacer la saisie par une main posée à plat au centre.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-jungle-speed}
 - **Matériel :** 80 cartes et un totem ; toutes les cartes sont distribuées.
 - **Tour :** retourner la carte du dessus de son paquet sur sa défausse, face vers les autres.
 - **Duel :** même forme visible chez deux joueurs : saisir le totem ; le perdant prend les deux défausses et le pot sous le totem, puis rejoue.
@@ -11129,6 +12118,8 @@ Parfait pour lancer une soirée nombreuse ou occuper des enfants énergiques. At
 - **Hasard / réflexion :** observation pure
 - **Fun :** 4/5 — tout le monde joue en même temps, enfants et adultes à égalité
 - **Challenge :** 1/5 — on progresse en vitesse, pas en stratégie
+
+*Aller à l'[aide-mémoire](#memo-dobble).*
 
 ### En bref
 Deux cartes de Dobble ont toujours **un et un seul** symbole en commun. Il faut le trouver et le nommer avant les autres. Cinq mini-jeux exploitent ce principe mathématique.
@@ -11163,8 +12154,7 @@ En cas de doute, le joueur qui a nommé le symbole le premier l'emporte. Les ex 
 
 **Éditions thématiques.** Dobble Kids (moins de symboles, plus gros), Dobble Disney, etc.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-dobble}
 - **Cartes :** 55 cartes rondes de 8 symboles ; deux cartes ont toujours un seul symbole en commun.
 - **Règle d'or :** nommer le symbole à voix haute avant de déplacer une carte ; en cas de doute, le premier qui a nommé l'emporte.
 - **Tour infernale :** prendre la carte du centre sur sa pile ; la plus grosse pile gagne.
@@ -11187,6 +12177,8 @@ Le jeu idéal pour mélanger enfants et adultes : les enfants gagnent souvent, 
 - **Hasard / réflexion :** environ 20 % hasard, 80 % réflexion
 - **Fun :** 3/5 — silences concentrés, puis grande joie collective ; parfois frustrant
 - **Challenge :** 5/5 — mémoire, déduction et lecture des intentions, avec une marge de progression immense
+
+*Aller à l'[aide-mémoire](#memo-hanabi).*
 
 ### En bref
 Les joueurs tiennent leurs cartes **à l'envers** : chacun voit les cartes des autres mais pas les siennes. Ensemble, ils doivent poser cinq feux d'artifice dans l'ordre, de 1 à 5, en se donnant des indices très encadrés. Un petit chef-d'œuvre de communication contrainte.
@@ -11228,8 +12220,7 @@ On additionne la carte la plus haute de chaque couleur posée (maximum 25). Le l
 
 **Jouer avec des jeux classiques.** Avec deux jeux de 52 cartes, on joue à quatre couleurs (pique, cœur, carreau, trèfle ; score maximal 20) : dans chaque couleur, prendre les deux as et un valet qui servira de troisième « 1 », deux 2, deux 3, deux 4 et un seul 5. Avec trois jeux, on dispose de trois as et l'on évite cette convention. Les jetons peuvent être des pièces de monnaie.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-hanabi}
 - **Cartes :** 5 couleurs de 10 cartes : trois 1, deux 2, deux 3, deux 4, un 5 ; 8 jetons Indice, 3 jetons Orage.
 - **Donne :** 5 cartes à 2 ou 3 joueurs, 4 à 4 ou 5 ; cartes tournées vers les autres.
 - **Tour :** donner un indice (une couleur ou une valeur, en désignant toutes les cartes concernées, -1 jeton) ; ou défausser (+1 jeton) ; ou jouer une carte.
@@ -11250,6 +12241,8 @@ Un jeu de groupe exigeant, magnifique quand l'équipe se comprend sans parler. I
 - **Hasard / réflexion :** ni hasard ni calcul : du ressenti
 - **Fun :** 4/5 — silences électriques et explosions de joie
 - **Challenge :** 3/5 — difficile de progresser autrement qu'en s'accordant mieux
+
+*Aller à l'[aide-mémoire](#memo-the-mind).*
 
 ### En bref
 Les joueurs doivent poser toutes leurs cartes au centre dans l'ordre croissant, **sans communiquer d'aucune façon**, ni à la parole ni par signes. Chacun attend « le bon moment » : celui qui tient le 12 jouera avant celui qui tient le 47… s'ils partagent le même rythme intérieur.
@@ -11283,8 +12276,7 @@ On dispose les cartes Niveau en pile, dans l'ordre. L'équipe reçoit autant de 
 
 **Jouer avec un jeu classique.** Avec la numérotation de 1 à 52 décrite en introduction, un seul jeu suffit pour jouer jusqu'au niveau 8 à deux ou trois joueurs (la série est plus dense, donc plus difficile). Avec deux jeux, on dispose de la série de 1 à 104. Des jetons ou des pièces remplacent vies et shurikens. Le calcul mental de la valeur gêne un peu la concentration : écrire les nombres sur les cartes aide beaucoup.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-the-mind}
 - **Matériel :** 100 cartes de 1 à 100 ; 12 cartes Niveau ; 5 Vies ; 3 Shurikens.
 - **Départ :** autant de vies que de joueurs et 1 shuriken.
 - **Objectif :** 12 niveaux à 2 joueurs, 10 à 3, 8 à 4 ; au niveau n, chacun reçoit n cartes.
@@ -11308,6 +12300,8 @@ Une expérience plus qu'un jeu, idéale pour surprendre des non-joueurs ou soude
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 3/5 — calme mais tendu, très satisfaisant quand une astuce sauve la partie
 - **Challenge :** 3/5 — de vraies décisions à chaque tour, et un défi qui se joue aussi en solitaire
+
+*Aller à l'[aide-mémoire](#memo-the-game).*
 
 ### En bref
 Les joueurs alimentent ensemble quatre piles : deux montent de 1 à 100, deux descendent de 100 à 1. Il faut poser les 98 cartes sans jamais être bloqué, en se disant ce qu'on peut, mais jamais quels nombres on a.
@@ -11340,8 +12334,7 @@ On pose les quatre cartes de départ en ligne : deux « 1 » (piles montantes
 
 **Jouer avec des jeux classiques.** Deux jeux de 52 cartes numérotés de 1 à 104 (voir l'introduction) fournissent le paquet : on garde les cartes 2 à 99 et des bouts de papier marqués 1 et 100 pour les piles de départ.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-the-game}
 - **Cartes :** 98 de 2 à 99 ; piles de départ 1, 1 (montantes), 100, 100 (descendantes).
 - **Main :** 8 cartes en solitaire, 7 à deux, 6 à trois et plus.
 - **Tour :** poser au moins 2 cartes (1 quand la pioche est vide), puis compléter sa main.
@@ -11362,6 +12355,8 @@ Un excellent coopératif pour deux, et l'un des rares bons jeux de cartes en sol
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — éliminations soudaines et déductions triomphantes
 - **Challenge :** 3/5 — beaucoup de lecture de l'adversaire dans un tout petit paquet
+
+*Aller à l'[aide-mémoire](#memo-love-letter).*
 
 ### En bref
 Avec seulement seize cartes, chaque joueur tente de faire parvenir sa lettre à la princesse. On n'a jamais que deux cartes en main : on en joue une, on garde l'autre. Un concentré de déduction et de bluff qui tient dans une poche.
@@ -11427,8 +12422,7 @@ Si tous les adversaires sont protégés par la Servante, la carte jouée n'a pas
 
 Il suffit de garder une feuille rappelant les effets. Des pièces servent de jetons d'affection.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-love-letter}
 - **Cartes (2012) :** Garde 1 (×5), Prêtre 2 (×2), Baron 3 (×2), Servante 4 (×2), Prince 5 (×2), Roi 6, Comtesse 7, Princesse 8.
 - **Donne :** une carte retirée face cachée (plus 3 face visible à deux) ; une carte chacun.
 - **Tour :** piocher, puis jouer l'une de ses deux cartes et appliquer son effet.
@@ -11450,6 +12444,8 @@ Le jeu de poche par excellence : au café, en train, en attendant le dîner. Le
 - **Hasard / réflexion :** environ 20 % hasard, 80 % bluff et lecture des joueurs
 - **Fun :** 4/5 — accusations, mensonges éhontés, tension permanente
 - **Challenge :** 4/5 — tout repose sur la psychologie et la mémoire des annonces
+
+*Aller à l'[aide-mémoire](#memo-coup).*
 
 ### En bref
 Chaque joueur a deux personnages cachés, ses « influences ». Il peut annoncer n'importe quel personnage pour utiliser son pouvoir, même s'il ne l'a pas. Les autres peuvent le mettre au défi : le menteur démasqué perd une influence. Le dernier à garder une influence gagne.
@@ -11495,8 +12491,7 @@ On distribue deux cartes Personnage face cachée à chaque joueur, qui les regar
 
 **Jouer avec un jeu classique.** Trois cartes de cinq rangs suffisent : par exemple, les rois pour le Duc, les valets pour l'Assassin, les as pour le Capitaine, les 10 pour l'Ambassadeur et les dames pour la Comtesse. Des jetons, allumettes ou pièces servent de monnaie. Une feuille d'aide est indispensable les premières fois.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-coup}
 - **Cartes :** 15 personnages, 3 de chaque : Duc, Assassin, Capitaine, Ambassadeur, Comtesse.
 - **Départ :** 2 influences cachées et 2 pièces chacun (1 pièce pour le premier joueur à deux).
 - **Actions générales :** Revenu +1 ; Aide étrangère +2 (bloquée par le Duc) ; Coup d'État 7 pièces, obligatoire à 10 pièces.
@@ -11520,6 +12515,8 @@ Un jeu de bluff vif et intense, parfait entre amis qui aiment se mentir effront�
 - **Hasard / réflexion :** presque aucun hasard, tout est bluff et psychologie
 - **Fun :** 5/5 — des regards en coin, des enchères folles, des retournements épiques
 - **Challenge :** 4/5 — règles d'une simplicité absolue, profondeur psychologique réelle
+
+*Aller à l'[aide-mémoire](#memo-skull).*
 
 ### En bref
 Chaque joueur empile des disques face cachée : des roses, et peut-être son unique crâne. Puis on parie sur le nombre de roses que l'on peut retourner sans tomber sur un crâne. Une sorte de poker sans cartes ni hasard, ramené à son essence.
@@ -11554,8 +12551,7 @@ Chaque joueur prend un sous-bock et ses 4 disques de la même couleur (3 Roses, 
 
 **Partie courte.** Un seul succès suffit pour gagner.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-skull}
 - **Matériel :** par joueur, un tapis et 4 disques (3 roses, 1 crâne).
 - **Pose :** tous posent un disque ; puis chacun à son tour ajoute un disque ou lance un défi.
 - **Enchères :** surenchérir ou passer définitivement ; au plus le nombre de disques posés.
@@ -11578,6 +12574,8 @@ Le meilleur jeu de bluff pour un groupe qui aime se regarder dans les yeux. Il s
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion et déduction sociale
 - **Fun :** 4/5 — soupçons, accusations, galeries sabotées au dernier moment
 - **Challenge :** 2/5 — on déduit qui ment, mais la main de cartes limite beaucoup
+
+*Aller à l'[aide-mémoire](#memo-saboteur).*
 
 ### En bref
 Des nains creusent une galerie vers un trésor caché. Mais certains d'entre eux sont des saboteurs qui veulent faire échouer l'expédition sans se faire repérer. On pose des cartes de tunnel, on casse les outils des suspects, on ment.
@@ -11624,8 +12622,7 @@ Après trois manches (rôles redistribués à chaque fois), le joueur qui a le p
 
 **Jeu classique.** Pas réaliste : les cartes de tunnel sont spécifiques. On peut en revanche dessiner les chemins sur des cartes vierges.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-saboteur}
 - **Rôles :** saboteurs de 3 à 10 joueurs : 1, 1, 2, 2, 3, 3, 3, 4 ; une carte Rôle de plus que de joueurs, l'excédent est écarté sans être vu.
 - **Main :** 6 cartes de 3 à 5 joueurs, 5 à 6 ou 7, 4 de 8 à 10.
 - **Mine :** départ, puis 3 arrivées cachées à 8 cartes de distance, dont une seule avec l'or.
@@ -11648,6 +12645,8 @@ Très bon jeu de groupe familial, accessible aux enfants dès 8 ans. Le rôle de
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion et déduction
 - **Fun :** 4/5 — fusillades, alliances supposées, révélations dramatiques
 - **Challenge :** 3/5 — démasquer les rôles demande de l'attention, mais la pioche pèse lourd
+
+*Aller à l'[aide-mémoire](#memo-bang).*
 
 ### En bref
 Un western à cartes : le Shérif, connu de tous, affronte des Hors-la-loi cachés, aidé par des Adjoints tout aussi cachés, tandis qu'un Renégat solitaire joue pour lui seul. On tire, on esquive, on boit une bière et on soupçonne tout le monde.
@@ -11702,8 +12701,7 @@ Le Shérif commence. À son tour, un joueur :
 
 **Jeu classique.** Pas réaliste à reproduire entièrement : les effets des cartes sont trop nombreux. Le système de rôles (Shérif connu, camps cachés) peut en revanche se greffer sur d'autres jeux.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-bang}
 - **Rôles :** à 4 Shérif, Renégat, 2 Hors-la-loi ; +1 Adjoint à 5 ; +1 Hors-la-loi à 6 ; +1 Adjoint à 7.
 - **Vie :** celle du personnage (3 ou 4), +1 pour le Shérif ; main de départ égale aux points de vie.
 - **Tour :** piocher 2, jouer ses cartes (un seul BANG!), défausser jusqu'à ses points de vie.
@@ -11727,6 +12725,8 @@ Un excellent jeu pour un groupe de six ou sept qui aime le théâtre et les accu
 - **Hasard / réflexion :** environ 30 % hasard, 70 % réflexion
 - **Fun :** 4/5 — le moment où l'Assassin nomme sa victime est délicieux
 - **Challenge :** 4/5 — lecture des intentions et choix des personnages très riches
+
+*Aller à l'[aide-mémoire](#memo-citadelles).*
 
 ### En bref
 Chaque tour, les joueurs choisissent en secret un personnage parmi huit, chacun avec un pouvoir : l'Assassin, le Voleur, le Roi, l'Architecte… Puis ils construisent les quartiers de leur cité. Tout l'art est de deviner qui a pris quoi.
@@ -11782,8 +12782,7 @@ La partie se termine à la fin du tour au cours duquel un joueur a bâti son **h
 
 **Jeu classique.** Possible avec effort : les figures et les as peuvent figurer les huit personnages et les cartes numérotées les quartiers (valeur = coût divisé par deux, couleur = famille), mais l'intérêt des quartiers violets se perd.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-citadelles}
 - **Départ :** 2 pièces d'or et 4 quartiers chacun ; couronne au plus âgé.
 - **Personnages écartés :** 2 visibles et 1 caché à 4 joueurs, 1 visible et 1 caché à 5, 1 caché à 6 et 7 ; jamais le Roi face visible.
 - **Ordre d'appel :** Assassin, Voleur, Magicien, Roi, Évêque, Marchand, Architecte, Condottiere.
@@ -11807,6 +12806,8 @@ Un classique incontournable pour un groupe de quatre à six joueurs qui aime le 
 - **Hasard / réflexion :** environ 70 % hasard, 30 % réflexion
 - **Fun :** 4/5 — tension à chaque pioche, humour absurde
 - **Challenge :** 2/5 — quelques décisions, mais la pioche décide
+
+*Aller à l'[aide-mémoire](#memo-exploding-kittens).*
 
 ### En bref
 La pioche contient des chatons explosifs ; celui qui en tire un sans pouvoir le désamorcer est éliminé. On joue des cartes pour voir l'avenir, éviter de piocher ou piéger le voisin. Une roulette russe à l'humour absurde.
@@ -11843,8 +12844,7 @@ On retire les Chatons explosifs et les Désamorçages. On distribue 7 cartes à 
 
 **Jouer avec un jeu classique.** Avec un jeu de 52 cartes et 2 jokers (54 cartes), une correspondance possible : rois = Chatons explosifs, as et jokers = Désamorçages (6), dames = Attaques, valets = Passes, 10 = Faveurs, 9 = Mélanges, 8 = Voir le futur, 7 = Nope, et les cartes de 2 à 6 comme cinq familles de chats (4 de chaque).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-exploding-kittens}
 - **Cartes :** 4 Chatons explosifs, 6 Désamorçages, 4 Attaques, 4 Passes, 4 Faveurs, 4 Mélanges, 5 Voir le futur, 5 Nope, 20 Chats.
 - **Donne :** 7 cartes et 1 Désamorçage chacun ; dans la pioche, autant de Chatons que de joueurs moins un et les Désamorçages restants (2 seulement à 2 ou 3).
 - **Tour :** jouer autant de cartes qu'on veut, puis piocher pour finir son tour.
@@ -11866,6 +12866,8 @@ Un jeu léger, rapide et drôle pour les enfants, les adolescents et les soirée
 - **Hasard / réflexion :** environ 35 % hasard, 65 % réflexion
 - **Fun :** 4/5 — joli, rapide, tout le monde joue en même temps
 - **Challenge :** 3/5 — une vraie initiation au draft, avec de la lecture des voisins
+
+*Aller à l'[aide-mémoire](#memo-sushi-go).*
 
 ### En bref
 Chacun prend une carte dans sa main et passe le reste à son voisin, comme les assiettes d'un restaurant de sushis à tapis roulant. Il faut composer les meilleures combinaisons de plats en surveillant ce que les autres collectionnent.
@@ -11910,8 +12912,7 @@ On distribue 10 cartes à 2 joueurs, 9 à 3 joueurs, 8 à 4 joueurs, 7 à 5 joue
 
 **Jeu classique.** Possible en attribuant des familles de cartes aux plats (par exemple, une couleur par plat), mais la répartition en 108 cartes rend l'opération fastidieuse ; le principe du draft, en revanche, se greffe facilement sur un rami.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-sushi-go}
 - **Donne :** 10 cartes à 2 joueurs, 9 à 3, 8 à 4, 7 à 5 ; trois manches.
 - **Tour :** une carte en secret, révélée ensemble ; la main passe à gauche.
 - **Tempura, Sashimi, Gyoza :** 5 la paire ; 10 les trois ; 1, 3, 6, 10, 15 points.
@@ -11935,6 +12936,8 @@ Le meilleur jeu pour initier une famille au draft : explication en cinq minutes
 - **Hasard / réflexion :** environ 40 % hasard, 60 % réflexion
 - **Fun :** 3/5 — duel feutré, parfait pour un couple
 - **Challenge :** 4/5 — gestion du risque et du rythme très fine
+
+*Aller à l'[aide-mémoire](#memo-les-cites-perdues).*
 
 ### En bref
 Chaque joueur lance jusqu'à cinq expéditions en posant des cartes de valeur croissante. Mais chaque expédition commencée coûte 20 points : il faut choisir où s'engager, et parier sur ses chances avant même d'avoir les bonnes cartes.
@@ -11979,8 +12982,7 @@ Une expédition non commencée vaut 0. Le résultat peut être très négatif :
 
 **Jouer avec un jeu classique.** L'une des adaptations les plus fidèles du chapitre. Avec un jeu de 52 cartes, chaque couleur (pique, cœur, carreau, trèfle) est une expédition : les cartes de 2 à 10 sont les cartes numérotées, et les trois figures (valet, dame, roi) sont les cartes Pari. On écarte les as. On obtient 4 expéditions et 48 cartes : la main reste de 8 cartes, et la règle est inchangée. Avec deux jeux au dos différent, on peut ajouter une cinquième couleur en prenant une couleur du second jeu.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-les-cites-perdues}
 - **Cartes :** 5 couleurs de 12 cartes : 2 à 10 et 3 Paris.
 - **Donne :** 8 cartes chacun.
 - **Tour :** poser une carte (dans son expédition en ordre croissant, Paris avant les chiffres ; ou sur la défausse de sa couleur), puis piocher (pioche, ou sommet d'une défausse sauf la carte qu'on vient de jeter).
@@ -12003,6 +13005,8 @@ Un duel élégant, idéal pour un couple ou deux amis, qui se joue en une demi-h
 - **Hasard / réflexion :** environ 30 % hasard, 70 % réflexion
 - **Fun :** 3/5 — tendu de bout en bout, sans temps mort
 - **Challenge :** 4/5 — choix douloureux à chaque carte, calcul des probabilités
+
+*Aller à l'[aide-mémoire](#memo-schotten-totten).*
 
 ### En bref
 Deux chefs de clans écossais se disputent neuf bornes en posant de chaque côté des combinaisons de trois cartes, comme des petites mains de poker. On gagne en prenant cinq bornes, ou trois bornes voisines.
@@ -12044,8 +13048,7 @@ On aligne les neuf bornes entre les joueurs. Chacun reçoit 6 cartes Clan (7 si 
 
 **Jouer avec des jeux classiques.** Avec deux jeux de 52 cartes au dos différent, on dispose de huit « couleurs » (pique, cœur, carreau, trèfle de chaque jeu) : on en garde six, avec les cartes de l'as (1) au 9. Neuf jetons, pièces ou bouchons servent de bornes. Le jeu est alors complet.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-schotten-totten}
 - **Matériel :** 54 cartes Clan, 6 couleurs de 1 à 9 ; 9 bornes ; 6 cartes en main (7 avec les cartes Tactique).
 - **Tour :** poser une carte de son côté d'une borne (3 au plus), revendiquer, piocher.
 - **Combinaisons :** suite couleur, brelan, couleur, suite, somme ; à égalité la plus haute somme, puis celui qui a fini le premier.
@@ -12065,6 +13068,8 @@ L'un des meilleurs duels courts jamais conçus, idéal pour qui aime le poker et
 - **Hasard / réflexion :** environ 35 % hasard, 65 % réflexion
 - **Fun :** 4/5 — rythme vif, coups de chance savoureux, belle tension
 - **Challenge :** 3/5 — beaucoup de petites décisions malines, sans complexité
+
+*Aller à l'[aide-mémoire](#memo-jaipur).*
 
 ### En bref
 Deux marchands de Jaipur se disputent un marché de cinq cartes. On achète des marchandises, on les vend en lots pour obtenir des jetons dont la valeur baisse à mesure qu'ils partent. Vendre vite ou vendre gros : tout est là.
@@ -12106,8 +13111,7 @@ Chaque joueur additionne ses jetons (Marchandise et Bonus, qui sont cachés). Le
 
 **Jeu classique.** Faisable avec des cartes et des jetons maison : par exemple, une couleur par marchandise et des papiers numérotés pour les jetons ; mais les six types et les piles de jetons demandent de la préparation.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-jaipur}
 - **Cartes :** 6 Diamants, 6 Or, 6 Argent, 8 Étoffes, 8 Épices, 10 Cuir, 11 Chameaux.
 - **Jetons :** Diamants 7-7-5-5-5 ; Or 6-6-5-5-5 ; Argent 5-5-5-5-5 ; Étoffes et Épices 5-3-3-2-2-1-1 ; Cuir 4-3-2-1-1-1-1-1-1.
 - **Départ :** marché de 3 chameaux et 2 cartes ; 5 cartes chacun, chameaux posés dans le troupeau.
@@ -12129,6 +13133,8 @@ Un duel vif, joli et accessible, parfait pour deux joueurs de niveaux différent
 - **Hasard / réflexion :** environ 25 % hasard, 75 % réflexion
 - **Fun :** 3/5 — calme et élégant, avec un final cruel
 - **Challenge :** 5/5 — un dilemme permanent entre ce que l'on pose et ce que l'on garde
+
+*Aller à l'[aide-mémoire](#memo-arboretum).*
 
 ### En bref
 Chaque joueur plante un jardin de cartes et y trace des allées d'arbres en valeurs croissantes. Mais pour avoir le droit de marquer une espèce, il faut garder en main, jusqu'à la fin, plus de cartes de cette espèce que ses adversaires. Tout ce qu'on retient ne fleurit pas.
@@ -12174,8 +13180,7 @@ On ne compte qu'une allée par espèce, mais une même carte peut servir à plus
 
 **Jouer avec des jeux classiques.** Très réaliste : un jeu de 52 cartes fournit quatre « espèces » (les quatre couleurs) numérotées de l'as (1) au 8, soit 32 cartes, ce qui convient à une partie à deux joueurs avec 4 espèces (un peu plus serrée que l'original). Avec deux jeux au dos différent, on obtient huit espèces de 1 à 8 : de quoi jouer à deux (6 espèces) ou à trois (8 espèces) presque comme dans la boîte.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-arboretum}
 - **Cartes :** 10 espèces de 1 à 8 ; 6 espèces à deux joueurs, 8 à trois, 10 à quatre.
 - **Main :** 7 cartes.
 - **Tour :** piocher 2 cartes (pioche ou sommet d'une défausse), en planter 1 adjacente à son arboretum, en défausser 1 sur sa pile.
@@ -12196,6 +13201,8 @@ Un jeu de connaisseur, beau et cruel, idéal pour les joueurs qui aiment les dil
 - **Hasard / réflexion :** environ 50 % hasard, 50 % réflexion
 - **Fun :** 4/5 — le frisson du « encore une carte » à chaque tour
 - **Challenge :** 3/5 — gestion du risque et construction d'un moteur de personnages
+
+*Aller à l'[aide-mémoire](#memo-port-royal).*
 
 ### En bref
 Le joueur actif retourne les cartes une à une dans le port : navires qui rapportent de l'argent, personnages à engager. Il peut continuer tant qu'il veut, mais si deux navires de même couleur apparaissent, il perd tout. Les autres joueurs profitent aussi de son port.
@@ -12238,8 +13245,7 @@ Quand un joueur atteint 12 points d'influence, on termine le tour de table ; le
 
 **Jeu classique.** Le cœur du jeu (stop ou encore, perte au doublon) se retrouve avec un jeu de 52 cartes : on retourne des cartes et l'on perd tout si deux cartes de même valeur sortent. Les personnages, en revanche, ne se reproduisent pas facilement.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-port-royal}
 - **Cartes :** 120, qui servent aussi de pièces face cachée ; 3 pièces au départ.
 - **Découverte :** retourner une à une ; deuxième navire de même couleur = tour perdu, sauf navire repoussé avec assez d'épées.
 - **Prendre :** 1 carte ; 2 avec 4 couleurs de navires au port ; 3 avec 5.
@@ -12260,6 +13266,8 @@ Un excellent jeu « apéritif » qui flatte les joueurs prudents comme les tê
 - **Hasard / réflexion :** environ 70 % hasard, 30 % réflexion
 - **Fun :** 3/5 — délirant pour certains, agaçant pour d'autres
 - **Challenge :** 2/5 — il faut s'adapter, mais le chaos domine
+
+*Aller à l'[aide-mémoire](#memo-fluxx).*
 
 ### En bref
 Au début, la règle tient en une ligne : piocher une carte, jouer une carte. Puis les cartes changent tout : piocher trois, jouer tout, limiter la main, changer l'objectif de la partie. On gagne en remplissant l'objectif du moment, qui peut changer à chaque instant.
@@ -12296,8 +13304,7 @@ Dès qu'un joueur remplit l'objectif en cours, il gagne, même si ce n'est pas s
 
 **Jeu classique.** Pas réaliste : tout le sel tient au texte des cartes. On peut toutefois fabriquer un Fluxx maison sur des cartes vierges.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-fluxx}
 - **Départ :** carte Règle de base (« piochez 1, jouez 1 ») ; 3 cartes chacun.
 - **Tour :** piocher puis jouer autant que les règles en vigueur l'exigent, puis respecter les limites de main et de possessions.
 - **Types :** Nouvelle règle (remplace celle qu'elle contredit), Objectif (remplace le précédent), Possession, Action, Calamité.
@@ -12316,6 +13323,8 @@ Un jeu de détente pour les groupes qui aiment le chaos et les situations absurd
 - **Hasard / réflexion :** environ 25 % hasard, 75 % réflexion
 - **Fun :** 3/5 — on joue surtout chacun dans son coin, avec un plaisir de construction très net
 - **Challenge :** 5/5 — combinaisons innombrables, optimisation sans fin
+
+*Aller à l'[aide-mémoire](#memo-dominion).*
 
 ### En bref
 Chaque joueur commence avec le même petit paquet de dix cartes et l'enrichit en achetant des cartes au marché central. Les bonnes cartes reviennent plus souvent et permettent d'acheter encore mieux. Mais il faut finir par acheter des points de victoire, qui encombrent le paquet sans rien faire.
@@ -12371,8 +13380,7 @@ Chacun compte les points de victoire de son paquet entier (main, défausse, paqu
 
 **Jeu classique.** Pas réaliste : chaque carte Royaume a un texte propre. Le principe du deck-building, lui, peut être bricolé avec plusieurs jeux de 52 cartes (cartes numérotées comme monnaie, figures comme points), mais on perd ce qui fait l'intérêt du jeu.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-dominion}
 - **Départ :** 7 Cuivres et 3 Domaines ; main de 5 cartes.
 - **Trésors (coût / valeur) :** Cuivre 0 / 1, Argent 3 / 2, Or 6 / 3.
 - **Victoire (coût / points) :** Domaine 2 / 1, Duché 5 / 3, Province 8 / 6 ; 8 cartes par pile à 2 joueurs, 12 à 3 ou 4 ; Malédictions -1, 10 par adversaire.
@@ -12393,6 +13401,8 @@ Un jeu majeur pour les amateurs de combinaisons et de construction, qui se renou
 - **Hasard / réflexion :** environ 25 % hasard, 75 % réflexion
 - **Fun :** 4/5 — tout le monde joue en même temps, sans temps mort
 - **Challenge :** 4/5 — beaucoup de voies vers la victoire, lecture des voisins
+
+*Aller à l'[aide-mémoire](#memo-7-wonders).*
 
 ### En bref
 Chaque joueur développe une cité antique autour de l'une des sept merveilles du monde. À chaque tour, on choisit une carte dans sa main et on passe le reste au voisin. Ressources, science, commerce, armée, bâtiments civils : on ne peut pas tout faire, il faut choisir.
@@ -12439,8 +13449,7 @@ On additionne : conflits militaires ; 1 point par lot de 3 pièces ; étapes 
 
 **Jeu classique.** Pas réaliste : chaque carte a un coût et un effet propres. Le principe du draft, lui, s'adapte au rami (chaque joueur garde une carte et passe le reste avant de jouer).
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-7-wonders}
 - **Départ :** une merveille et 3 pièces ; 7 cartes par âge ; à l'âge III, autant de Guildes que de joueurs plus deux.
 - **Tour :** choisir une carte, puis bâtir, construire une étape de merveille ou défausser pour 3 pièces.
 - **Sens :** à gauche aux âges I et III, à droite à l'âge II ; 6 tours, la dernière carte est défaussée.
@@ -12461,6 +13470,8 @@ Le jeu « expert accessible » par excellence : il tient en trente minutes m�
 - **Hasard / réflexion :** environ 25 % hasard, 75 % réflexion
 - **Fun :** 3/5 — immense satisfaction du moteur qui tourne, mais peu d'échanges autour de la table
 - **Challenge :** 5/5 — iconographie dense, marge de progression énorme
+
+*Aller à l'[aide-mémoire](#memo-race-for-the-galaxy).*
 
 ### En bref
 Chaque joueur bâtit un empire galactique en posant devant lui des mondes et des développements. À chaque tour, tout le monde choisit secrètement une phase de jeu ; seules les phases choisies par quelqu'un ont lieu, mais tout le monde en profite. Les cartes servent à la fois de bâtiments et de monnaie.
@@ -12506,8 +13517,7 @@ Valeur imprimée de chaque carte posée, plus les jetons gagnés, plus les point
 
 **Jeu classique.** Pas réaliste.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-race-for-the-galaxy}
 - **Départ :** un monde de départ, 6 cartes dont on défausse 2 ; 12 jetons de points de victoire par joueur.
 - **Phases :** Exploration, Développement, Colonisation, Consommation, Production ; seules les phases choisies ont lieu.
 - **Bonus :** Explorer +5 ou +1/+1 ; Développer -1 ; Coloniser : piocher 1 carte ; Consommer : Commerce ou PV doublés ; Produire : une aubaine.
@@ -12528,6 +13538,8 @@ Un jeu d'experts adoré par ceux qui en franchissent la marche d'entrée : les 
 - **Hasard / réflexion :** peu de hasard, beaucoup de culture générale et de mémoire
 - **Fun :** 5/5 — fous rires assurés, surtout au troisième tour
 - **Challenge :** 2/5 — c'est la complicité et la mémoire qui font la différence
+
+*Aller à l'[aide-mémoire](#memo-time-s-up).*
 
 ### En bref
 Une équipe fait deviner une pile de noms à l'autre en trois manches : d'abord avec autant de mots qu'on veut, puis avec un seul mot, enfin en mimant. Les mêmes noms reviennent à chaque manche, et les souvenirs des manches précédentes deviennent des indices hilarants.
@@ -12564,8 +13576,7 @@ Chaque carte trouvée rapporte 1 point à l'équipe ; on additionne les trois m
 
 **Sans boîte : le jeu du chapeau.** Chaque joueur écrit cinq à huit noms sur des papiers pliés, que l'on met dans un chapeau ; on joue ensuite exactement comme ci-dessus, avec un minuteur de téléphone. Aucune carte n'est nécessaire.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-time-s-up}
 - **Préparation :** 40 cartes tirées ; couleur des noms choisie avant la partie.
 - **Tour :** un sablier de 30 secondes pour faire deviner le plus de cartes à son équipe.
 - **Manche 1 :** tout dire sauf le nom (ni traduction ni épellation) ; on ne passe pas.
@@ -12586,6 +13597,8 @@ L'un des meilleurs jeux de soirée qui existent, à condition que le groupe part
 - **Hasard / réflexion :** un peu de hasard, beaucoup de sensibilité et de connaissance des autres
 - **Fun :** 4/5 — beaucoup d'éclats de rire et de « mais comment as-tu pensé à ça ? »
 - **Challenge :** 2/5 — l'enjeu est la finesse, pas le calcul
+
+*Aller à l'[aide-mémoire](#memo-dixit).*
 
 ### En bref
 Le conteur choisit une de ses cartes illustrées, oniriques et étranges, et donne une phrase, un mot ou un son. Les autres choisissent dans leur main la carte qui colle le mieux. Il faut ensuite retrouver la carte du conteur. L'indice ne doit être ni trop clair ni trop obscur.
@@ -12625,8 +13638,7 @@ Chaque joueur prend un lapin (sur la case 0) et les jetons de vote de sa couleur
 
 **Sans boîte.** Des cartes postales, des photos ou les cartes d'autres jeux illustrés (tarots divinatoires, jeux d'images) font un Dixit maison convenable. Un jeu de 52 cartes, trop uniforme, ne convient pas.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-dixit}
 - **Matériel :** 84 cartes ; 6 cartes en main.
 - **Tour :** le conteur donne un indice ; chacun fournit une carte ; vote secret (jamais pour sa propre carte).
 - **Tous ou personne trouvent :** conteur 0, chacun des autres 2.
@@ -12648,6 +13660,8 @@ Un jeu magnifique pour une soirée en famille ou entre amis qui aiment l'imagina
 - **Hasard / réflexion :** peu de hasard, beaucoup de réflexion et de vocabulaire
 - **Fun :** 4/5 — les débats des équipes sont un spectacle en soi
 - **Challenge :** 4/5 — trouver un indice qui relie trois mots sans toucher l'assassin est un vrai casse-tête
+
+*Aller à l'[aide-mémoire](#memo-codenames).*
 
 ### En bref
 Deux équipes s'affrontent autour d'une grille de 25 mots. Dans chaque équipe, un maître-espion sait quels mots sont ses agents ; il doit les faire deviner à ses coéquipiers avec un seul mot et un nombre. Gare à l'assassin caché dans la grille.
@@ -12685,8 +13699,7 @@ On dispose 25 cartes Mot en grille de 5 sur 5. Chaque équipe désigne son maît
 
 **Sans boîte, avec un jeu classique.** Les mots s'écrivent sur 25 papiers (ou se tirent au hasard d'un livre). La clé se fabrique avec un jeu de 52 cartes : on prend 9 cœurs (équipe qui commence), 8 piques (l'autre équipe), 7 carreaux (témoins) et 1 trèfle (assassin), on mélange ces 25 cartes et on les dispose en grille de 5 sur 5, face visible, devant les seuls maîtres-espions, cachées derrière un livre debout.
 
-### Aide-mémoire
-
+### Aide-mémoire {#memo-codenames}
 - **Grille :** 25 mots ; 9 agents pour l'équipe qui commence, 8 pour l'autre, 7 témoins, 1 assassin.
 - **Indice :** un mot et un nombre ; aucun mot de la grille, aucune indication de lettres ou de position.
 - **Propositions :** au moins une, au plus nombre + 1.
@@ -12697,854 +13710,6 @@ On dispose 25 cartes Mot en grille de 5 sur 5. Chaque équipe désigne son maît
 ### Verdict
 Un jeu d'équipes formidable pour les amateurs de mots, qui s'adapte à presque tous les groupes. Les maîtres-espions vivent un moment de réflexion intense ; les autres débattent avec passion. Il demande un vocabulaire partagé : avec des enfants ou des joueurs d'une autre langue maternelle, préférez Codenames Images.
 
-# Compléments : d'autres jeux à connaître
-
-Aucun classement des jeux de cartes n'est parfait. Certains jeux se rangent mal dans une famille : le Tracteur chinois est un jeu de plis, mais il emprunte aux jeux de grimpe leurs paires et leurs suites ; le Gops n'a ni plis, ni combinaisons, ni pioche, seulement des enchères à l'aveugle. D'autres prolongent une famille déjà décrite en remontant à ses sources : l'Hombre, le Reversis, le Lansquenet ou le Boston ont régné sur les salons d'Europe pendant deux siècles avant de céder la place à leurs descendants, que vous avez rencontrés dans les chapitres précédents. Ce chapitre réunit ces jeux importants qui n'avaient pas trouvé leur place ailleurs, ou qui éclairent d'un jour nouveau ceux qui l'ont trouvée.
-
-On y croise trois sortes de jeux. D'abord des **jeux vivants** et très joués dans leur pays, mais peu connus en France : le Sheng Ji, que des dizaines de millions de Chinois pratiquent en famille et en ligne, le Schnapsen, jeu national de l'Autriche, le Pishti, qu'on joue dans tous les cafés de Turquie, le Tonk, jeu de comptoir des musiciens de jazz américains. Ensuite des **jeux de salon modernes** qui se jouent avec des cartes ordinaires et méritent d'être connus, comme Spite and Malice, duel de patience à deux, ou le Gops, pur exercice de bluff mathématique. Enfin des **jeux historiques** : l'Hombre, premier grand jeu à enchères, le Reversis, ancêtre du Barbu et de la Dame de pique, le Lansquenet des mercenaires et des courtisans, et le Boston, whist à enchères de la fin du XVIIIe siècle.
-
-Quelques mots de vocabulaire reviennent. Le **talon** est le paquet de cartes non distribuées où l'on pioche ou échange. Un **mariage** est la réunion du roi et de la dame d'une même couleur, qui rapporte des points dans les jeux de la famille du Bézigue. Les **matadors** sont les atouts majeurs qui jouissent de privilèges particuliers. La **codille** désigne, dans l'Hombre, la défaite du déclarant battu par un défenseur. Un **jeu de banque** oppose un banquier à des pontes (les joueurs qui misent contre lui).
-
-Pour choisir : à deux, le Schnapsen est le meilleur jeu de plis court qui soit, Spite and Malice un duel tranquille et tactique, le Gops un défi cérébral sans aucun hasard. À quatre, le Sheng Ji et le Pishti se jouent en équipes, le premier pour les amateurs de plis exigeants, le second pour une partie détendue. Pour une soirée historique, l'Hombre à trois et le Reversis à quatre font revivre la table de Louis XIV ; le Lansquenet et le Tonk, joués avec des jetons, sont des jeux d'argent sans argent.
-
-## Sheng Ji (Tracteur) {#jeu-sheng-ji-tracteur}
-*Autres noms : Tuolaji (« tracteur »), Bashi fen (« quatre-vingts points »), Shengji (« monter de niveau »), Shuang sheng*
-
-- **Famille :** jeu de plis en équipes, avec paires et suites
-- **Joueurs :** 4, en deux équipes de 2 (variantes de 5 à 7 joueurs)
-- **Matériel :** 2 jeux de 52 cartes et 4 jokers (2 rouges, 2 noirs), soit 108 cartes ; papier pour noter les niveaux
-- **Durée d'une partie :** 1 h 30 à 3 h pour une partie complète (de 2 à l'as) ; 10 à 15 min par donne
-- **Âge conseillé :** dès 12 ans
-- **Diffusion :** Très répandu en Chine et dans la diaspora chinoise ; niche en France
-- **Hasard / réflexion :** 30 % hasard, 70 % réflexion
-- **Fun :** 4/5 — les donnes basculent souvent au dernier pli, et le jeu d'équipe crée une vraie complicité
-- **Challenge :** 5/5 — mémoire de deux paquets, lecture du partenaire, gestion de l'écart : on progresse pendant des années
-
-### En bref
-Deux équipes s'affrontent pour gravir une échelle de niveaux, du 2 jusqu'à l'as. À chaque donne, une équipe attaque et tente de ramasser les cartes qui comptent (les 5, les 10 et les rois) ; l'autre défend. Avec deux paquets mêlés, les cartes existent en double : on peut jouer des paires et des « tracteurs », suites de paires qui écrasent tout sur leur passage. L'atout change à chaque donne et dépend du niveau de l'équipe : aucune donne ne ressemble à la précédente.
-
-### Histoire et origine
-La famille du Sheng Ji est chinoise et relativement récente : elle s'est répandue dans la seconde moitié du XXe siècle, en particulier à partir des années 1960, et ses règles n'ont jamais été unifiées. Chaque région, chaque université, chaque famille a ses usages, et les noms changent avec eux : « 80 points » dans le Nord, « Tracteur » ailleurs, « Shuang kou » (« double creusage ») dans certaines provinces. Le jeu est aujourd'hui l'un des plus pratiqués du pays, en famille pendant les fêtes du Nouvel An comme sur les grandes plateformes de jeu en ligne, et il a suivi les communautés chinoises du monde entier. Il cousine avec le [Guandan](#jeu-guandan), autre jeu à deux paquets et à niveaux, qui relève lui des jeux de défausse.
-
-### But du jeu
-Être la première équipe à dépasser l'as sur l'échelle des niveaux : 2, 3, 4… 10, valet, dame, roi, as. On monte de niveau en réussissant sa donne quand on est déclarant, ou en ramassant au moins 80 points de cartes quand on est adversaire.
-
-### Mise en place
-Les partenaires sont assis face à face. Les deux équipes commencent au niveau **2**.
-
-**Valeur des cartes :** seuls trois rangs rapportent des points. Chaque **5** vaut 5 points, chaque **10** et chaque **roi** valent 10 points. Le paquet complet contient 200 points (100 par jeu de 52).
-
-**Atouts :** à chaque donne, le **rang d'atout** est le niveau de l'équipe déclarante (le 2 à la première donne). Sont atouts : les quatre jokers, toutes les cartes du rang d'atout (quelle que soit leur couleur) et toutes les cartes de la couleur d'atout. Ordre des atouts, du plus fort au plus faible, si le rang est 2 et la couleur cœur :
-
-1. joker rouge (les deux sont égaux entre eux) ;
-2. joker noir ;
-3. 2 de cœur (rang d'atout dans la couleur d'atout) ;
-4. les autres 2 (pique, trèfle, carreau), égaux entre eux ;
-5. as, roi, dame… 3 de cœur.
-
-Dans les couleurs ordinaires, l'ordre est as, roi, dame, valet, 10… jusqu'au plus petit, en sautant le rang d'atout (qui est parti dans les atouts). Entre deux cartes égales (deux jokers rouges, deux 2 de pique, un 2 de pique et un 2 de trèfle), la première jouée l'emporte.
-
-**Distribution :** à la chinoise, chacun **pioche une carte à la fois** dans le paquet posé au centre, dans le sens inverse des aiguilles d'une montre (on peut aussi distribuer normalement). Chacun reçoit 25 cartes ; les **8 dernières** restent face cachée : c'est le « fond » ou l'écart.
-
-**Choisir l'atout pendant la distribution :** dès qu'un joueur reçoit une carte du rang d'atout, il peut l'exposer : sa couleur devient l'atout. On peut attendre pour voir le reste de sa main, au risque d'être devancé.
-
-- Une **paire** de cartes identiques du rang d'atout (deux 2 de pique) bat une carte seule, même exposée par son partenaire.
-- Une **paire de jokers identiques** (deux rouges ou deux noirs) bat une paire et fait jouer la donne **sans couleur d'atout** : seuls les jokers et les cartes du rang d'atout sont alors atouts.
-- On ne peut pas renforcer sa propre exposition (passer de sa carte seule à sa paire) pour contrer quelqu'un ; une fois une paire exposée, seule une paire de jokers peut la renverser.
-- Si personne n'a rien exposé, on retourne une à une les cartes du fond : la première carte du rang d'atout fixe la couleur ; à défaut, la couleur de la plus forte carte retournée (hors joker).
-
-**Qui déclare :** à la première donne, l'équipe du joueur qui a fixé l'atout devient **déclarante**, et ce joueur est le **meneur** (le « banquier », *zhuangjia*). Aux donnes suivantes, si les déclarants ont réussi, le partenaire du meneur prend la main ; s'ils ont échoué, les adversaires deviennent déclarants et le joueur à droite de l'ancien meneur devient meneur.
-
-**L'écart :** le meneur ramasse les 8 cartes du fond, puis en écarte 8 face cachée. C'est un moment clé : on y cache des cartes inutiles, on y crée des coupes franches, mais attention aux points qu'on y laisse (voir le dernier pli).
-
-### Déroulement
-Le meneur entame le premier pli. Le gagnant d'un pli entame le suivant. Chaque entame impose à chacun de fournir **le même nombre de cartes**.
-
-1. **Carte seule.** On doit fournir la couleur demandée (rappel : tous les atouts, jokers et cartes du rang d'atout compris, forment une seule « couleur »). Sans la couleur, on joue ce qu'on veut, y compris un atout, qui coupe. La plus forte carte de la couleur demandée gagne, sauf si un atout a été joué.
-2. **Paire.** Deux cartes rigoureusement identiques (même rang, même couleur). On doit répondre par une paire de la couleur si on en a une ; sinon par deux cartes de la couleur ; sinon par une carte de la couleur et une autre ; sinon par deux cartes quelconques. Seule une paire peut battre une paire : la plus forte paire de la couleur, ou une paire d'atout si on n'a plus la couleur.
-3. **Tracteur.** Deux paires ou plus de rangs consécutifs dans la même couleur (8-8-9-9, ou 10-10-V-V-D-D). On doit répondre avec un tracteur de même longueur si possible, sinon avec autant de paires de la couleur que possible, puis des cartes isolées de la couleur, puis n'importe quoi. Un tracteur n'est battu que par un tracteur plus fort de même longueur (ou un tracteur d'atout). Le rang d'atout étant sauté, 7-7-9-9 forme un tracteur quand le 8 est atout ; dans les atouts, la plupart des tables admettent aussi des tracteurs comme paire de 2 hors couleur + paire de 2 d'atout + paire de jokers noirs.
-4. **Lancer (combinaison maîtresse).** On peut entamer plusieurs cartes d'une même couleur (seules, paires, tracteurs mélangés) à condition que **chacune soit maîtresse** : aucune carte ou combinaison plus forte de cette couleur ne doit rester chez les autres. Les adversaires fournissent le même nombre de cartes en respectant la forme autant qu'ils le peuvent. Un lancer dans une couleur ordinaire ne peut être pris que par des atouts de même forme (une paire d'atout contre une paire, etc.).
-5. **Lancer raté.** Si un adversaire peut battre un élément du lancer, le lancer est annulé : le joueur reprend ses cartes et doit jouer l'élément battable. Pénalité selon pagat : 10 points de cartes par carte reprise, transférés à l'autre équipe. Beaucoup de tables chinoises se contentent d'obliger à jouer la plus petite composante.
-
-Les adversaires des déclarants posent devant eux les 5, 10 et rois qu'ils gagnent. Les plis gagnés par les déclarants ne comptent pas.
-
-**Le dernier pli.** Si les adversaires gagnent le dernier pli, on retourne l'écart et ses points s'ajoutent aux leurs, **doublés** si le dernier pli était une carte seule, multipliés par 4 si c'était une paire, par 8 pour un tracteur de deux paires (deux fois le nombre de cartes de l'entame). Un fond chargé en points est une bombe à retardement.
-
-### Décompte des points
-Seuls les points des **adversaires** comptent (écart éventuel compris). Barème de pagat :
-
-- 0 point : les déclarants montent de **3** niveaux ;
-- 5 à 35 : les déclarants montent de **2** niveaux ;
-- 40 à 75 : les déclarants montent de **1** niveau ;
-- 80 à 115 : les adversaires deviennent déclarants, sans monter ;
-- 120 à 155 : ils deviennent déclarants et montent de 1 ;
-- 160 à 195 : de 2 ; 200 à 235 : de 3 ; puis un niveau de plus par tranche de 40.
-
-La première équipe qui dépasse l'as gagne la partie. Le niveau de chaque équipe reste acquis : seule l'équipe déclarante joue « à son niveau ».
-
-### Conseils de stratégie
-- **Comptez les points, pas les plis.** Il reste 200 points en jeu : les déclarants doivent en concéder moins de 80. Un pli sans 5, 10 ni roi n'a aucune valeur en soi, il ne sert qu'à garder la main.
-- **Comptez les gros atouts.** Quatre jokers, huit cartes du rang d'atout : savoir combien sont tombés dit quand vos as deviennent maîtres.
-- **Ne cassez pas vos paires.** Une paire vaut bien plus que deux cartes isolées : elle force l'adversaire à casser les siennes. Défaussez vos cartes seules en priorité.
-- **Nourrissez votre partenaire.** Quand votre partenaire gagne un pli, jetez-y vos 10 et vos rois (en défense surtout). Quand l'adversaire gagne, donnez-lui des cartes sans valeur.
-- **L'écart du meneur :** videz une couleur courte pour pouvoir couper, gardez vos paires, et n'y enterrez des points que si vous êtes sûr de garder la maîtrise jusqu'au bout.
-- **Gardez de gros atouts pour la fin.** Les adversaires vont viser le dernier pli pour retourner l'écart : celui qui garde une paire de jokers pour la dernière levée a souvent la donne en main.
-- **Confirmé :** jouez des lancers dès que vous êtes sûr qu'ils sont maîtres ; ils vident votre main sans risque et privent l'adversaire de ses coupes. Et n'exposez pas d'atout trop tôt si votre main est faible : mieux vaut laisser l'adversaire déclarer et le défendre.
-
-### Variantes
-**Niveaux obligatoires.** Certains rangs (souvent le 5, le 10 et le roi, ou seulement l'as) ne peuvent pas être sautés : une équipe qui devrait les dépasser s'y arrête et doit les jouer.
-
-**Valet ou as « crochet ».** Quand on joue au niveau du valet ou de l'as, certaines tables imposent des conditions particulières (gagner le dernier pli avec un valet, par exemple) ; ces règles varient beaucoup.
-
-**Zhao Pengyou (« trouver des amis »).** Pour 5 à 7 joueurs, avec la moitié autant de paquets que de joueurs (arrondie à l'inférieur). Le meneur annonce une ou plusieurs cartes (« le premier as de cœur joué ») : ceux qui les jouent deviennent ses partenaires, révélés en cours de donne. Une excellente variante de groupe.
-
-**Six joueurs.** Trois paquets et six jokers, deux équipes de trois alternées autour de la table.
-
-**Distribution classique.** Ceux qui trouvent la pioche une à une trop lente distribuent les cartes normalement, puis exposent l'atout après coup selon les mêmes priorités.
-
-### Aide-mémoire
-
-- **Cartes :** 2 jeux de 52 + 4 jokers ; points : 5 = 5, 10 = 10, R = 10 (200 au total).
-- **Atouts :** joker rouge, joker noir, rang d'atout dans la couleur d'atout, autres cartes du rang d'atout (égales), puis la couleur d'atout de l'as au plus petit.
-- **Donne :** 25 cartes chacun, 8 au fond ; on expose une carte (ou une paire) du rang d'atout pour fixer la couleur ; paire de jokers = sans couleur.
-- **Écart :** le meneur prend les 8 cartes du fond et en écarte 8, puis entame.
-- **Obligations :** fournir le même nombre de cartes, dans la couleur, en respectant paires et tracteurs autant que possible ; sinon libre (atout coupe).
-- **Lancer raté :** jouer la composante battable ; 10 points par carte reprise à l'autre équipe.
-- **Dernier pli aux adversaires :** points de l'écart x 2 (carte seule), x 4 (paire), x 8 (tracteur de 4 cartes).
-- **Niveaux :** adversaires à 0 : +3 aux déclarants ; 5-35 : +2 ; 40-75 : +1 ; 80-115 : changement de camp ; puis +1 par tranche de 40.
-- **Fin de partie :** première équipe à dépasser l'as.
-
-### Verdict
-Le Sheng Ji est l'un des plus grands jeux de plis du monde, et l'un des moins connus en Occident. Il demande un peu d'apprentissage (l'ordre des atouts déroute à la première donne) et quatre joueurs motivés, mais il récompense par une richesse rare : paires, tracteurs, lancers et écart donnent à chaque donne une dimension tactique que la [Belote](#jeu-belote) ou le [Whist](#jeu-whist) n'ont pas. Les amateurs de [Tichu](#jeu-tichu) et de [Bridge](#jeu-bridge) l'adoreront. Ceux qui préfèrent les parties courtes ou sans effort de mémoire passeront leur chemin : une partie complète est une affaire de soirée.
-
-## Schnapsen / Sechsundsechzig {#jeu-schnapsen-sechsundsechzig}
-*Autres noms : Schnapsen (Autriche, Hongrie : Snapszer), Sechsundsechzig ou Soixante-six (Allemagne, version à 24 cartes)*
-
-- **Famille :** jeu de plis à mariages (famille du Bézigue)
-- **Joueurs :** 2
-- **Matériel :** 20 cartes (as, 10, roi, dame, valet dans chaque couleur), 24 pour le Sechsundsechzig (avec les 9) ; papier ou allumettes pour les points
-- **Durée d'une partie :** 3 à 5 min par donne ; 20 à 30 min pour un « Bummerl »
-- **Âge conseillé :** dès 10 ans
-- **Diffusion :** Très répandu en Autriche, en Hongrie, dans le sud de l'Allemagne et en Europe centrale ; niche en France
-- **Hasard / réflexion :** 35 % hasard, 65 % réflexion
-- **Fun :** 4/5 — donnes éclair, retournements et décisions tranchantes
-- **Challenge :** 5/5 — comptage exact des points, timing de la fermeture : un jeu court mais d'une profondeur étonnante
-
-### En bref
-Deux joueurs, vingt cartes, une course à 66 points. Tant que la pioche dure, on joue librement en devinant la main adverse ; dès qu'elle est épuisée, ou qu'un joueur la ferme d'autorité, tout devient strict et calculable. Le cœur du jeu est là : choisir le bon moment pour fermer et annoncer « je sors ».
-
-### Histoire et origine
-Le Sechsundsechzig est attesté en Allemagne au début du XIXe siècle ; il appartient à la grande famille des jeux à mariages (roi et dame de même couleur), avec le [Bézigue](#jeu-bezigue), le Mariage et le [Pinochle](#jeu-pinochle). Le Schnapsen en est la forme autrichienne réduite à 20 cartes, plus rapide et plus tendue. En Autriche, il est un véritable jeu national, joué au café, dans les trains et dans les tournois ; on y joue souvent avec les cartes à enseignes allemandes (glands, feuilles, cœurs, grelots), où la dame est remplacée par l'Ober et le valet par l'Unter. Un jeu français de 52 cartes, dont on retire les cartes du 2 au 9, convient parfaitement.
-
-### But du jeu
-Être le premier à atteindre **66 points** de cartes dans une donne (cartes ramassées et mariages annoncés), et le déclarer. Gagner des donnes rapporte 1 à 3 points de partie ; on joue un **Bummerl**, manche de 7 points.
-
-### Mise en place
-
-| Carte | Points |
-| --- | --- |
-| As | 11 |
-| 10 | 10 |
-| Roi | 4 |
-| Dame | 3 |
-| Valet | 2 |
-
-L'ordre de force suit les points : as, 10, roi, dame, valet. Le paquet vaut 120 points.
-
-**Distribution :** le donneur distribue 3 cartes à chacun, retourne la carte suivante (elle fixe l'atout), puis donne 2 cartes à chacun. Chacun a donc 5 cartes. Les 9 cartes restantes forment le talon, posé face cachée en travers de l'atout retourné. Le donneur alterne à chaque donne.
-
-### Déroulement
-**Première phase : le talon est ouvert.**
-
-1. Le non-donneur entame. L'autre joue n'importe quelle carte : **pas d'obligation** de fournir ni de couper.
-2. La plus forte carte de la couleur entamée gagne, sauf si un atout a été joué.
-3. Le gagnant du pli pioche la première carte du talon, puis le perdant ; le gagnant entame le pli suivant.
-4. **Échange du valet d'atout :** le joueur qui a la main, juste avant d'entamer, peut échanger le valet d'atout de sa main contre la carte d'atout retournée, tant que le talon n'est ni fermé ni épuisé.
-5. **Mariages :** le joueur qui entame peut annoncer un mariage (roi et dame de même couleur) en montrant l'une des deux cartes et en jouant l'autre. Un mariage ordinaire vaut **20**, le mariage d'atout **40**. Les points ne comptent que si l'on a gagné (ou gagne ensuite) au moins un pli.
-
-**Fermer le talon.** Quand il a la main, avant d'entamer, un joueur peut **fermer** : il retourne l'atout face cachée sur le talon. On ne pioche plus, et l'on passe immédiatement aux règles strictes. Celui qui ferme s'engage à atteindre 66 avec les cartes en main.
-
-**Seconde phase : talon épuisé ou fermé.** Quand le gagnant d'un pli prend la dernière carte cachée, le perdant prend l'atout retourné. À partir de là (ou de la fermeture) :
-
-- il faut **fournir** la couleur demandée ;
-- il faut **monter** (battre la carte) si on le peut ;
-- sans la couleur, il faut **couper** ;
-- en Schnapsen, on peut encore annoncer des mariages pendant cette phase.
-
-**Sortir.** Un joueur qui pense avoir 66 points l'annonce (« je sors ») juste après avoir gagné un pli ou annoncé un mariage. La donne s'arrête, on compte.
-
-### Décompte des points
-Si l'annonce est juste, le sortant marque :
-
-- **1 point** si l'adversaire a 33 points ou plus ;
-- **2 points** si l'adversaire a moins de 33 points mais au moins un pli (*Schneider*) ;
-- **3 points** si l'adversaire n'a fait aucun pli (*Schwarz*).
-
-Si l'annonce est fausse (moins de 66), l'adversaire marque 2 points, ou 3 s'il n'avait encore fait aucun pli.
-
-Après une **fermeture**, le barème dépend de la situation de l'adversaire **au moment de la fermeture**. Si celui qui a fermé échoue, l'adversaire marque 2 points (3 s'il n'avait aucun pli au moment de la fermeture).
-
-Si personne ne sort et que tout le talon est joué, le gagnant du **dernier pli** marque 1 point.
-
-**Le Bummerl :** chaque joueur part de 7 et retire les points qu'il gagne ; le premier qui arrive à zéro gagne la manche, et le perdant « prend un Bummerl » (on le note d'un point noir).
-
-### Conseils de stratégie
-- **Comptez en permanence** vos points et ceux de l'adversaire. Tout le jeu repose sur la certitude d'avoir 66 ; une annonce fausse coûte cher.
-- **Ne gaspillez pas vos as et vos 10** pendant la phase libre : ce sont eux qui gagneront les plis stricts. Défaussez des valets et des dames sans mariage.
-- **Prenez les 10 adverses** avec vos as d'atout ou en coupant : un 10 qui passe vaut presque un mariage.
-- **Gardez vos mariages pour vos entames**, mais annoncez-les vite si la fin du talon approche : une dame ou un roi isolé peut vous être pris.
-- **Fermez au bon moment.** Une main forte en atouts avec 40 de mariage justifie souvent de fermer tôt, quand l'adversaire n'a encore presque rien : vous visez 2 ou 3 points.
-- **Confirmé :** déduisez la main adverse. À la fermeture, vous connaissez vos cinq cartes et toutes celles déjà jouées ; les cartes inconnues sont peu nombreuses. Les bons joueurs calculent les plis restants comme un problème d'échecs.
-
-### Variantes
-**Sechsundsechzig (66).** 24 cartes avec les 9 (valeur 0) ; on distribue 6 cartes à chacun (3 + 3) et le talon compte 11 cartes plus l'atout. C'est le 9 d'atout qui s'échange contre la carte retournée. Plus de mariage une fois le talon épuisé ou fermé. Si personne ne sort, le dernier pli vaut 10 points de plus et une égalité est possible. On compte souvent en montant de 0 à 7.
-
-**Schnapsen à trois ou à quatre (Dreierschnapsen, Bauernschnapsen).** Formes avec enchères et partenaires, très jouées dans les campagnes autrichiennes ; elles demandent une règle à part.
-
-**Schnapsen à 24 cartes.** Certains Autrichiens jouent avec les 9, mais selon les règles du Schnapsen (mariages après fermeture, pas de bonus de dernier pli).
-
-### Aide-mémoire
-
-- **Cartes :** 20 cartes ; As 11, 10 10, R 4, D 3, V 2 (120 au total) ; force dans cet ordre.
-- **Donne :** 3 cartes chacun, atout retourné, 2 cartes chacun ; talon de 9 + atout.
-- **Talon ouvert :** jeu libre ; le gagnant pioche le premier ; le valet d'atout s'échange contre l'atout retourné (avant d'entamer).
-- **Mariages :** R + D en entamant : 20, ou 40 à l'atout ; valides seulement avec un pli gagné.
-- **Talon fermé ou épuisé :** fournir, monter, couper obligatoirement.
-- **Sortir :** annoncer 66 après un pli gagné ou un mariage ; 1 point (adversaire 33 ou plus), 2 (moins de 33), 3 (aucun pli).
-- **Erreur :** annonce fausse ou fermeture ratée : 2 points à l'adversaire (3 s'il n'avait aucun pli).
-- **Fin de partie :** Bummerl de 7 points, décomptés de 7 à 0.
-
-### Verdict
-Le Schnapsen est peut-être le meilleur jeu de cartes à deux qui tienne dans vingt cartes : rapide, simple à apprendre, mais profond au point que les champions autrichiens y passent leur vie. Il séduira les amateurs de [Belote](#jeu-belote) et de [Piquet](#jeu-piquet) qui cherchent un duel nerveux, et se joue aussi bien entre deux stations de métro que lors d'une longue soirée. Ceux qui n'aiment pas compter dans leur tête souffriront : on n'y triche pas avec l'arithmétique.
-
-## Spite and Malice {#jeu-spite-and-malice}
-*Autres noms : Cat and Mouse (« le chat et la souris »)*
-
-- **Famille :** patience à deux (jeu de construction en duel)
-- **Joueurs :** 2 (variantes à 3 ou 4)
-- **Matériel :** 2 jeux de 52 cartes, de dos différents si possible
-- **Durée d'une partie :** 20 à 40 min
-- **Âge conseillé :** dès 8 ans
-- **Diffusion :** Répandu dans les pays anglo-saxons ; niche en France (mais son dérivé commercial Skip-Bo y est connu)
-- **Hasard / réflexion :** 50 % hasard, 50 % réflexion
-- **Fun :** 3/5 — tranquille et prenant, avec de jolis enchaînements, mais peu d'interaction directe
-- **Challenge :** 3/5 — la gestion des piles de défausse demande du soin et de l'anticipation
-
-### En bref
-Chacun possède une pile de cartes à écouler. Au centre, on construit des suites communes de l'as à la dame ; les rois sont des jokers. Le premier qui vide sa pile gagne. Le sel du jeu tient dans les quatre piles de défausse personnelles, qu'il faut organiser pour préparer de longues séquences sans offrir de cartes utiles à l'adversaire.
-
-### Histoire et origine
-Spite and Malice est un jeu américain, inconnu dans les livres avant les années 1960 : Richard L. Frey en publie les règles en 1965, comme un jeu récent joué entre époux. Le spécialiste du bridge Easley Blackwood le découvre sur un paquebot et contribue à le populariser dans les années 1970. David Parlett y voit une refonte de la [Crapette](#jeu-crapette) du XIXe siècle. Ses descendants commerciaux sont nombreux, dont le célèbre Skip-Bo (Mattel), qui reprend exactement la même mécanique avec des cartes numérotées de 1 à 12.
-
-### But du jeu
-Être le premier à jouer au centre la dernière carte de sa **pile de réserve** (la « pile de paiement »).
-
-### Mise en place
-Les couleurs ne comptent pas, seuls les rangs : as (1), 2… 10, valet (11), dame (12). Les **rois** sont jokers.
-
-1. Mélangez les deux paquets ensemble.
-2. Chaque joueur reçoit une pile de réserve de **20 cartes** face cachée (26 dans les versions des livres anglais) ; on retourne la carte du dessus.
-3. Chacun reçoit **5 cartes** en main. Le reste forme la pioche commune.
-4. Le joueur dont la carte de réserve visible est la plus forte commence (en cas d'égalité, on remélange).
-
-### Déroulement
-À son tour :
-
-1. **Complétez votre main à 5 cartes** en piochant.
-2. **Jouez au centre** autant de cartes que vous voulez, depuis votre main, le dessus de votre réserve ou le dessus de l'une de vos piles de défausse. Une pile centrale commence obligatoirement par un **as**, puis monte d'un rang à la fois jusqu'à la dame. Il peut y avoir jusqu'à **trois piles centrales** en même temps (quatre selon les livres).
-3. Quand vous jouez la carte du dessus de votre réserve, retournez la suivante.
-4. Si vous videz votre main sans avoir défaussé, piochez 5 nouvelles cartes et continuez.
-5. **Terminez votre tour en défaussant** une carte de votre main sur l'une de vos **quatre piles de défausse** (devant vous). Seule la carte du dessus d'une défausse est jouable.
-
-Restrictions : on ne place jamais de carte de réserve sur une défausse, on ne déplace pas de carte d'une défausse à l'autre et on ne reprend rien au centre. Un **roi** posé au centre vaut le rang suivant celui de la carte qu'il recouvre ; posé sur une défausse, il ne vaut rien tant qu'il n'est pas joué au centre. Une pile centrale qui atteint la dame est retirée et remélangée dans la pioche.
-
-### Décompte des points
-Le premier qui vide sa réserve gagne la partie. Pour une série, le vainqueur marque 5 points plus 1 point par carte restant dans la réserve adverse. Si la pioche s'épuise sans vainqueur, la partie est nulle (ou le joueur dont la réserve est la plus petite marque la différence).
-
-### Conseils de stratégie
-- **Priorité à la réserve.** Toute action doit servir à faire sortir la carte visible de votre réserve. Ne remplissez pas une pile centrale jusqu'au rang dont votre adversaire a besoin.
-- **Surveillez la réserve adverse.** Si son dessus est un 7, évitez de laisser une pile centrale à 6.
-- **Ordonnez vos défausses en descendant** (un 9 sur un 10, un 8 sur le 9…) : elles se dérouleront d'un coup au centre plus tard.
-- **Gardez une défausse libre** ou dédiée aux cartes « poubelles » pour ne pas boucher vos bonnes séquences.
-- **Économisez les rois.** Un roi joué trop tôt vous manquera pour débloquer votre réserve au moment décisif.
-
-### Variantes
-**Version des livres.** Réserve de 26 cartes, un paquet de 52 plus un autre avec 4 jokers ; jokers et rois sauvages (sauf comme as) ; une défausse ne peut recevoir qu'une carte égale ou inférieure d'un rang à son sommet ; les as et les 2 visibles doivent être joués.
-
-**Réserves plus courtes.** 14 à 15 cartes pour une partie de 10 minutes.
-
-**À trois ou quatre.** Un paquet de plus par joueur supplémentaire ; à quatre, on peut jouer en équipes et utiliser les défausses de son partenaire.
-
-**Skip-Bo.** Le jeu commercial reprend les mêmes règles avec ses propres cartes de 1 à 12 et des jokers « Skip-Bo ».
-
-### Aide-mémoire
-
-- **Cartes :** 2 jeux de 52 mêlés ; as à dame ; rois sauvages ; couleurs sans importance.
-- **Donne :** réserve de 20 cartes (dessus visible), 5 en main, le reste en pioche.
-- **Tour :** compléter à 5 ; jouer au centre depuis main, réserve ou dessus des défausses ; finir par une défausse.
-- **Centre :** jusqu'à 3 piles, de l'as à la dame ; pile complète remélangée dans la pioche.
-- **Défausses :** 4 piles personnelles, seule la carte du dessus est jouable ; jamais de carte de réserve dessus.
-- **Fin de partie :** premier à vider sa réserve ; 5 points + 1 par carte de réserve adverse.
-
-### Verdict
-Un très bon jeu de couple ou de vacances, accessible aux enfants et assez tactique pour occuper des adultes. Ceux qui aiment les patiences y trouveront une version à deux avec un adversaire à surveiller ; les amateurs de jeux plus interactifs le trouveront lent et un peu solitaire. Pour d'autres duels de ce type, voir les [Patiences à deux](#jeu-patiences-a-deux).
-
-## Pishti {#jeu-pishti}
-*Autres noms : Pişti (turc)*
-
-- **Famille :** jeu de pêche (capture)
-- **Joueurs :** 2 à 4 (idéal : 4, en deux équipes de 2)
-- **Matériel :** 1 jeu de 52 cartes ; papier pour les scores
-- **Durée d'une partie :** 30 à 45 min (jusqu'à 151 points)
-- **Âge conseillé :** dès 7 ans
-- **Diffusion :** Très répandu en Turquie ; régional au Proche-Orient ; niche en France
-- **Hasard / réflexion :** 60 % hasard, 40 % réflexion
-- **Fun :** 4/5 — rapide, bavard, ponctué de « pişti ! » triomphants
-- **Challenge :** 2/5 — un peu de mémoire et de patience suffisent à bien jouer
-
-### En bref
-On joue une carte à la fois sur un tas central. Si elle a le même rang que la carte du dessus, on ramasse tout le tas ; un valet ramasse toujours. Capturer un tas réduit à une seule carte, c'est faire un **pişti**, qui rapporte un gros bonus. Simple comme la [Bataille](#jeu-bataille), mais avec assez de mémoire et de calcul pour récompenser les bons joueurs.
-
-### Histoire et origine
-Le Pişti est le jeu de cartes populaire par excellence en Turquie, joué dans les cafés (*kahvehane*), en famille et sur toutes les applications mobiles du pays. Il appartient à la grande famille méditerranéenne des jeux de pêche, avec la [Scopa](#jeu-scopa) italienne et la [Chkobba](#jeu-chkobba) tunisienne, mais sa règle de capture est plus simple : on ne fait pas d'additions, on ne prend que par paire de rangs ou avec un valet. On connaît des jeux très proches en Grèce (Xeri) et au Proche-Orient (Basra), avec des barèmes un peu différents.
-
-### But du jeu
-Ramasser des cartes qui comptent et réussir des pişti, pour être le premier camp à **151 points**.
-
-### Mise en place
-Paquet de 52 cartes, sans jokers. Les partenaires sont face à face ; le jeu tourne dans le sens inverse des aiguilles d'une montre.
-
-1. Le donneur pose **4 cartes face cachée** au centre, puis distribue **4 cartes** à chaque joueur.
-2. Il retourne la carte du dessus des 4 cartes centrales : elle commence le tas. Si c'est un valet, il en retourne une autre jusqu'à trouver une carte qui n'est pas un valet.
-3. La dernière carte du paquet de pioche est souvent montrée à tous (glissée retournée sous le paquet) : on sait ainsi qu'elle reviendra au donneur.
-
-### Déroulement
-1. Le joueur à droite du donneur commence. Chacun à son tour pose **une carte face visible** sur le tas.
-2. Si elle a le **même rang** que la carte du dessus, le joueur **ramasse tout le tas** et le pose devant lui (ou devant son équipe).
-3. Un **valet** ramasse toujours le tas, quelle que soit la carte du dessus.
-4. Sinon, la carte reste sur le tas.
-5. **Pişti :** si le tas ne contenait **qu'une seule carte** et qu'on la prend avec une carte de même rang, c'est un pişti (10 points). Prendre un valet seul avec un autre valet est un **double pişti** (20 points). Prendre une carte seule avec un valet de rang différent est une prise ordinaire.
-6. Quand tout le monde a joué ses 4 cartes, le donneur en distribue 4 nouvelles à chacun, sans rien ajouter au centre, jusqu'à épuisement du paquet (3 distributions en tout à quatre joueurs, 6 à deux).
-7. À la fin, les cartes restant sur le tas reviennent au dernier camp qui a fait une prise. Le dernier coup du donneur ne compte pas comme pişti.
-
-### Décompte des points
-- chaque **as** : 1 point ; chaque **valet** : 1 point ;
-- **2 de trèfle** : 2 points ;
-- **10 de carreau** : 3 points ;
-- **majorité des cartes** (27 ou plus) : 3 points (rien en cas d'égalité 26-26) ;
-- chaque **pişti** : 10 points (double pişti : 20).
-
-Total hors pişti : 16 points par donne. On joue en **151 points** ; si les deux camps les dépassent dans la même donne, le plus haut l'emporte.
-
-### Conseils de stratégie
-- **Gardez vos valets** pour prendre un gros tas, ou pour faire un double pişti sur un valet seul. Un valet jeté sur un tas de deux cartes est un gâchis.
-- **Comptez les cartes de chaque rang.** S'il reste trois 7 dehors et que vous jouez un 7 sur un tas vide, vous offrez un pişti. Jouez plutôt un rang dont les trois autres exemplaires sont déjà tombés : il est « mort », personne ne pourra le prendre.
-- **Quand le tas est vide**, posez une carte dont vous savez qu'on ne peut pas la prendre, ou dont vous détenez vous-même le double.
-- **Pensez à la dernière carte** du paquet, montrée au début : le donneur sait qu'il la recevra.
-- **Le dernier preneur ramasse le reste** : en fin de donne, garder un valet pour la toute fin est souvent payant.
-
-### Variantes
-**À deux ou à quatre en individuel.** Mêmes règles ; à trois aussi, chacun pour soi.
-
-**Pişti avec bluff (kapalı pişti).** Sur un tas d'une seule carte, on peut poser sa carte face cachée en annonçant un pişti. L'adversaire accepte ou conteste : si la carte correspond, le pişti vaut 20 ; si c'était du bluff, le camp qui a contesté marque 20.
-
-**Valeurs locales.** Certaines tables comptent aussi chaque 10 ou chaque figure pour 1 point, ou jouent en 101.
-
-### Aide-mémoire
-
-- **Cartes :** 52 cartes ; seul le rang compte.
-- **Donne :** 4 cartes cachées au centre (dessus retourné, jamais un valet), 4 à chaque joueur ; puis 4 de plus à chaque tour de table.
-- **Prise :** même rang que le dessus du tas, ou n'importe quel valet : on ramasse tout.
-- **Pişti :** prendre une carte seule par le même rang : 10 ; valet sur valet seul : 20.
-- **Points :** as 1, valet 1, 2 de trèfle 2, 10 de carreau 3, majorité des cartes 3.
-- **Fin de donne :** le reste du tas va au dernier preneur.
-- **Fin de partie :** 151 points.
-
-### Verdict
-Le jeu de pêche idéal pour initier des enfants ou animer une table de famille : on apprend en deux minutes, les donnes filent, et chaque pişti déclenche une petite fête. Les joueurs qui aiment calculer lui préféreront la [Scopa](#jeu-scopa) ou le [Cassino](#jeu-cassino), plus riches ; mais pour jouer en parlant d'autre chose, le Pişti est imbattable.
-
-## Tonk {#jeu-tonk}
-*Autres noms : Tunk*
-
-- **Famille :** rami (rami à « knock »)
-- **Joueurs :** 2 à 4 (idéal : 3 ou 4)
-- **Matériel :** 1 jeu de 52 cartes ; jetons pour les mises
-- **Durée d'une partie :** 2 à 4 min par donne ; on joue autant qu'on veut
-- **Âge conseillé :** dès 10 ans
-- **Diffusion :** Répandu aux États-Unis (surtout dans le Sud et dans la communauté afro-américaine) ; niche ailleurs
-- **Hasard / réflexion :** 60 % hasard, 40 % réflexion
-- **Fun :** 4/5 — donnes très rapides, coups de bluff au moment de « tomber »
-- **Challenge :** 2/5 — décisions simples, mais le moment de tomber se travaille
-
-### En bref
-Un rami express à 5 cartes, joué pour des jetons. On pose des combinaisons, on se débarrasse de ses cartes, et à tout moment on peut « tomber » (*drop*) en pariant que sa main est la plus faible de la table. Une donne dure quelques minutes ; le jeu tient du rami par ses combinaisons et du poker par son audace.
-
-### Histoire et origine
-Le Tonk est un jeu américain de la première moitié du XXe siècle. Dans les années 1930, il était très populaire parmi les musiciens de blues et de jazz du sud de la Louisiane ; l'orchestre de Duke Ellington y jouait entre deux sets, dans l'arrière-salle des clubs. Il est passé ensuite dans les casernes et les pauses de chantier. Ses règles combinent le rami à « knock » (où l'on peut arrêter la donne) et le [Conquian](#jeu-conquian) mexicain. C'est un jeu de jetons et de mises, rarement joué avec un bloc de scores.
-
-### But du jeu
-Gagner la mise de chaque donne : soit en se débarrassant de toutes ses cartes, soit en ayant le plus faible total de points quand on « tombe » ou quand la pioche s'épuise.
-
-### Mise en place
-
-| Carte | Points |
-| --- | --- |
-| As | 1 |
-| 2 à 10 | valeur faciale |
-| Valet, dame, roi | 10 |
-
-Avant chaque donne, on fixe la **mise de base** (par exemple 1 jeton). Chaque joueur reçoit **5 cartes**. La carte suivante est retournée pour commencer la défausse ; le reste forme la pioche.
-
-**Main de 49 ou 50 :** si un joueur reçoit une main totalisant exactement 49 ou 50 points, il l'annonce immédiatement et gagne : chaque autre joueur lui paie **le double** de la mise. Si deux joueurs ont une telle main, la donne est nulle.
-
-### Déroulement
-À son tour, un joueur peut d'abord **tomber** (voir plus bas). Sinon :
-
-1. Il prend la carte du dessus de la pioche ou de la défausse.
-2. Il peut **poser** des combinaisons : un **brelan ou carré** (3 ou 4 cartes de même rang), ou une **suite** de 3 cartes ou plus dans la même couleur (l'as est bas : A-2-3, pas D-R-A).
-3. Il peut **ajouter** (*hit*) des cartes aux combinaisons déjà posées, les siennes comme celles des autres.
-4. Il termine en **défaussant** une carte.
-
-**Fins possibles :**
-
-- **Tonk :** un joueur pose toutes ses cartes en combinaisons et ajouts, sans avoir besoin de défausser. Chaque autre joueur lui paie **le double** de la mise.
-- **Sortie simple :** il se débarrasse de sa dernière carte en défaussant. Chacun lui paie la mise.
-- **Tomber (drop) :** au début de son tour, avant de piocher, un joueur étale sa main en annonçant qu'il a le plus petit total. Tout le monde montre sa main. S'il a bien le plus faible total, chacun lui paie la mise. S'il est **pris** (un autre a un total égal ou plus faible), il paie **le double** à chaque joueur égal ou meilleur, et le joueur le plus faible encaisse en plus la mise des autres.
-- **Pioche épuisée :** le plus petit total gagne la mise de chacun.
-
-### Conseils de stratégie
-- **Débarrassez-vous vite des figures** : une main faible en points vous protège quand un adversaire tombe, et vous donne l'option de tomber vous-même.
-- **Posez avec discernement.** Poser une combinaison réduit votre total, mais donne aux autres des cibles pour leurs ajouts.
-- **Tombez tôt avec une petite main.** Un total de 5 ou 6 points au deuxième tour gagne presque toujours ; au-delà de 10, le risque grandit vite.
-- **Lisez la défausse** : un joueur qui ramasse des petites cartes prépare souvent un drop.
-- **Gardez les cartes qui vous permettent un tonk** quand vous êtes à deux cartes d'une sortie complète : le double vaut le risque.
-
-### Variantes
-**Attente après un ajout.** Dans beaucoup de tables, un joueur dont une combinaison vient de recevoir un ajout d'un adversaire ne peut pas tomber à son tour suivant (ou pendant deux tours).
-
-**Pas de carte retournée.** On commence sans défausse visible.
-
-**Mains de départ basses.** Certaines tables paient aussi une main de départ de 13 points ou moins (double) ou de 9 ou moins (triple).
-
-**Sept cartes, jokers, jeu de 40 cartes.** Autant de formes locales ; l'esprit reste le même.
-
-**« The Big One ».** Les dernières donnes de la soirée se jouent à mise doublée.
-
-### Aide-mémoire
-
-- **Cartes :** 52 cartes ; as 1, 2 à 10 valeur faciale, figures 10.
-- **Donne :** 5 cartes chacun, une carte retournée en défausse.
-- **Main de 49 ou 50 :** victoire immédiate, mise doublée.
-- **Tour :** tomber (au lieu de jouer) ou piocher, poser, ajouter, défausser.
-- **Combinaisons :** 3 ou 4 de même rang ; suite de 3 et plus dans une couleur, as bas.
-- **Paiements :** tonk (sans défausse) x 2 ; sortie simple x 1 ; drop réussi x 1 ; drop pris : x 2 à chaque joueur égal ou meilleur.
-- **Pioche épuisée :** le plus petit total gagne.
-
-### Verdict
-Le Tonk est un jeu de comptoir, nerveux et convivial, parfait pour une table de trois ou quatre avec des jetons et sans prise de tête. Il ne remplace ni le [Gin Rummy](#jeu-gin-rummy) ni le [Rami](#jeu-rami) pour qui cherche de la profondeur, mais sa vitesse et ses coups de poker en font un excellent jeu d'apéritif.
-
-## Gops {#jeu-gops}
-*Autres noms : Goofspiel, Game of Pure Strategy, Psychological Jujitsu*
-
-- **Famille :** jeu d'enchères simultanées (jeu de pure stratégie)
-- **Joueurs :** 2 (variantes de 3 à 7)
-- **Matériel :** 1 jeu de 52 cartes, dont on n'utilise que trois couleurs ; papier pour additionner
-- **Durée d'une partie :** 10 à 15 min
-- **Âge conseillé :** dès 10 ans
-- **Diffusion :** Niche (connu des mathématiciens, des étudiants et des amateurs de théorie des jeux)
-- **Hasard / réflexion :** 15 % hasard (l'ordre des lots), 85 % réflexion et psychologie
-- **Fun :** 3/5 — tendu et mystérieux, mais austère et sans ambiance
-- **Challenge :** 5/5 — aucune solution simple : chaque enchère est un pari sur l'esprit adverse
-
-### En bref
-Les deux joueurs ont exactement les mêmes cartes, de l'as au roi. On retourne un lot (une carte de carreau) ; chacun mise en secret une de ses cartes ; la plus forte emporte le lot. Pas de main cachée inégale, pas de pioche, aucune chance de mauvais tirage : on ne gagne qu'en devinant ce que l'autre va faire. Un duel de poker sans argent et sans cartes cachées.
-
-### Histoire et origine
-Le Gops est attribué au mathématicien américain Merrill Flood, qui l'aurait inventé à l'université de Princeton dans les années 1930. Sa première description imprimée connue figure dans le manuel de théorie des jeux de Luce et Raiffa (1957). Le jeu est devenu un exemple classique de « jeu simultané à plusieurs étapes » en théorie des jeux et en intelligence artificielle ; des chercheurs ont calculé des stratégies optimales pour des versions simplifiées, mais le jeu complet reste trop vaste pour être résolu à la main. Alex Randolph s'en est inspiré pour son jeu *Hol's der Geier* (*Raj*), où les lots peuvent aussi être négatifs.
-
-### But du jeu
-Remporter le plus de points de lots : la somme des valeurs des carreaux gagnés.
-
-### Mise en place
-Valeur des cartes : as = 1, 2 à 10 = valeur faciale, valet = 11, dame = 12, roi = 13.
-
-1. Un joueur prend les 13 piques, l'autre les 13 trèfles : ce sont les mains de mise, visibles de leur seul propriétaire.
-2. Les 13 carreaux, mélangés, forment la pile de lots, face cachée. Les cœurs ne servent pas.
-
-### Déroulement
-1. Retournez le premier lot.
-2. Chaque joueur choisit une carte de sa main et la pose face cachée.
-3. On révèle ensemble. La carte la plus forte remporte le lot. Les deux cartes de mise sont défaussées (et restent visibles : on sait ce que l'autre a déjà joué).
-4. **Égalité :** les deux mises sont défaussées, le lot reste en jeu ; on retourne le lot suivant et l'enchère suivante porte sur les deux lots ensemble.
-5. On continue jusqu'à épuisement des 13 cartes. Si la dernière enchère est une égalité, les lots restants ne sont gagnés par personne.
-
-### Décompte des points
-Additionnez les lots gagnés. Le total des lots est 91 ; il faut donc plus de 45,5 points pour être sûr de gagner. Jouez en plusieurs manches et cumulez.
-
-### Conseils de stratégie
-- **Gagner de peu.** L'idéal est de battre la mise adverse d'un seul point : un roi qui emporte un lot contre un 2 est un gaspillage de 11 points de mise.
-- **Sacrifier franchement.** Quand vous pensez perdre un lot, misez votre plus petite carte : perdre avec un 8 est pire que perdre avec un as.
-- **La mise « égale au lot »** (miser le 7 sur le lot de 7) est une base raisonnable, mais un adversaire qui la repère vous battra d'un point à chaque coup. Variez.
-- **Tenez la comptabilité** des cartes jouées des deux côtés : en fin de partie, tout devient calculable, et l'on peut parfois forcer la victoire.
-- **Les égalités sont des armes.** Si vous savez que l'adversaire va miser son roi, jouez votre roi pour l'annuler : le lot passe au tour suivant, et c'est vous qui avez gardé le reste de votre main.
-- **Confirmé :** pensez en « mains restantes ». Votre force n'est pas la carte que vous jouez, mais l'écart entre ce qui vous reste et ce qui reste à l'adversaire.
-
-### Variantes
-**Égalité éliminatoire.** En cas d'égalité, le lot est défaussé au lieu d'être reporté.
-
-**As fort.** L'as vaut 14 comme lot (et comme mise).
-
-**À trois ou plus.** Chaque joueur reçoit une couleur complète (un paquet pour 3 joueurs, deux paquets de 4 à 7). Les cartes égales s'annulent, et la plus forte carte non égalée remporte le lot ; si toutes sont égales, le lot est défaussé ou mis en jeu avec le suivant.
-
-**Lots négatifs.** Inspiré de *Hol's der Geier* : on ajoute des lots de valeur négative (par exemple les cœurs de l'as au 5 comptés de -1 à -5) ; pour un lot négatif, c'est la plus **petite** mise qui doit le prendre.
-
-**Lots visibles.** On étale tous les lots face visible et le gagnant choisit le lot qu'il prend : le jeu devient presque entièrement calculatoire.
-
-### Aide-mémoire
-
-- **Cartes :** 13 piques, 13 trèfles, 13 carreaux (lots) ; as 1 … roi 13.
-- **Tour :** retourner un lot ; chacun mise une carte face cachée ; révélation simultanée.
-- **Gain :** la plus forte mise prend le lot ; les mises sont défaussées visibles.
-- **Égalité :** le lot reste et s'ajoute au suivant.
-- **Points :** somme des lots gagnés (91 au total).
-- **Fin de partie :** après 13 enchères ; égalité finale : lots perdus.
-
-### Verdict
-Le Gops est un bijou pour les esprits analytiques : un jeu où les deux camps ont exactement les mêmes moyens et où tout repose sur la lecture de l'adversaire. Il plaira aux amateurs d'échecs, de poker et de casse-tête, et se joue en quelques minutes avec n'importe quel paquet. Ceux qui cherchent de l'ambiance ou de la variété le trouveront aride : il n'y a qu'une seule idée, mais elle est inépuisable.
-
-## Hombre {#jeu-hombre}
-*Autres noms : L'Hombre, Ombre, Jeu de l'Hombre ; Tresillo (Espagne), Rocambor (Pérou, Bolivie), Lomber (Danemark)*
-
-- **Famille :** jeu de plis à enchères (jeu historique)
-- **Joueurs :** 3 (à 4, le donneur ne joue pas la donne)
-- **Matériel :** 40 cartes (jeu de 52 sans les 8, 9 et 10) ; jetons
-- **Durée d'une partie :** 5 min par donne ; on joue un nombre de tours convenu (1 h environ)
-- **Âge conseillé :** dès 14 ans
-- **Diffusion :** Niche (encore organisé en club au Danemark ; formes cousines en Espagne et en Amérique du Sud)
-- **Hasard / réflexion :** 35 % hasard, 65 % réflexion
-- **Fun :** 3/5 — beaucoup de saveur et de mots étranges, mais il faut entrer dans sa logique
-- **Challenge :** 4/5 — enchères, échange et jeu à un contre deux demandent un vrai jugement
-
-### En bref
-Trois joueurs, quarante cartes, et un ordre des atouts qui défie la logique ordinaire : l'as de pique est toujours le plus fort atout, l'as de trèfle toujours le troisième, et entre eux se glisse la carte la plus faible de la couleur d'atout. Celui qui remporte les enchères, « l'Hombre » (l'homme), joue seul contre les deux autres et doit faire plus de plis que chacun d'eux. C'est le grand-père de presque tous les jeux à enchères européens.
-
-### Histoire et origine
-L'Hombre naît en Espagne, au début du XVIIe siècle au plus tard, comme version à trois d'un jeu à quatre plus ancien. Il franchit les Pyrénées sous Louis XIV et devient pendant plus d'un siècle **le** jeu des salons européens : on le joue à Versailles, à Londres (Alexander Pope en décrit une partie entière dans *La Boucle de cheveux enlevée*, 1714), à Vienne et à Copenhague. Son vocabulaire espagnol (spadille, manille, baste, codille, matadors) est passé dans toutes les langues. Il est l'un des premiers jeux à enchères : l'idée qu'un joueur « prenne » le contrat contre les autres a engendré le Quadrille, le [Tarot](#jeu-tarot), le [Skat](#jeu-skat), le [Boston](#jeu-boston) et le [Preferans](#jeu-preferans). Détrôné à la fin du XVIIIe siècle par le Quadrille puis le [Whist](#jeu-whist), il survit au Danemark (où une association de joueurs l'organise encore), en Espagne sous le nom de Tresillo et en Amérique du Sud sous celui de Rocambor. Les règles ci-dessous suivent la forme danoise décrite par pagat, la mieux documentée aujourd'hui.
-
-### But du jeu
-Pour l'Hombre (le déclarant) : faire plus de plis que chacun des deux défenseurs pris séparément. Pour les défenseurs : l'en empêcher, et si possible faire plus de plis que lui.
-
-### Mise en place
-On retire les 8, 9 et 10 d'un jeu de 52 : il reste 40 cartes.
-
-**Ordre des cartes hors atout :**
-
-- couleurs noires (pique, trèfle) : roi, dame, valet, 7, 6, 5, 4, 3, 2 (les as noirs sont toujours des atouts, voir plus bas) ;
-- couleurs rouges (cœur, carreau) : roi, dame, valet, **as, 2, 3, 4, 5, 6, 7** (dans les rouges, les petites cartes sont plus fortes que les grandes).
-
-**Ordre des atouts :**
-
-- atout noir (11 cartes) : **spadille** (as de pique), **manille** (le 2 d'atout), **baste** (as de trèfle), roi, dame, valet, 7, 6, 5, 4, 3 ;
-- atout rouge (12 cartes) : **spadille** (as de pique), **manille** (le 7 d'atout), **baste** (as de trèfle), **ponte** (l'as d'atout), roi, dame, valet, 2, 3, 4, 5, 6.
-
-La manille est donc la carte qui serait la plus faible de la couleur d'atout. Spadille, manille et baste sont les trois **matadors**.
-
-**Distribution :** le donneur distribue **9 cartes** à chaque joueur, trois par trois, dans le sens inverse des aiguilles d'une montre, en commençant par le joueur à sa droite (le premier en main). Les **13 cartes** restantes forment le talon, face cachée.
-
-### Déroulement
-**Les enchères.** Le premier en main parle d'abord, puis le second, puis le donneur. Chacun peut passer (et ne reparle plus) ou annoncer un contrat plus élevé ; un joueur placé avant dans l'ordre peut « tenir » l'enchère d'un joueur placé après lui (dire « moi aussi »). Quand deux joueurs ont passé, le troisième devient l'Hombre. Si tous passent, on redonne. Contrats, du plus faible au plus fort :
-
-1. **Jeu simple** : l'Hombre nomme l'atout et échange avec le talon (valeur 1).
-2. **Jeu de pique** : pareil, pique atout (1).
-3. **Tourné** : la première carte du talon est retournée et fixe l'atout (1).
-4. **Nolo simple** : sans atout, l'Hombre ne doit faire aucun pli ; il est seul à échanger (2).
-5. **Grand tourné** : comme le tourné, mais l'Hombre doit tenir spadille et baste (2).
-6. **Solo** (« sans prendre ») : l'Hombre nomme l'atout et joue sans échanger ; seuls les défenseurs échangent (2).
-7. **Nolo pur** (sans échange) ou **solo de pique** (3).
-8. **Nolo ouvert** : nolo pur, main de l'Hombre étalée après la première carte (5).
-
-**L'échange.** L'Hombre écarte face cachée autant de cartes qu'il veut et en reprend autant sur le talon. Puis, dans les contrats à atout, chaque défenseur en fait autant avec ce qui reste. Les cartes non prises « dorment » face cachée.
-
-**Le jeu de la carte.** Le premier en main entame le premier pli, quel que soit l'Hombre. On joue dans le sens inverse des aiguilles d'une montre. Il faut **fournir** la couleur demandée ; sans elle, on joue ce qu'on veut (couper n'est pas obligatoire). La plus forte carte de la couleur entamée gagne, sauf si un atout est joué. Le gagnant entame le pli suivant.
-
-**Le privilège des matadors.** Quand on entame atout, un joueur n'est pas obligé de fournir un matador s'il n'a pas d'autre atout : il peut jouer autre chose. Exception : si l'entame est un matador plus fort que le sien, il doit le fournir. Spadille, la plus haute, ne peut jamais être forcée.
-
-### Décompte des points
-Sur 9 plis :
-
-- **Gagné** : l'Hombre fait plus de plis que chacun des défenseurs (5 plis, ou 4 contre 3 et 2). Chaque défenseur lui paie la valeur du contrat.
-- **Remise** (bête) : l'Hombre égale le défenseur le plus fort (4-4-1 ou 3-3-3). Il paie la valeur du contrat à chacun.
-- **Codille** : un défenseur fait plus de plis que l'Hombre. L'Hombre paie la remise plus un supplément (1 pour les petits contrats, 2 pour le nolo pur et le solo de pique, 3 pour le nolo ouvert).
-- **Vole** (tout) : l'Hombre qui annonce avant le sixième pli qu'il fera les 9 plis et y parvient reçoit 1 jeton de plus de chacun ; s'il échoue, il paie 1 jeton à chacun, mais garde le gain du contrat.
-
-Au nolo, l'Hombre gagne sans aucun pli ; un pli fait une remise, deux plis une codille.
-
-Dans les règles anciennes, une partie des paiements passait par un pot (la « poule ») alimenté à chaque donne ; on peut le reprendre si l'on aime le parfum d'époque.
-
-### Conseils de stratégie
-- **Ne prenez pas sans deux matadors**, ou au moins un matador et une longue couleur d'atout. Spadille et baste valent chacune un pli presque sûr.
-- **Écartez franchement.** L'échange avec 13 cartes de talon est généreux : jetez vos couleurs courtes pour pouvoir couper.
-- **Retenez l'ordre inversé des rouges** : le 2 de cœur bat le 7 de cœur hors atout. C'est la première erreur des débutants.
-- **En défense, coopérez sans parler** : celui qui a le plus de plis possibles joue fort, l'autre l'alimente. Un défenseur ne doit pas « voler » la codille à son partenaire au risque de laisser gagner l'Hombre.
-- **Utilisez le privilège des matadors** pour garder votre spadille hors de portée d'une entame atout adverse.
-
-### Variantes
-**Quadrille.** L'Hombre à quatre, en vogue en France au XVIIIe siècle : l'Hombre appelle un roi pour désigner son partenaire secret, idée reprise plus tard par le [Tarot](#jeu-tarot) à cinq.
-
-**Tresillo et Rocambor.** Formes espagnole et sud-américaine, avec des contrats et des paiements différents ; le Rocambor se joue aussi à cinq.
-
-**Grand.** Contrat sans atout ajouté par certaines tables danoises, de valeur négociée à l'avance.
-
-### Aide-mémoire
-
-- **Cartes :** 40 (sans 8, 9, 10) ; noires hors atout R D V 7…2 ; rouges hors atout R D V A 2…7.
-- **Atouts :** spadille (A pique), manille (2 noir ou 7 rouge d'atout), baste (A trèfle), ponte (A rouge d'atout), puis R D V… ; 11 atouts en noir, 12 en rouge.
-- **Donne :** 9 cartes chacun par 3, talon de 13.
-- **Contrats :** jeu simple 1, pique 1, tourné 1, nolo simple 2, grand tourné 2, solo 2, nolo pur et solo de pique 3, nolo ouvert 5.
-- **Obligations :** fournir ; couper libre ; matadors non forcés par un atout plus faible.
-- **Résultat :** plus de plis que chaque défenseur = gagné ; égalité = remise (paie la valeur) ; défenseur devant = codille (remise + 1, 2 ou 3).
-- **Vole :** annoncée avant le 6e pli, +1 de chacun ; ratée, -1 à chacun.
-
-### Verdict
-L'Hombre est un voyage dans le temps : jouer à la table de Madame de Sévigné, avec des mots qui sonnent comme un roman de cape et d'épée. Pour trois joueurs curieux et patients, c'est un jeu fin et équilibré, dont on comprend vite pourquoi il a régné deux siècles. Ceux qui n'aiment pas apprendre un ordre de cartes contre-intuitif lui préféreront son petit-fils le [Preferans](#jeu-preferans), plus régulier.
-
-## Reversis {#jeu-reversis}
-*Autres noms : Reversi, la Quinola ; Reversin (France, vers 1600)*
-
-- **Famille :** jeu de plis à éviter (jeu historique)
-- **Joueurs :** 4, chacun pour soi
-- **Matériel :** 48 cartes (jeu de 52 sans les 10) ; jetons (environ 100 par joueur)
-- **Durée d'une partie :** 5 à 10 min par donne ; un tour complet de donnes ou plus
-- **Âge conseillé :** dès 12 ans
-- **Diffusion :** Niche (jeu historique, à redécouvrir)
-- **Hasard / réflexion :** 45 % hasard, 55 % réflexion
-- **Fun :** 3/5 — beaucoup de paiements et de petits drames autour du valet de cœur
-- **Challenge :** 3/5 — la défausse et le timing du Quinola demandent de l'adresse
-
-### En bref
-L'ancêtre direct des jeux où l'on évite les plis. On cherche à ramasser le moins de points possible, et surtout à se débarrasser au bon moment de ses as et du redoutable **Quinola**, le valet de cœur, en le jetant sur une autre couleur. Mais un joueur audacieux peut tout renverser en ramassant les onze plis : c'est le **reversis**, qui donne son nom au jeu.
-
-### Histoire et origine
-On a longtemps cru le Reversis espagnol, à cause de son vocabulaire. Il est en fait attesté en France dès 1601 sous le nom de *Reversin*, joué alors avec un paquet complet ; son nom viendrait de l'italien *rovescio*, « à l'envers ». Le paquet de 48 cartes, le jeu vers la droite et les termes espagnols sont des ajouts ultérieurs. Très en vogue aux XVIIe et XVIIIe siècles, il disparaît au XIXe, mais son idée survit : la [Dame de pique](#jeu-dame-de-pique) (Hearts) et le [Barbu](#jeu-barbu) en descendent plus ou moins directement, et le contrat « pas de valet de cœur » ou « pas de dame » de ces jeux rappelle le Quinola. Les règles ci-dessous suivent la reconstitution de David Parlett, qui précise que les sources anciennes divergent sur le détail.
-
-### But du jeu
-Faire le moins de points de cartes dans ses plis, et gagner des paiements en jetant ses as et le Quinola sur les plis des autres.
-
-### Mise en place
-On retire les quatre 10 : il reste 48 cartes. Ordre dans chaque couleur : as, roi, dame, valet, 9, 8… 2. Il n'y a **pas d'atout**.
-
-| Carte | Points |
-| --- | --- |
-| As | 4 |
-| Roi | 3 |
-| Dame | 2 |
-| Valet | 1 |
-
-Total : 40 points.
-
-**Le pot.** Au début de la séance, chaque joueur met 5 jetons au pot, le donneur en ajoute 5 à chaque donne.
-
-**Distribution.** On joue vers la droite (sens inverse des aiguilles d'une montre). Chaque joueur reçoit 11 cartes ; le donneur en reçoit une douzième, et une carte est posée face cachée devant chacun des trois autres. Le donneur écarte une carte. Chaque autre joueur peut soit écarter une carte et prendre celle posée devant lui (sans la regarder avant), soit garder sa main et regarder la carte. Les 4 cartes restantes (écarts et cartes non prises) forment le talon.
-
-### Déroulement
-Le joueur à droite du donneur entame. Il faut **fournir** la couleur demandée ; sans elle, on joue n'importe quoi. La plus forte carte de la couleur entamée gagne le pli.
-
-**Paiements en cours de jeu (en jetons) :**
-
-- **Jeter** (défausser sur une autre couleur) un as : le gagnant du pli paie 1 jeton au joueur qui l'a jeté (2 pour l'as de carreau).
-- **Jeter le Quinola** : le gagnant du pli paie 5 jetons, et celui qui l'a jeté **ramasse le pot**.
-- **Être forcé** de jouer un as ou le Quinola dans sa couleur, ou l'entamer : c'est le joueur qui paie au gagnant du pli (1 pour un as, 2 pour l'as de carreau, 10 pour le Quinola plus 5 de chacun des autres), et un Quinola forcé ou entamé oblige à **regarnir le pot** d'une somme égale à son contenu.
-- Ces paiements sont **doublés entre joueurs assis face à face**, et doublés pour tous dans les deux derniers plis.
-
-**Le reversis.** Un joueur qui gagne les **neuf premiers plis** est engagé : il doit faire aussi les deux derniers. S'il réussit, ses voisins lui paient 16 jetons et son vis-à-vis 32. Si un adversaire lui prend le dixième ou le onzième pli, le reversis est « rompu » et il paie 64 jetons à ce joueur.
-
-### Décompte des points
-À la fin de la donne, on compte les points de cartes de chaque joueur. Celui qui en a le **moins** gagne la « partie » ; celui qui en a le **plus** la perd et lui paie 4 jetons plus la valeur des cartes du talon (le double s'ils sont face à face). En cas d'égalité, avantage à celui qui a fait le moins de plis, puis au donneur.
-
-**Version simplifiée pour noter sur papier** (adaptation proposée, non historique) : chaque joueur marque les points de cartes de ses plis, plus 5 pour le Quinola forcé ou entamé, moins 5 pour le Quinola jeté ; un reversis réussi marque -20 pour son auteur. La partie se joue en 100 points : le plus bas total l'emporte.
-
-### Conseils de stratégie
-- **Débarrassez-vous des couleurs courtes** dès l'échange : une chicane (couleur absente) vous permet de jeter vos as et le Quinola.
-- **Le Quinola est une bombe :** si vous l'avez, gardez quelques cœurs bas pour ne pas être forcé, et attendez une entame dans une couleur que vous n'avez plus.
-- **Forcez le Quinola adverse** en entamant cœur quand vous soupçonnez son détenteur de ne plus avoir de petits cœurs.
-- **Gardez une petite carte dans chaque couleur** pour sortir de la main.
-- **Le reversis se prépare à la donne** : une main pleine d'as et de rois peut le tenter, mais un seul pli perdu à la fin coûte une fortune.
-
-### Variantes
-**Espagnolette.** Ajout tardif : un joueur qui détient les quatre as, ou le Quinola et trois as, peut viser à ne faire aucun pli ; il bénéficie d'avantages spéciaux en cas de reversis adverse.
-
-**Reversis à 52 cartes.** Retour à la forme d'origine, avec les 10.
-
-**Comptes du talon.** Certaines sources comptent l'as de carreau 5 et le Quinola 3 dans le talon.
-
-### Aide-mémoire
-
-- **Cartes :** 48 (sans les 10) ; A R D V 9…2 ; pas d'atout ; points A 4, R 3, D 2, V 1 (40).
-- **Donne :** 11 cartes chacun ; le donneur écarte 1, les autres peuvent échanger 1 carte ; talon de 4 ; jeu vers la droite.
-- **Obligation :** fournir ; sinon défausse libre.
-- **As jeté :** le gagnant du pli paie 1 (2 pour l'as de carreau) ; as forcé ou entamé : son détenteur paie.
-- **Quinola (V de cœur) jeté :** 5 jetons + le pot ; forcé ou entamé : 10 au gagnant + 5 de chacun, et regarnir le pot.
-- **Partie :** le moins de points gagne ; le plus de points paie 4 + points du talon.
-- **Reversis :** 11 plis ; neuf premiers plis = engagé ; réussi 16/16/32 ; rompu 64 au rompeur.
-- **Doublements :** face à face x 2 ; deux derniers plis x 2.
-
-### Verdict
-Le Reversis intéressera surtout les amateurs d'histoire des jeux et les joueurs de [Barbu](#jeu-barbu) ou de [Dame de pique](#jeu-dame-de-pique) qui veulent découvrir leurs racines. À la table, il est agréable une fois les paiements compris, mais la comptabilité en jetons est lourde ; la version simplifiée sur papier rend le jeu plus fluide. Pour une soirée « jeux d'autrefois », il fait merveille.
-
-## Lansquenet {#jeu-lansquenet}
-*Autres noms : Landsknecht (allemand) ; formes voisines : Zecchinetta (Italie), Skin (États-Unis)*
-
-- **Famille :** jeu de banque (jeu de hasard historique)
-- **Joueurs :** 3 à 10
-- **Matériel :** 1 jeu de 52 cartes (autrefois plusieurs mêlés) ; jetons
-- **Durée d'une partie :** à volonté ; un coup dure moins d'une minute
-- **Âge conseillé :** dès 10 ans (avec des jetons sans valeur)
-- **Diffusion :** Niche (historique)
-- **Hasard / réflexion :** 95 % hasard, 5 % décision (mises, garder ou passer la banque)
-- **Fun :** 3/5 — suspense pur à chaque carte retournée, pour quelques tours
-- **Challenge :** 0/5 — aucune décision ne change les chances
-
-### En bref
-Le banquier retourne deux cartes : une pour lui, une pour les joueurs. Puis il retourne les cartes du paquet une à une : si le rang de la carte des joueurs sort le premier, la banque paie ; si c'est le rang de sa propre carte, elle encaisse. Rien à calculer, tout à espérer : c'est la pure mécanique du jeu de hasard, qui fit la fortune et la ruine de bien des courtisans.
-
-### Histoire et origine
-Le nom vient des *Landsknechte*, les mercenaires allemands des XVe et XVIe siècles, qui auraient apporté le jeu en France. Rabelais le cite dans la liste des jeux de Gargantua (édition de 1542). Au XVIIe siècle, il fait fureur à la cour : une gravure de 1694 montre le Grand Dauphin y jouant à Versailles, et les sommes perdues au lansquenet alimentent la chronique du temps. Sa simplicité en faisait aussi le terrain favori des tricheurs, qui préparaient un paquet de cartes à l'avance. Il a cédé la place au [Pharaon](#jeu-pharaon) puis au [Baccara](#jeu-baccara), qui reposent sur le même principe de cartes appariées, et survit en Italie sous le nom de Zecchinetta. Les règles ci-dessous suivent la forme française du XIXe siècle décrite par pagat, jouée ici avec des jetons.
-
-### But du jeu
-Pour le banquier : voir sortir le rang de sa carte avant celui de la carte des joueurs. Pour les joueurs (les pontes) : l'inverse.
-
-### Mise en place
-Les couleurs ne comptent pas, seuls les rangs. On joue avec un paquet de 52 cartes, mélangé avant chaque coup (autrefois six paquets mêlés). Chaque joueur reçoit un même capital de jetons, par exemple 100.
-
-Tirez au sort le premier banquier. Il mélange, le joueur à sa gauche coupe.
-
-### Déroulement
-1. **La mise de la banque.** Le banquier pose sa mise au centre, par exemple 10 jetons.
-2. **Les mises des pontes.** En commençant par le joueur à droite du banquier, chacun peut **tenir** toute la mise (les autres ne misent plus), en tenir une partie (le total des pontes ne dépassant jamais la mise de la banque), ou passer.
-3. **Les deux cartes.** Le banquier retourne une carte pour lui, à sa gauche, et une carte pour les joueurs, à sa droite. Si elles sont de même rang, la banque gagne aussitôt toutes les mises.
-4. **Le tirage.** Sinon, il retourne les cartes une à une. Une carte d'un autre rang ne fait rien. Dès qu'une carte reproduit le rang de **la carte de la banque**, le banquier ramasse toutes les mises. Dès qu'elle reproduit le rang de **la carte des joueurs**, il paie à chacun l'équivalent de sa mise.
-5. **Après le coup.** Si la banque a perdu, elle passe au joueur suivant (à droite). Si elle a gagné, le banquier peut **laisser** ses gains dans la mise (qui double donc) et faire un nouveau coup, ou **passer** la banque. Un autre joueur peut alors l'**acheter** en déposant la même mise ; sinon elle passe au suivant.
-
-### Décompte des points
-On joue avec des jetons. La partie s'arrête à l'heure convenue, ou quand un joueur est ruiné ; le plus riche gagne.
-
-### Conseils de stratégie
-- **Il n'y a pas de stratégie de jeu** : les deux cartes ont exactement les mêmes chances de sortir la première. Le seul avantage de la banque vient du cas où les deux premières cartes sont égales.
-- **Savoir s'arrêter** est la seule compétence : un banquier qui laisse doubler sa mise trois ou quatre fois de suite joue tout son gain sur un tirage. Fixez-vous une limite avant de commencer.
-- **Ne tenez pas toute la mise** si votre capital est faible : vous pourriez être éliminé d'un coup.
-
-### Variantes
-**Lansquenet à plusieurs cartes.** Dans une forme ancienne, le banquier retourne une carte pour chaque ponte (de rangs tous différents) et une pour lui ; un ponte dont la carte est appariée perd sa mise ; si la carte de la banque sort d'abord, le banquier paie tous les pontes encore en jeu.
-
-**Jumelles.** Selon certaines descriptions, si les deux rangs sortent en même temps, la banque ne prend que la moitié des mises.
-
-**Zecchinetta.** Version italienne, avec un jeu de 40 cartes et deux cartes pour les joueurs : on parie que sa carte ne sera pas appariée avant celle du banquier.
-
-**Version enfants.** Sans mises variables : chaque coup se joue pour 1 jeton, la banque tourne à chaque coup. Un bon moyen d'expliquer les probabilités.
-
-### Aide-mémoire
-
-- **Cartes :** 52, seuls les rangs comptent ; mélanger à chaque coup.
-- **Mises :** la banque pose sa mise ; les pontes la tiennent en tout ou en partie, jamais au-delà.
-- **Tirage :** une carte pour la banque (à gauche), une pour les joueurs (à droite) ; égales : la banque gagne.
-- **Résultat :** le rang de la banque sort d'abord : elle ramasse ; celui des joueurs : elle paie chaque mise.
-- **Banque :** perdue, elle passe à droite ; gagnée, on laisse doubler ou on la passe (achat possible).
-- **Fin de partie :** heure convenue ou ruine d'un joueur.
-
-### Verdict
-Le Lansquenet ne vaut pas par sa profondeur, qui est nulle, mais par ce qu'il raconte : la fièvre du jeu à la cour de Louis XIV, la tentation de « laisser courir » une banque gagnante. Joué avec des jetons sans valeur, il amuse un quart d'heure et sert de jolie leçon de probabilités. Comme jeu de soirée, la [Bouillotte](#jeu-bouillotte) ou le [Baccara](#jeu-baccara) offrent davantage.
-
-## Boston {#jeu-boston}
-*Autres noms : Boston de Fontainebleau, Boston français, Whist bostonien*
-
-- **Famille :** jeu de plis à enchères (famille du Whist, jeu historique)
-- **Joueurs :** 4, chacun pour soi avec alliances d'une donne
-- **Matériel :** 1 jeu de 52 cartes ; jetons
-- **Durée d'une partie :** 5 à 10 min par donne ; 1 à 2 h pour une séance
-- **Âge conseillé :** dès 14 ans
-- **Diffusion :** Niche (historique ; descendants très vivants en Belgique, aux Pays-Bas et en Russie)
-- **Hasard / réflexion :** 35 % hasard, 65 % réflexion
-- **Fun :** 3/5 — variété de contrats, mais comptes à tenir
-- **Challenge :** 4/5 — évaluer sa main, choisir entre levées et misères, jouer seul contre trois
-
-### En bref
-Le Boston est un [Whist](#jeu-whist) où l'atout n'est plus tiré au hasard : on l'achète aux enchères. Chaque joueur peut annoncer un nombre de plis à faire avec l'atout de son choix, ou une **misère** (ne faire aucun pli). Certains contrats se jouent avec un allié choisi pour la donne, d'autres seul contre trois. C'est le chaînon entre le Whist et les jeux modernes comme le Whist à la couleur belge, le Rik néerlandais ou le [Preferans](#jeu-preferans) russe.
-
-### Histoire et origine
-Le Boston apparaît en France dans les années 1770. Son nom évoquerait la guerre d'indépendance américaine, alors en pleine actualité ; l'*Almanach des jeux* de 1783 en décrit deux formes, le « Whisch bostonien » et le « Mariland ». Il emprunte au Quadrille, lui-même issu de l'[Hombre](#jeu-hombre), l'idée d'enchères qui fixent l'atout. Vers 1810 se fixe le **Boston de Fontainebleau**, la forme la plus aboutie, avec un ordre des couleurs et une échelle de contrats. Le jeu est alors à la mode dans toute l'Europe, de Paris à Saint-Pétersbourg (les personnages de *Guerre et Paix* y jouent), avant de s'effacer au XIXe siècle devant le Whist puis le [Bridge](#jeu-bridge). Ses descendants vivent encore : Wiezen et Kleurenwiezen en Belgique, Rikken aux Pays-Bas, Solo Whist en Angleterre, Préférence en Russie. Les sources anciennes divergent beaucoup sur les paiements : la règle ci-dessous suit Wikipédia pour le Boston de Fontainebleau, avec un barème simplifié.
-
-### But du jeu
-Réussir le contrat qu'on a annoncé (un nombre de plis, ou une misère) pour ramasser le pot et les paiements ; faire chuter les contrats des autres.
-
-### Mise en place
-Jeu de 52 cartes, as fort, comme au Whist. Le joueur qui tire la plus petite carte donne. Le donneur met une mise au pot (par exemple 10 jetons). Il distribue **4 cartes, puis 4, puis 5** à chacun, soit 13 cartes.
-
-**Ordre des couleurs** (pour départager deux annonces de même niveau) : carreau, cœur, trèfle, pique (le carreau est la couleur la plus forte).
-
-### Déroulement
-**Enchères.** Le joueur à gauche du donneur parle en premier. Chacun annonce un contrat plus élevé ou passe ; qui a passé ne reparle plus, mais un joueur surenchéri peut remonter à son tour suivant. Échelle des contrats, du plus faible au plus fort :
-
-1. **Boston** : 5 plis seul (ou 8 avec un allié) ;
-2. 6 plis ;
-3. **Petite misère** : écarter une carte, puis ne faire aucun pli ;
-4. 7 plis ;
-5. **Piccolissimo** : écarter une carte, puis faire exactement un pli ;
-6. 8 plis ;
-7. **Grande misère** : aucun pli, sans écart ;
-8. 9 plis ;
-9. **Petite misère sur table** (main étalée) ;
-10. 10 plis ;
-11. **Grande misère sur table** ;
-12. 11 plis (toujours seul) ;
-13. 12 plis ;
-14. **Chelem** (Grand Boston) : les 13 plis ;
-15. **Chelem sur table**.
-
-Pour un même nombre de plis, une annonce dans une couleur plus forte l'emporte. Les misères se jouent sans atout.
-
-**Alliés.** Les contrats de levées de 5 à 10 plis peuvent se jouer avec un allié : selon les règles, un autre joueur se déclare son soutien pendant les enchères ; l'équipe doit alors faire **3 plis de plus** que le nombre annoncé et partage gains et pertes. Les misères, le piccolissimo et les contrats de 11 plis et plus se jouent toujours seul contre trois.
-
-**Si tout le monde passe,** on joue sans atout et le joueur qui fait le moins de plis gagne le pot (selon certaines tables, on redonne simplement).
-
-**Le jeu.** Le joueur à gauche du donneur entame. Il faut fournir ; sinon on joue ce qu'on veut, l'atout coupe. Une renonce (ne pas fournir alors qu'on le pouvait) coûte 3 plis au fautif.
-
-### Décompte des points
-Les paiements anciens suivaient des barèmes longs et variables. **Barème simplifié proposé** (non historique, pour jouer aujourd'hui avec des jetons) :
-
-- le demandeur qui réussit ramasse **le pot** et reçoit de chacun des trois autres la valeur du contrat : 5 plis = 2, chaque pli au-dessus = +1 ; petite misère 4, piccolissimo 5, grande misère 8, misères sur table 12 et 16, chelem 25 ;
-- avec un allié, les deux équipiers partagent ; chaque adversaire paie chacun d'eux ;
-- en cas de chute, le demandeur paie la valeur du contrat à chacun et double la mise du pot ;
-- les **honneurs** (as, roi, dame, valet d'atout) se comptent comme au Whist si on le souhaite, mais ne servent jamais à remplir un contrat.
-
-Les adversaires ne gagnent jamais le pot ; il s'accumule de donne en donne jusqu'à ce qu'un contrat réussisse.
-
-### Conseils de stratégie
-- **Comptez vos plis sûrs** : as, roi second, longueurs d'atout. Une annonce de Boston (5 plis seul) demande une main nettement supérieure à la moyenne.
-- **Pensez aux misères** quand votre main est pleine de petites cartes : une grande misère rapporte beaucoup et ne demande pas de cartes fortes, mais pas de carte haute isolée.
-- **L'écart du piccolissimo et de la petite misère** sert à jeter la carte qui vous condamnerait (un as isolé, par exemple).
-- **En défense contre une misère**, entamez des cartes moyennes pour forcer le demandeur à prendre ; gardez vos plus petites cartes pour la fin.
-- **Sachez soutenir** : un allié n'est utile que s'il apporte au moins trois plis sûrs.
-
-### Variantes
-**Boston américain.** À deux paquets : l'un sert à jouer, l'autre est coupé pour désigner une couleur préférée ; règles anciennes anglo-saxonnes.
-
-**Boston russe.** Forme jouée en Russie au XIXe siècle, avec son propre ordre des couleurs ; la Préférence russe en est en partie issue.
-
-**Descendants.** Le **Kleurenwiezen** (Belgique), le **Rikken** (Pays-Bas) et le **Solo Whist** (Angleterre) gardent la structure du Boston (contrats seuls ou avec allié, misères) avec des barèmes simplifiés ; ils sont plus faciles à jouer aujourd'hui.
-
-### Aide-mémoire
-
-- **Cartes :** 52, as fort ; couleurs : carreau, cœur, trèfle, pique (du plus fort au plus faible).
-- **Donne :** 4, 4, 5 cartes (13 chacun) ; mise du donneur au pot.
-- **Enchères :** Boston (5), 6, petite misère, 7, piccolissimo, 8, grande misère, 9, petite misère sur table, 10, grande misère sur table, 11, 12, chelem, chelem sur table.
-- **Alliés :** possibles de 5 à 10 plis ; l'équipe doit faire 3 plis de plus.
-- **Obligations :** fournir ; sinon libre ; renonce = 3 plis de pénalité.
-- **Tout le monde passe :** sans atout, le moins de plis gagne le pot.
-- **Points :** réussite = pot + paiement de chacun ; chute = paiement à chacun + pot doublé.
-
-### Verdict
-Le Boston séduira les amateurs de [Whist](#jeu-whist) et de [Preferans](#jeu-preferans) curieux de l'histoire de leur jeu : on y trouve déjà presque tout ce qui fera le charme des jeux à enchères modernes, misères comprises. Son défaut est la lourdeur de ses barèmes, qui varient d'une source à l'autre ; avec le barème simplifié, il redevient un très bon jeu de plis à quatre, plus libre que le Whist et moins exigeant que le Bridge.
-
 # Glossaire
 
 **Annonce** : déclaration d'une combinaison de cartes qui rapporte des points (belote, tierce,
@@ -13552,6 +13717,9 @@ carré) ou d'un engagement (contrat, nombre de plis).
 
 **Atout** : couleur (ou série de cartes spéciales, au tarot) qui l'emporte sur toutes les
 autres pour la durée d'une donne.
+
+**Banque (jeu de)** : jeu où un banquier affronte les pontes, c'est-à-dire les joueurs
+qui misent contre lui (Pharaon, Lansquenet, Baccara).
 
 **Bout** : au tarot, l'une des trois cartes maîtresses (le Petit, le 21, l'Excuse) dont le
 nombre fixe le score à atteindre.
@@ -13564,6 +13732,9 @@ de gagner le pli si l'on n'est pas coupé.
 
 **Chicane** : absence totale de cartes d'une couleur dans une main (on dit aussi « être
 chicane à cœur »).
+
+**Codille** : à l'Hombre, défaite du déclarant battu par un défenseur, qui remporte
+alors l'enjeu.
 
 **Contrat** : engagement pris lors des enchères à réaliser un certain nombre de points ou de
 plis.
@@ -13596,6 +13767,12 @@ carte supérieure soit placée devant elle (bridge, tarot, belote).
 
 **Main** : 1) les cartes que tient un joueur ; 2) le joueur qui joue en premier (« avoir la
 main », « être en main »).
+
+**Mariage** : réunion du Roi et de la Dame d'une même couleur, qui rapporte des points
+(Bézigue, Schnapsen, Pinochle).
+
+**Matadors** : atouts majeurs qui jouissent de privilèges particuliers (Hombre, Skat,
+Aluette).
 
 **Mort** : au bridge, la main du partenaire du déclarant, étalée face visible et jouée par le
 déclarant.
@@ -13652,7 +13829,7 @@ Ces listes sont générées à partir des fiches. Pour chaque jeu : le nombre de
 - **[Carré de Napoléon](#jeu-carre-de-napoleon)** : 1 ; fun 3/5, challenge 3/5
 - **[Château assiégé](#jeu-chateau-assiege)** : 1 ; fun 3/5, challenge 4/5
 - **[FreeCell](#jeu-freecell)** : 1 ; fun 4/5, challenge 4/5
-- **[Golf](#jeu-golf)** : 1 (ou plusieurs joueurs chacun avec son jeu, en comparant les scores) ; fun 3/5, challenge 2/5
+- **[Golf (patience)](#jeu-golf-patience)** : 1 (ou plusieurs joueurs chacun avec son jeu, en comparant les scores) ; fun 3/5, challenge 2/5
 - **[Klondike](#jeu-klondike)** : 1 ; fun 4/5, challenge 3/5
 - **[L'Horloge](#jeu-l-horloge)** : 1 ; fun 2/5, challenge 0/5
 - **[La Belle Lucie](#jeu-la-belle-lucie)** : 1 ; fun 3/5, challenge 3/5
@@ -14349,7 +14526,7 @@ Ces listes sont générées à partir des fiches. Pour chaque jeu : le nombre de
 - **[Pêche](#jeu-peche)** : dès 5 ans ; 2 à 6 (idéal : 3 à 5)
 - **[Bataille corse](#jeu-bataille-corse)** : dès 6 ans ; 2 à 6 (idéal : 3 ou 4)
 - **[Dobble](#jeu-dobble)** : dès 6 ans ; 2 à 8 (idéal : 3 à 5)
-- **[Golf](#jeu-golf)** : dès 6 ans ; 1 (ou plusieurs joueurs chacun avec son jeu, en comparant les scores)
+- **[Golf (patience)](#jeu-golf-patience)** : dès 6 ans ; 1 (ou plusieurs joueurs chacun avec son jeu, en comparant les scores)
 - **[Huit américain](#jeu-huit-americain)** : dès 6 ans (dès 5 ans sans cartes spéciales) ; 2 à 8 (idéal : 3 à 5)
 - **[Mau-Mau](#jeu-mau-mau)** : dès 6 ans ; 2 à 5 (idéal : 3 ou 4)
 - **[Sept](#jeu-sept)** : dès 6 ans ; 3 à 8 (idéal : 4 à 6)
@@ -14452,172 +14629,172 @@ Ces listes sont générées à partir des fiches. Pour chaque jeu : le nombre de
 
 ## Tous les jeux par ordre alphabétique
 
-- **[500 (Five Hundred)](#jeu-500-five-hundred)** (Les jeux de plis du monde entier)
-- **[6 qui prend !](#jeu-6-qui-prend)** (Les jeux de cartes modernes à paquet dédié)
-- **[7 Wonders](#jeu-7-wonders)** (Les jeux de cartes modernes à paquet dédié)
-- **[Accordéon](#jeu-accordeon)** (Patiences et réussites : jouer seul)
-- **[Aluette](#jeu-aluette)** (Les jeux de plis de tradition française)
-- **[Araignée](#jeu-araignee)** (Patiences et réussites : jouer seul)
-- **[Arboretum](#jeu-arboretum)** (Les jeux de cartes modernes à paquet dédié)
-- **[Assassin](#jeu-assassin)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Baccara](#jeu-baccara)** (Poker, jeux de mise et jeux de casino)
-- **[Baker's Dozen](#jeu-baker-s-dozen)** (Patiences et réussites : jouer seul)
-- **[Bang!](#jeu-bang)** (Les jeux de cartes modernes à paquet dédié)
-- **[Barbu](#jeu-barbu)** (Les jeux de plis de tradition française)
-- **[Bataille](#jeu-bataille)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Bataille corse](#jeu-bataille-corse)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Belote](#jeu-belote)** (Les jeux de plis de tradition française)
-- **[Belote coinchée](#jeu-belote-coinchee)** (Les jeux de plis de tradition française)
-- **[Big Two](#jeu-big-two)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Bisley](#jeu-bisley)** (Patiences et réussites : jouer seul)
-- **[Blackjack](#jeu-blackjack)** (Poker, jeux de mise et jeux de casino)
-- **[Boston](#jeu-boston)** (Compléments : d'autres jeux à connaître)
-- **[Bouillotte](#jeu-bouillotte)** (Poker, jeux de mise et jeux de casino)
-- **[Bourre](#jeu-bourre)** (Les jeux de plis de tradition française)
-- **[Brag](#jeu-brag)** (Poker, jeux de mise et jeux de casino)
-- **[Bridge](#jeu-bridge)** (Les jeux de plis du monde entier)
-- **[Briscola (et Briscola chiamata)](#jeu-briscola-et-briscola-chiamata)** (Les jeux de plis du monde entier)
-- **[Burraco](#jeu-burraco)** (Rami, combinaisons et jeux de pêche)
-- **[Bézigue](#jeu-bezigue)** (Les jeux de plis de tradition française)
-- **[Calculation](#jeu-calculation)** (Patiences et réussites : jouer seul)
-- **[Canasta](#jeu-canasta)** (Rami, combinaisons et jeux de pêche)
-- **[Canfield](#jeu-canfield)** (Patiences et réussites : jouer seul)
-- **[Carioca](#jeu-carioca)** (Rami, combinaisons et jeux de pêche)
-- **[Carré de Napoléon](#jeu-carre-de-napoleon)** (Patiences et réussites : jouer seul)
-- **[Cassino](#jeu-cassino)** (Rami, combinaisons et jeux de pêche)
-- **[Chinchón](#jeu-chinchon)** (Rami, combinaisons et jeux de pêche)
-- **[Chkobba](#jeu-chkobba)** (Rami, combinaisons et jeux de pêche)
-- **[Château assiégé](#jeu-chateau-assiege)** (Patiences et réussites : jouer seul)
-- **[Citadelles](#jeu-citadelles)** (Les jeux de cartes modernes à paquet dédié)
-- **[Codenames](#jeu-codenames)** (Les jeux de cartes modernes à paquet dédié)
-- **[Conquian](#jeu-conquian)** (Rami, combinaisons et jeux de pêche)
-- **[Contract Rummy](#jeu-contract-rummy)** (Rami, combinaisons et jeux de pêche)
-- **[Coucou](#jeu-coucou)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Coup](#jeu-coup)** (Les jeux de cartes modernes à paquet dédié)
-- **[Court Piece (Rang)](#jeu-court-piece-rang)** (Les jeux de plis du monde entier)
-- **[Crapette](#jeu-crapette)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Cribbage](#jeu-cribbage)** (Rami, combinaisons et jeux de pêche)
-- **[Cuarenta](#jeu-cuarenta)** (Rami, combinaisons et jeux de pêche)
-- **[Cuillères](#jeu-cuilleres)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Daifugō](#jeu-daifugo)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Dame de pique](#jeu-dame-de-pique)** (Les jeux de plis de tradition française)
-- **[Dealer's Choice](#jeu-dealer-s-choice)** (Poker, jeux de mise et jeux de casino)
-- **[Dixit](#jeu-dixit)** (Les jeux de cartes modernes à paquet dédié)
-- **[Dobble](#jeu-dobble)** (Les jeux de cartes modernes à paquet dédié)
-- **[Dominion](#jeu-dominion)** (Les jeux de cartes modernes à paquet dédié)
-- **[Doppelkopf](#jeu-doppelkopf)** (Les jeux de plis du monde entier)
-- **[Dou Dizhu](#jeu-dou-dizhu)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Durak](#jeu-durak)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Entre-deux](#jeu-entre-deux)** (Poker, jeux de mise et jeux de casino)
-- **[Euchre](#jeu-euchre)** (Les jeux de plis du monde entier)
-- **[Exploding Kittens](#jeu-exploding-kittens)** (Les jeux de cartes modernes à paquet dédié)
-- **[Fluxx](#jeu-fluxx)** (Les jeux de cartes modernes à paquet dédié)
-- **[FreeCell](#jeu-freecell)** (Patiences et réussites : jouer seul)
-- **[Gin Rummy](#jeu-gin-rummy)** (Rami, combinaisons et jeux de pêche)
-- **[Golf](#jeu-golf)** (Patiences et réussites : jouer seul)
-- **[Golf à 6 cartes](#jeu-golf-a-6-cartes)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Gops](#jeu-gops)** (Compléments : d'autres jeux à connaître)
-- **[Guandan](#jeu-guandan)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Hanabi](#jeu-hanabi)** (Les jeux de cartes modernes à paquet dédié)
-- **[Hombre](#jeu-hombre)** (Compléments : d'autres jeux à connaître)
-- **[Huit américain](#jeu-huit-americain)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Jaipur](#jeu-jaipur)** (Les jeux de cartes modernes à paquet dédié)
-- **[Jass (Schieber suisse)](#jeu-jass-schieber-suisse)** (Les jeux de plis du monde entier)
-- **[Jeu des sept familles](#jeu-jeu-des-sept-familles)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Jungle Speed](#jeu-jungle-speed)** (Les jeux de cartes modernes à paquet dédié)
-- **[Kalooki](#jeu-kalooki)** (Rami, combinaisons et jeux de pêche)
-- **[Kems](#jeu-kems)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Klaverjas](#jeu-klaverjas)** (Les jeux de plis du monde entier)
-- **[Klondike](#jeu-klondike)** (Patiences et réussites : jouer seul)
-- **[Koi-Koi](#jeu-koi-koi)** (Rami, combinaisons et jeux de pêche)
-- **[L'Horloge](#jeu-l-horloge)** (Patiences et réussites : jouer seul)
-- **[La Belle Lucie](#jeu-la-belle-lucie)** (Patiences et réussites : jouer seul)
-- **[Lansquenet](#jeu-lansquenet)** (Compléments : d'autres jeux à connaître)
-- **[Le jeu du 24](#jeu-le-jeu-du-24)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Les Cités perdues](#jeu-les-cites-perdues)** (Les jeux de cartes modernes à paquet dédié)
-- **[Liar's Poker](#jeu-liar-s-poker)** (Poker, jeux de mise et jeux de casino)
-- **[Ligretto](#jeu-ligretto)** (Les jeux de cartes modernes à paquet dédié)
-- **[Love Letter](#jeu-love-letter)** (Les jeux de cartes modernes à paquet dédié)
-- **[Machiavelli](#jeu-machiavelli)** (Rami, combinaisons et jeux de pêche)
-- **[Manille](#jeu-manille)** (Les jeux de plis de tradition française)
-- **[Mau-Mau](#jeu-mau-mau)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Memory avec un jeu de cartes](#jeu-memory-avec-un-jeu-de-cartes)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Menteur](#jeu-menteur)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Mille Bornes](#jeu-mille-bornes)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Montana](#jeu-montana)** (Patiences et réussites : jouer seul)
-- **[Mouche](#jeu-mouche)** (Les jeux de plis de tradition française)
-- **[Mus](#jeu-mus)** (Les jeux de plis du monde entier)
-- **[Nain jaune](#jeu-nain-jaune)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Napoléon (Nap)](#jeu-napoleon-nap)** (Les jeux de plis du monde entier)
-- **[Nerts](#jeu-nerts)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Ninety-Nine](#jeu-ninety-nine)** (Les jeux de plis du monde entier)
-- **[Omaha](#jeu-omaha)** (Poker, jeux de mise et jeux de casino)
-- **[Palace](#jeu-palace)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Patiences à deux](#jeu-patiences-a-deux)** (Patiences et réussites : jouer seul)
-- **[Pharaon](#jeu-pharaon)** (Poker, jeux de mise et jeux de casino)
-- **[Pinacle](#jeu-pinacle)** (Rami, combinaisons et jeux de pêche)
-- **[Pineapple](#jeu-pineapple)** (Poker, jeux de mise et jeux de casino)
-- **[Pinochle](#jeu-pinochle)** (Les jeux de plis du monde entier)
-- **[Piquet](#jeu-piquet)** (Les jeux de plis de tradition française)
-- **[Pishti](#jeu-pishti)** (Compléments : d'autres jeux à connaître)
-- **[Plus ou moins](#jeu-plus-ou-moins)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Poker fermé à 5 cartes](#jeu-poker-ferme-a-5-cartes)** (Poker, jeux de mise et jeux de casino)
-- **[Port Royal](#jeu-port-royal)** (Les jeux de cartes modernes à paquet dédié)
-- **[Pouilleux](#jeu-pouilleux)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Preferans](#jeu-preferans)** (Les jeux de plis du monde entier)
-- **[Président](#jeu-president)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Pyramide](#jeu-pyramide)** (Patiences et réussites : jouer seul)
-- **[Pêche](#jeu-peche)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Quarante Voleurs](#jeu-quarante-voleurs)** (Patiences et réussites : jouer seul)
-- **[Race for the Galaxy](#jeu-race-for-the-galaxy)** (Les jeux de cartes modernes à paquet dédié)
-- **[Rami](#jeu-rami)** (Rami, combinaisons et jeux de pêche)
-- **[Red Dog](#jeu-red-dog)** (Poker, jeux de mise et jeux de casino)
-- **[Reversis](#jeu-reversis)** (Compléments : d'autres jeux à connaître)
-- **[Rikiki](#jeu-rikiki)** (Les jeux de plis de tradition française)
-- **[Rummy 500](#jeu-rummy-500)** (Rami, combinaisons et jeux de pêche)
-- **[Russian Solitaire](#jeu-russian-solitaire)** (Patiences et réussites : jouer seul)
-- **[Saboteur](#jeu-saboteur)** (Les jeux de cartes modernes à paquet dédié)
-- **[Samba](#jeu-samba)** (Rami, combinaisons et jeux de pêche)
-- **[Schafkopf / Sheepshead](#jeu-schafkopf-sheepshead)** (Les jeux de plis du monde entier)
-- **[Schnapsen / Sechsundsechzig](#jeu-schnapsen-sechsundsechzig)** (Compléments : d'autres jeux à connaître)
-- **[Schotten Totten](#jeu-schotten-totten)** (Les jeux de cartes modernes à paquet dédié)
-- **[Scopa](#jeu-scopa)** (Rami, combinaisons et jeux de pêche)
-- **[Scopone scientifico](#jeu-scopone-scientifico)** (Rami, combinaisons et jeux de pêche)
-- **[Scorpion](#jeu-scorpion)** (Patiences et réussites : jouer seul)
-- **[Sept](#jeu-sept)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Sept et demi](#jeu-sept-et-demi)** (Poker, jeux de mise et jeux de casino)
-- **[Sheng Ji (Tracteur)](#jeu-sheng-ji-tracteur)** (Compléments : d'autres jeux à connaître)
-- **[Short Deck](#jeu-short-deck)** (Poker, jeux de mise et jeux de casino)
-- **[Skat](#jeu-skat)** (Les jeux de plis du monde entier)
-- **[Skull](#jeu-skull)** (Les jeux de cartes modernes à paquet dédié)
-- **[Skyjo](#jeu-skyjo)** (Les jeux de cartes modernes à paquet dédié)
-- **[Slapjack](#jeu-slapjack)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Snap](#jeu-snap)** (Jeux de famille, d'enfants, de bluff et de rapidité)
-- **[Spades](#jeu-spades)** (Les jeux de plis du monde entier)
-- **[Speed](#jeu-speed)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Spite and Malice](#jeu-spite-and-malice)** (Compléments : d'autres jeux à connaître)
-- **[Stud à 7 cartes](#jeu-stud-a-7-cartes)** (Poker, jeux de mise et jeux de casino)
-- **[Sueca](#jeu-sueca)** (Les jeux de plis du monde entier)
-- **[Sushi Go!](#jeu-sushi-go)** (Les jeux de cartes modernes à paquet dédié)
-- **[Tarot](#jeu-tarot)** (Les jeux de plis de tradition française)
-- **[Teen Patti](#jeu-teen-patti)** (Poker, jeux de mise et jeux de casino)
-- **[Texas Hold'em](#jeu-texas-hold-em)** (Poker, jeux de mise et jeux de casino)
-- **[The Crew](#jeu-the-crew)** (Les jeux de plis du monde entier)
-- **[The Game](#jeu-the-game)** (Les jeux de cartes modernes à paquet dédié)
-- **[The Mind](#jeu-the-mind)** (Les jeux de cartes modernes à paquet dédié)
-- **[Tichu](#jeu-tichu)** (Se débarrasser de ses cartes : jeux de défausse et de grimpe)
-- **[Time's Up!](#jeu-time-s-up)** (Les jeux de cartes modernes à paquet dédié)
-- **[Tonk](#jeu-tonk)** (Compléments : d'autres jeux à connaître)
-- **[Trente-et-quarante](#jeu-trente-et-quarante)** (Poker, jeux de mise et jeux de casino)
-- **[Tressette](#jeu-tressette)** (Les jeux de plis du monde entier)
-- **[Triomphe](#jeu-triomphe)** (Les jeux de plis de tradition française)
-- **[TriPeaks](#jeu-tripeaks)** (Patiences et réussites : jouer seul)
-- **[Truco](#jeu-truco)** (Les jeux de plis du monde entier)
-- **[Tute](#jeu-tute)** (Les jeux de plis du monde entier)
-- **[Twenty-Nine](#jeu-twenty-nine)** (Les jeux de plis du monde entier)
-- **[Uno](#jeu-uno)** (Les jeux de cartes modernes à paquet dédié)
-- **[Whist](#jeu-whist)** (Les jeux de plis de tradition française)
-- **[Wizard](#jeu-wizard)** (Les jeux de plis du monde entier)
-- **[Yaniv](#jeu-yaniv)** (Rami, combinaisons et jeux de pêche)
-- **[Yukon](#jeu-yukon)** (Patiences et réussites : jouer seul)
-- **[Écarté](#jeu-ecarte)** (Les jeux de plis de tradition française)
+- **[500 (Five Hundred)](#jeu-500-five-hundred)** (2. Les jeux de plis du monde entier)
+- **[6 qui prend !](#jeu-6-qui-prend)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[7 Wonders](#jeu-7-wonders)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Accordéon](#jeu-accordeon)** (6. Patiences et réussites : jouer seul)
+- **[Aluette](#jeu-aluette)** (1. Les jeux de plis de tradition française)
+- **[Araignée](#jeu-araignee)** (6. Patiences et réussites : jouer seul)
+- **[Arboretum](#jeu-arboretum)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Assassin](#jeu-assassin)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Baccara](#jeu-baccara)** (5. Poker, jeux de mise et jeux de casino)
+- **[Baker's Dozen](#jeu-baker-s-dozen)** (6. Patiences et réussites : jouer seul)
+- **[Bang!](#jeu-bang)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Barbu](#jeu-barbu)** (1. Les jeux de plis de tradition française)
+- **[Bataille](#jeu-bataille)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Bataille corse](#jeu-bataille-corse)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Belote](#jeu-belote)** (1. Les jeux de plis de tradition française)
+- **[Belote coinchée](#jeu-belote-coinchee)** (1. Les jeux de plis de tradition française)
+- **[Big Two](#jeu-big-two)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Bisley](#jeu-bisley)** (6. Patiences et réussites : jouer seul)
+- **[Blackjack](#jeu-blackjack)** (5. Poker, jeux de mise et jeux de casino)
+- **[Boston](#jeu-boston)** (1. Les jeux de plis de tradition française)
+- **[Bouillotte](#jeu-bouillotte)** (5. Poker, jeux de mise et jeux de casino)
+- **[Bourre](#jeu-bourre)** (1. Les jeux de plis de tradition française)
+- **[Brag](#jeu-brag)** (5. Poker, jeux de mise et jeux de casino)
+- **[Bridge](#jeu-bridge)** (2. Les jeux de plis du monde entier)
+- **[Briscola (et Briscola chiamata)](#jeu-briscola-et-briscola-chiamata)** (2. Les jeux de plis du monde entier)
+- **[Burraco](#jeu-burraco)** (3. Rami, combinaisons et jeux de pêche)
+- **[Bézigue](#jeu-bezigue)** (1. Les jeux de plis de tradition française)
+- **[Calculation](#jeu-calculation)** (6. Patiences et réussites : jouer seul)
+- **[Canasta](#jeu-canasta)** (3. Rami, combinaisons et jeux de pêche)
+- **[Canfield](#jeu-canfield)** (6. Patiences et réussites : jouer seul)
+- **[Carioca](#jeu-carioca)** (3. Rami, combinaisons et jeux de pêche)
+- **[Carré de Napoléon](#jeu-carre-de-napoleon)** (6. Patiences et réussites : jouer seul)
+- **[Cassino](#jeu-cassino)** (3. Rami, combinaisons et jeux de pêche)
+- **[Chinchón](#jeu-chinchon)** (3. Rami, combinaisons et jeux de pêche)
+- **[Chkobba](#jeu-chkobba)** (3. Rami, combinaisons et jeux de pêche)
+- **[Château assiégé](#jeu-chateau-assiege)** (6. Patiences et réussites : jouer seul)
+- **[Citadelles](#jeu-citadelles)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Codenames](#jeu-codenames)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Conquian](#jeu-conquian)** (3. Rami, combinaisons et jeux de pêche)
+- **[Contract Rummy](#jeu-contract-rummy)** (3. Rami, combinaisons et jeux de pêche)
+- **[Coucou](#jeu-coucou)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Coup](#jeu-coup)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Court Piece (Rang)](#jeu-court-piece-rang)** (2. Les jeux de plis du monde entier)
+- **[Crapette](#jeu-crapette)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Cribbage](#jeu-cribbage)** (3. Rami, combinaisons et jeux de pêche)
+- **[Cuarenta](#jeu-cuarenta)** (3. Rami, combinaisons et jeux de pêche)
+- **[Cuillères](#jeu-cuilleres)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Daifugō](#jeu-daifugo)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Dame de pique](#jeu-dame-de-pique)** (1. Les jeux de plis de tradition française)
+- **[Dealer's Choice](#jeu-dealer-s-choice)** (5. Poker, jeux de mise et jeux de casino)
+- **[Dixit](#jeu-dixit)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Dobble](#jeu-dobble)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Dominion](#jeu-dominion)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Doppelkopf](#jeu-doppelkopf)** (2. Les jeux de plis du monde entier)
+- **[Dou Dizhu](#jeu-dou-dizhu)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Durak](#jeu-durak)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Entre-deux](#jeu-entre-deux)** (5. Poker, jeux de mise et jeux de casino)
+- **[Euchre](#jeu-euchre)** (2. Les jeux de plis du monde entier)
+- **[Exploding Kittens](#jeu-exploding-kittens)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Fluxx](#jeu-fluxx)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[FreeCell](#jeu-freecell)** (6. Patiences et réussites : jouer seul)
+- **[Gin Rummy](#jeu-gin-rummy)** (3. Rami, combinaisons et jeux de pêche)
+- **[Golf (patience)](#jeu-golf-patience)** (6. Patiences et réussites : jouer seul)
+- **[Golf à 6 cartes](#jeu-golf-a-6-cartes)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Gops](#jeu-gops)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Guandan](#jeu-guandan)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Hanabi](#jeu-hanabi)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Hombre](#jeu-hombre)** (2. Les jeux de plis du monde entier)
+- **[Huit américain](#jeu-huit-americain)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Jaipur](#jeu-jaipur)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Jass (Schieber suisse)](#jeu-jass-schieber-suisse)** (2. Les jeux de plis du monde entier)
+- **[Jeu des sept familles](#jeu-jeu-des-sept-familles)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Jungle Speed](#jeu-jungle-speed)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Kalooki](#jeu-kalooki)** (3. Rami, combinaisons et jeux de pêche)
+- **[Kems](#jeu-kems)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Klaverjas](#jeu-klaverjas)** (2. Les jeux de plis du monde entier)
+- **[Klondike](#jeu-klondike)** (6. Patiences et réussites : jouer seul)
+- **[Koi-Koi](#jeu-koi-koi)** (3. Rami, combinaisons et jeux de pêche)
+- **[L'Horloge](#jeu-l-horloge)** (6. Patiences et réussites : jouer seul)
+- **[La Belle Lucie](#jeu-la-belle-lucie)** (6. Patiences et réussites : jouer seul)
+- **[Lansquenet](#jeu-lansquenet)** (5. Poker, jeux de mise et jeux de casino)
+- **[Le jeu du 24](#jeu-le-jeu-du-24)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Les Cités perdues](#jeu-les-cites-perdues)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Liar's Poker](#jeu-liar-s-poker)** (5. Poker, jeux de mise et jeux de casino)
+- **[Ligretto](#jeu-ligretto)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Love Letter](#jeu-love-letter)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Machiavelli](#jeu-machiavelli)** (3. Rami, combinaisons et jeux de pêche)
+- **[Manille](#jeu-manille)** (1. Les jeux de plis de tradition française)
+- **[Mau-Mau](#jeu-mau-mau)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Memory avec un jeu de cartes](#jeu-memory-avec-un-jeu-de-cartes)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Menteur](#jeu-menteur)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Mille Bornes](#jeu-mille-bornes)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Montana](#jeu-montana)** (6. Patiences et réussites : jouer seul)
+- **[Mouche](#jeu-mouche)** (1. Les jeux de plis de tradition française)
+- **[Mus](#jeu-mus)** (2. Les jeux de plis du monde entier)
+- **[Nain jaune](#jeu-nain-jaune)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Napoléon (Nap)](#jeu-napoleon-nap)** (2. Les jeux de plis du monde entier)
+- **[Nerts](#jeu-nerts)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Ninety-Nine](#jeu-ninety-nine)** (2. Les jeux de plis du monde entier)
+- **[Omaha](#jeu-omaha)** (5. Poker, jeux de mise et jeux de casino)
+- **[Palace](#jeu-palace)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Patiences à deux](#jeu-patiences-a-deux)** (6. Patiences et réussites : jouer seul)
+- **[Pharaon](#jeu-pharaon)** (5. Poker, jeux de mise et jeux de casino)
+- **[Pinacle](#jeu-pinacle)** (3. Rami, combinaisons et jeux de pêche)
+- **[Pineapple](#jeu-pineapple)** (5. Poker, jeux de mise et jeux de casino)
+- **[Pinochle](#jeu-pinochle)** (2. Les jeux de plis du monde entier)
+- **[Piquet](#jeu-piquet)** (1. Les jeux de plis de tradition française)
+- **[Pishti](#jeu-pishti)** (3. Rami, combinaisons et jeux de pêche)
+- **[Plus ou moins](#jeu-plus-ou-moins)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Poker fermé à 5 cartes](#jeu-poker-ferme-a-5-cartes)** (5. Poker, jeux de mise et jeux de casino)
+- **[Port Royal](#jeu-port-royal)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Pouilleux](#jeu-pouilleux)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Preferans](#jeu-preferans)** (2. Les jeux de plis du monde entier)
+- **[Président](#jeu-president)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Pyramide](#jeu-pyramide)** (6. Patiences et réussites : jouer seul)
+- **[Pêche](#jeu-peche)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Quarante Voleurs](#jeu-quarante-voleurs)** (6. Patiences et réussites : jouer seul)
+- **[Race for the Galaxy](#jeu-race-for-the-galaxy)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Rami](#jeu-rami)** (3. Rami, combinaisons et jeux de pêche)
+- **[Red Dog](#jeu-red-dog)** (5. Poker, jeux de mise et jeux de casino)
+- **[Reversis](#jeu-reversis)** (1. Les jeux de plis de tradition française)
+- **[Rikiki](#jeu-rikiki)** (1. Les jeux de plis de tradition française)
+- **[Rummy 500](#jeu-rummy-500)** (3. Rami, combinaisons et jeux de pêche)
+- **[Russian Solitaire](#jeu-russian-solitaire)** (6. Patiences et réussites : jouer seul)
+- **[Saboteur](#jeu-saboteur)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Samba](#jeu-samba)** (3. Rami, combinaisons et jeux de pêche)
+- **[Schafkopf / Sheepshead](#jeu-schafkopf-sheepshead)** (2. Les jeux de plis du monde entier)
+- **[Schnapsen / Sechsundsechzig](#jeu-schnapsen-sechsundsechzig)** (2. Les jeux de plis du monde entier)
+- **[Schotten Totten](#jeu-schotten-totten)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Scopa](#jeu-scopa)** (3. Rami, combinaisons et jeux de pêche)
+- **[Scopone scientifico](#jeu-scopone-scientifico)** (3. Rami, combinaisons et jeux de pêche)
+- **[Scorpion](#jeu-scorpion)** (6. Patiences et réussites : jouer seul)
+- **[Sept](#jeu-sept)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Sept et demi](#jeu-sept-et-demi)** (5. Poker, jeux de mise et jeux de casino)
+- **[Sheng Ji (Tracteur)](#jeu-sheng-ji-tracteur)** (2. Les jeux de plis du monde entier)
+- **[Short Deck](#jeu-short-deck)** (5. Poker, jeux de mise et jeux de casino)
+- **[Skat](#jeu-skat)** (2. Les jeux de plis du monde entier)
+- **[Skull](#jeu-skull)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Skyjo](#jeu-skyjo)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Slapjack](#jeu-slapjack)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Snap](#jeu-snap)** (7. Jeux de famille, d'enfants, de bluff et de rapidité)
+- **[Spades](#jeu-spades)** (2. Les jeux de plis du monde entier)
+- **[Speed](#jeu-speed)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Spite and Malice](#jeu-spite-and-malice)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Stud à 7 cartes](#jeu-stud-a-7-cartes)** (5. Poker, jeux de mise et jeux de casino)
+- **[Sueca](#jeu-sueca)** (2. Les jeux de plis du monde entier)
+- **[Sushi Go!](#jeu-sushi-go)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Tarot](#jeu-tarot)** (1. Les jeux de plis de tradition française)
+- **[Teen Patti](#jeu-teen-patti)** (5. Poker, jeux de mise et jeux de casino)
+- **[Texas Hold'em](#jeu-texas-hold-em)** (5. Poker, jeux de mise et jeux de casino)
+- **[The Crew](#jeu-the-crew)** (2. Les jeux de plis du monde entier)
+- **[The Game](#jeu-the-game)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[The Mind](#jeu-the-mind)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Tichu](#jeu-tichu)** (4. Se débarrasser de ses cartes : jeux de défausse et de grimpe)
+- **[Time's Up!](#jeu-time-s-up)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Tonk](#jeu-tonk)** (3. Rami, combinaisons et jeux de pêche)
+- **[Trente-et-quarante](#jeu-trente-et-quarante)** (5. Poker, jeux de mise et jeux de casino)
+- **[Tressette](#jeu-tressette)** (2. Les jeux de plis du monde entier)
+- **[Triomphe](#jeu-triomphe)** (1. Les jeux de plis de tradition française)
+- **[TriPeaks](#jeu-tripeaks)** (6. Patiences et réussites : jouer seul)
+- **[Truco](#jeu-truco)** (2. Les jeux de plis du monde entier)
+- **[Tute](#jeu-tute)** (2. Les jeux de plis du monde entier)
+- **[Twenty-Nine](#jeu-twenty-nine)** (2. Les jeux de plis du monde entier)
+- **[Uno](#jeu-uno)** (8. Les jeux de cartes modernes à paquet dédié)
+- **[Whist](#jeu-whist)** (1. Les jeux de plis de tradition française)
+- **[Wizard](#jeu-wizard)** (2. Les jeux de plis du monde entier)
+- **[Yaniv](#jeu-yaniv)** (3. Rami, combinaisons et jeux de pêche)
+- **[Yukon](#jeu-yukon)** (6. Patiences et réussites : jouer seul)
+- **[Écarté](#jeu-ecarte)** (1. Les jeux de plis de tradition française)

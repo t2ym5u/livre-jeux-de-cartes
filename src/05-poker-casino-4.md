@@ -62,6 +62,70 @@ Les **treize cartes d'une même couleur** (traditionnellement des piques), de l'
 
 Une curiosité historique savoureuse, idéale pour une soirée à thème « western » ou une reconstitution. Les enfants adorent la simplicité du principe. Les adultes trouveront vite qu'il n'y a pas grand-chose à décider, mais l'ambiance compense le temps d'un paquet ou deux.
 
+## Lansquenet
+
+*Autres noms : Landsknecht (allemand) ; formes voisines : Zecchinetta (Italie), Skin (États-Unis)*
+
+- **Famille :** jeu de banque (jeu de hasard historique)
+- **Joueurs :** 3 à 10
+- **Matériel :** 1 jeu de 52 cartes (autrefois plusieurs mêlés) ; jetons
+- **Durée d'une partie :** à volonté ; un coup dure moins d'une minute
+- **Âge conseillé :** dès 10 ans (avec des jetons sans valeur)
+- **Diffusion :** Niche (historique)
+- **Hasard / réflexion :** 95 % hasard, 5 % décision (mises, garder ou passer la banque)
+- **Fun :** 3/5 — suspense pur à chaque carte retournée, pour quelques tours
+- **Challenge :** 0/5 — aucune décision ne change les chances
+
+### En bref
+Le banquier retourne deux cartes : une pour lui, une pour les joueurs. Puis il retourne les cartes du paquet une à une : si le rang de la carte des joueurs sort le premier, la banque paie ; si c'est le rang de sa propre carte, elle encaisse. Rien à calculer, tout à espérer : c'est la pure mécanique du jeu de hasard, qui fit la fortune et la ruine de bien des courtisans.
+
+### Histoire et origine
+Le nom vient des *Landsknechte*, les mercenaires allemands des XVe et XVIe siècles, qui auraient apporté le jeu en France. Rabelais le cite dans la liste des jeux de Gargantua (édition de 1542). Au XVIIe siècle, il fait fureur à la cour : une gravure de 1694 montre le Grand Dauphin y jouant à Versailles, et les sommes perdues au lansquenet alimentent la chronique du temps. Sa simplicité en faisait aussi le terrain favori des tricheurs, qui préparaient un paquet de cartes à l'avance. Il a cédé la place au [[Pharaon]] puis au [[Baccara]], qui reposent sur le même principe de cartes appariées, et survit en Italie sous le nom de Zecchinetta. Les règles ci-dessous suivent la forme française du XIXe siècle décrite par pagat, jouée ici avec des jetons.
+
+### But du jeu
+Pour le banquier : voir sortir le rang de sa carte avant celui de la carte des joueurs. Pour les joueurs (les pontes) : l'inverse.
+
+### Mise en place
+Les couleurs ne comptent pas, seuls les rangs. On joue avec un paquet de 52 cartes, mélangé avant chaque coup (autrefois six paquets mêlés). Chaque joueur reçoit un même capital de jetons, par exemple 100.
+
+Tirez au sort le premier banquier. Il mélange, le joueur à sa gauche coupe.
+
+### Déroulement
+1. **La mise de la banque.** Le banquier pose sa mise au centre, par exemple 10 jetons.
+2. **Les mises des pontes.** En commençant par le joueur à droite du banquier, chacun peut **tenir** toute la mise (les autres ne misent plus), en tenir une partie (le total des pontes ne dépassant jamais la mise de la banque), ou passer.
+3. **Les deux cartes.** Le banquier retourne une carte pour lui, à sa gauche, et une carte pour les joueurs, à sa droite. Si elles sont de même rang, la banque gagne aussitôt toutes les mises.
+4. **Le tirage.** Sinon, il retourne les cartes une à une. Une carte d'un autre rang ne fait rien. Dès qu'une carte reproduit le rang de **la carte de la banque**, le banquier ramasse toutes les mises. Dès qu'elle reproduit le rang de **la carte des joueurs**, il paie à chacun l'équivalent de sa mise.
+5. **Après le coup.** Si la banque a perdu, elle passe au joueur suivant (à droite). Si elle a gagné, le banquier peut **laisser** ses gains dans la mise (qui double donc) et faire un nouveau coup, ou **passer** la banque. Un autre joueur peut alors l'**acheter** en déposant la même mise ; sinon elle passe au suivant.
+
+### Décompte des points
+On joue avec des jetons. La partie s'arrête à l'heure convenue, ou quand un joueur est ruiné ; le plus riche gagne.
+
+### Conseils de stratégie
+- **Il n'y a pas de stratégie de jeu** : les deux cartes ont exactement les mêmes chances de sortir la première. Le seul avantage de la banque vient du cas où les deux premières cartes sont égales.
+- **Savoir s'arrêter** est la seule compétence : un banquier qui laisse doubler sa mise trois ou quatre fois de suite joue tout son gain sur un tirage. Fixez-vous une limite avant de commencer.
+- **Ne tenez pas toute la mise** si votre capital est faible : vous pourriez être éliminé d'un coup.
+
+### Variantes
+**Lansquenet à plusieurs cartes.** Dans une forme ancienne, le banquier retourne une carte pour chaque ponte (de rangs tous différents) et une pour lui ; un ponte dont la carte est appariée perd sa mise ; si la carte de la banque sort d'abord, le banquier paie tous les pontes encore en jeu.
+
+**Jumelles.** Selon certaines descriptions, si les deux rangs sortent en même temps, la banque ne prend que la moitié des mises.
+
+**Zecchinetta.** Version italienne, avec un jeu de 40 cartes et deux cartes pour les joueurs : on parie que sa carte ne sera pas appariée avant celle du banquier.
+
+**Version enfants.** Sans mises variables : chaque coup se joue pour 1 jeton, la banque tourne à chaque coup. Un bon moyen d'expliquer les probabilités.
+
+### Aide-mémoire
+
+- **Cartes :** 52, seuls les rangs comptent ; mélanger à chaque coup.
+- **Mises :** la banque pose sa mise ; les pontes la tiennent en tout ou en partie, jamais au-delà.
+- **Tirage :** une carte pour la banque (à gauche), une pour les joueurs (à droite) ; égales : la banque gagne.
+- **Résultat :** le rang de la banque sort d'abord : elle ramasse ; celui des joueurs : elle paie chaque mise.
+- **Banque :** perdue, elle passe à droite ; gagnée, on laisse doubler ou on la passe (achat possible).
+- **Fin de partie :** heure convenue ou ruine d'un joueur.
+
+### Verdict
+Le Lansquenet ne vaut pas par sa profondeur, qui est nulle, mais par ce qu'il raconte : la fièvre du jeu à la cour de Louis XIV, la tentation de « laisser courir » une banque gagnante. Joué avec des jetons sans valeur, il amuse un quart d'heure et sert de jolie leçon de probabilités. Comme jeu de soirée, la [[Bouillotte]] ou le [[Baccara]] offrent davantage.
+
 ## Trente-et-quarante
 
 *Autres noms : Rouge et Noir*

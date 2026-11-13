@@ -7,7 +7,7 @@ stratégie, variantes, aide-mémoire, notes de fun et de challenge. Pensée pour
 ## Organisation
 
 - `src/` : les sources Markdown, un ou plusieurs fichiers par chapitre (`NN-slug-k.md`,
-  concaténés dans l'ordre). `00*` = pages liminaires, `01`–`09` = chapitres de fiches,
+  concaténés dans l'ordre). `00*` = pages liminaires, `01`–`08` = chapitres de fiches,
   `90` = glossaire.
 - `assets/` : couverture (SVG), feuille de style, métadonnées EPUB.
 - `docs/` : consignes de rédaction (`GABARIT.md`) et de relecture (`RELECTURE.md`).
@@ -24,7 +24,7 @@ Dépendances : `pandoc`, `rsvg-convert` (librsvg). Contrôle conseillé : `epubc
 
 Le script ajoute un identifiant `#jeu-<slug>` à chaque fiche, convertit les renvois
 `[[Nom du jeu]]` ou `[[Nom du jeu|texte]]` en liens, signale les liens cassés (code de sortie
-non nul), génère le chapitre d'index à partir des fiches, met en place les espaces insécables
+non nul), ajoute sous les repères de chaque fiche un lien vers son aide-mémoire, génère le chapitre d'index à partir des fiches, met en place les espaces insécables
 de la typographie française et produit la couverture avec le nombre de jeux.
 
 ## Écrire une fiche

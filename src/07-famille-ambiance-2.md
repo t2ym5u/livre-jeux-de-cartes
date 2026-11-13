@@ -334,6 +334,76 @@ On joue en un nombre fixé de tours (par exemple cinq tours par joueur), ou jusq
 ### Verdict
 Un jeu court pour toutes les générations, qui fait sentir aux enfants ce qu'est une probabilité. Il ne tient pas une soirée à lui seul, mais il fait un excellent intermède ou un jeu d'attente au restaurant. Les joueurs avides de décisions riches s'en lasseront vite.
 
+## Gops
+
+*Autres noms : Goofspiel, Game of Pure Strategy, Psychological Jujitsu*
+
+- **Famille :** jeu d'enchères simultanées (jeu de pure stratégie)
+- **Joueurs :** 2 (variantes de 3 à 7)
+- **Matériel :** 1 jeu de 52 cartes, dont on n'utilise que trois couleurs ; papier pour additionner
+- **Durée d'une partie :** 10 à 15 min
+- **Âge conseillé :** dès 10 ans
+- **Diffusion :** Niche (connu des mathématiciens, des étudiants et des amateurs de théorie des jeux)
+- **Hasard / réflexion :** 15 % hasard (l'ordre des lots), 85 % réflexion et psychologie
+- **Fun :** 3/5 — tendu et mystérieux, mais austère et sans ambiance
+- **Challenge :** 5/5 — aucune solution simple : chaque enchère est un pari sur l'esprit adverse
+
+### En bref
+Les deux joueurs ont exactement les mêmes cartes, de l'as au roi. On retourne un lot (une carte de carreau) ; chacun mise en secret une de ses cartes ; la plus forte emporte le lot. Pas de main cachée inégale, pas de pioche, aucune chance de mauvais tirage : on ne gagne qu'en devinant ce que l'autre va faire. Un duel de poker sans argent et sans cartes cachées.
+
+### Histoire et origine
+Le Gops est attribué au mathématicien américain Merrill Flood, qui l'aurait inventé à l'université de Princeton dans les années 1930. Sa première description imprimée connue figure dans le manuel de théorie des jeux de Luce et Raiffa (1957). Le jeu est devenu un exemple classique de « jeu simultané à plusieurs étapes » en théorie des jeux et en intelligence artificielle ; des chercheurs ont calculé des stratégies optimales pour des versions simplifiées, mais le jeu complet reste trop vaste pour être résolu à la main. Alex Randolph s'en est inspiré pour son jeu *Hol's der Geier* (*Raj*), où les lots peuvent aussi être négatifs.
+
+### But du jeu
+Remporter le plus de points de lots : la somme des valeurs des carreaux gagnés.
+
+### Mise en place
+Valeur des cartes : as = 1, 2 à 10 = valeur faciale, valet = 11, dame = 12, roi = 13.
+
+1. Un joueur prend les 13 piques, l'autre les 13 trèfles : ce sont les mains de mise, visibles de leur seul propriétaire.
+2. Les 13 carreaux, mélangés, forment la pile de lots, face cachée. Les cœurs ne servent pas.
+
+### Déroulement
+1. Retournez le premier lot.
+2. Chaque joueur choisit une carte de sa main et la pose face cachée.
+3. On révèle ensemble. La carte la plus forte remporte le lot. Les deux cartes de mise sont défaussées (et restent visibles : on sait ce que l'autre a déjà joué).
+4. **Égalité :** les deux mises sont défaussées, le lot reste en jeu ; on retourne le lot suivant et l'enchère suivante porte sur les deux lots ensemble.
+5. On continue jusqu'à épuisement des 13 cartes. Si la dernière enchère est une égalité, les lots restants ne sont gagnés par personne.
+
+### Décompte des points
+Additionnez les lots gagnés. Le total des lots est 91 ; il faut donc plus de 45,5 points pour être sûr de gagner. Jouez en plusieurs manches et cumulez.
+
+### Conseils de stratégie
+- **Gagner de peu.** L'idéal est de battre la mise adverse d'un seul point : un roi qui emporte un lot contre un 2 est un gaspillage de 11 points de mise.
+- **Sacrifier franchement.** Quand vous pensez perdre un lot, misez votre plus petite carte : perdre avec un 8 est pire que perdre avec un as.
+- **La mise « égale au lot »** (miser le 7 sur le lot de 7) est une base raisonnable, mais un adversaire qui la repère vous battra d'un point à chaque coup. Variez.
+- **Tenez la comptabilité** des cartes jouées des deux côtés : en fin de partie, tout devient calculable, et l'on peut parfois forcer la victoire.
+- **Les égalités sont des armes.** Si vous savez que l'adversaire va miser son roi, jouez votre roi pour l'annuler : le lot passe au tour suivant, et c'est vous qui avez gardé le reste de votre main.
+- **Confirmé :** pensez en « mains restantes ». Votre force n'est pas la carte que vous jouez, mais l'écart entre ce qui vous reste et ce qui reste à l'adversaire.
+
+### Variantes
+**Égalité éliminatoire.** En cas d'égalité, le lot est défaussé au lieu d'être reporté.
+
+**As fort.** L'as vaut 14 comme lot (et comme mise).
+
+**À trois ou plus.** Chaque joueur reçoit une couleur complète (un paquet pour 3 joueurs, deux paquets de 4 à 7). Les cartes égales s'annulent, et la plus forte carte non égalée remporte le lot ; si toutes sont égales, le lot est défaussé ou mis en jeu avec le suivant.
+
+**Lots négatifs.** Inspiré de *Hol's der Geier* : on ajoute des lots de valeur négative (par exemple les cœurs de l'as au 5 comptés de -1 à -5) ; pour un lot négatif, c'est la plus **petite** mise qui doit le prendre.
+
+**Lots visibles.** On étale tous les lots face visible et le gagnant choisit le lot qu'il prend : le jeu devient presque entièrement calculatoire.
+
+### Aide-mémoire
+
+- **Cartes :** 13 piques, 13 trèfles, 13 carreaux (lots) ; as 1 … roi 13.
+- **Tour :** retourner un lot ; chacun mise une carte face cachée ; révélation simultanée.
+- **Gain :** la plus forte mise prend le lot ; les mises sont défaussées visibles.
+- **Égalité :** le lot reste et s'ajoute au suivant.
+- **Points :** somme des lots gagnés (91 au total).
+- **Fin de partie :** après 13 enchères ; égalité finale : lots perdus.
+
+### Verdict
+Le Gops est un bijou pour les esprits analytiques : un jeu où les deux camps ont exactement les mêmes moyens et où tout repose sur la lecture de l'adversaire. Il plaira aux amateurs d'échecs, de poker et de casse-tête, et se joue en quelques minutes avec n'importe quel paquet. Ceux qui cherchent de l'ambiance ou de la variété le trouveront aride : il n'y a qu'une seule idée, mais elle est inépuisable.
+
 ## Le jeu du 24
 
 *Autres noms : Twenty-Four, 24 Game (version commerciale)*

@@ -169,6 +169,79 @@ La règle française de base ne compte pas de points : le premier qui a placé t
 
 La Crapette est l'une des rares patiences à deux joueurs dignes de ce nom : on joue chacun son tour, mais l'interaction est constante. Il faut apprendre l'ordre de priorité et s'y tenir, ce qui rend les premières parties un peu laborieuses, puis le jeu devient très prenant. Idéal pour un couple ou deux amis qui veulent autre chose qu'un jeu de plis.
 
+## Spite and Malice
+
+*Autres noms : Cat and Mouse (« le chat et la souris »)*
+
+- **Famille :** patience à deux (jeu de construction en duel)
+- **Joueurs :** 2 (variantes à 3 ou 4)
+- **Matériel :** 2 jeux de 52 cartes, de dos différents si possible
+- **Durée d'une partie :** 20 à 40 min
+- **Âge conseillé :** dès 8 ans
+- **Diffusion :** Répandu dans les pays anglo-saxons ; niche en France (mais son dérivé commercial Skip-Bo y est connu)
+- **Hasard / réflexion :** 50 % hasard, 50 % réflexion
+- **Fun :** 3/5 — tranquille et prenant, avec de jolis enchaînements, mais peu d'interaction directe
+- **Challenge :** 3/5 — la gestion des piles de défausse demande du soin et de l'anticipation
+
+### En bref
+Chacun possède une pile de cartes à écouler. Au centre, on construit des suites communes de l'as à la dame ; les rois sont des jokers. Le premier qui vide sa pile gagne. Le sel du jeu tient dans les quatre piles de défausse personnelles, qu'il faut organiser pour préparer de longues séquences sans offrir de cartes utiles à l'adversaire.
+
+### Histoire et origine
+Spite and Malice est un jeu américain, inconnu dans les livres avant les années 1960 : Richard L. Frey en publie les règles en 1965, comme un jeu récent joué entre époux. Le spécialiste du bridge Easley Blackwood le découvre sur un paquebot et contribue à le populariser dans les années 1970. David Parlett y voit une refonte de la [[Crapette]] du XIXe siècle. Ses descendants commerciaux sont nombreux, dont le célèbre Skip-Bo (Mattel), qui reprend exactement la même mécanique avec des cartes numérotées de 1 à 12.
+
+### But du jeu
+Être le premier à jouer au centre la dernière carte de sa **pile de réserve** (la « pile de paiement »).
+
+### Mise en place
+Les couleurs ne comptent pas, seuls les rangs : as (1), 2… 10, valet (11), dame (12). Les **rois** sont jokers.
+
+1. Mélangez les deux paquets ensemble.
+2. Chaque joueur reçoit une pile de réserve de **20 cartes** face cachée (26 dans les versions des livres anglais) ; on retourne la carte du dessus.
+3. Chacun reçoit **5 cartes** en main. Le reste forme la pioche commune.
+4. Le joueur dont la carte de réserve visible est la plus forte commence (en cas d'égalité, on remélange).
+
+### Déroulement
+À son tour :
+
+1. **Complétez votre main à 5 cartes** en piochant.
+2. **Jouez au centre** autant de cartes que vous voulez, depuis votre main, le dessus de votre réserve ou le dessus de l'une de vos piles de défausse. Une pile centrale commence obligatoirement par un **as**, puis monte d'un rang à la fois jusqu'à la dame. Il peut y avoir jusqu'à **trois piles centrales** en même temps (quatre selon les livres).
+3. Quand vous jouez la carte du dessus de votre réserve, retournez la suivante.
+4. Si vous videz votre main sans avoir défaussé, piochez 5 nouvelles cartes et continuez.
+5. **Terminez votre tour en défaussant** une carte de votre main sur l'une de vos **quatre piles de défausse** (devant vous). Seule la carte du dessus d'une défausse est jouable.
+
+Restrictions : on ne place jamais de carte de réserve sur une défausse, on ne déplace pas de carte d'une défausse à l'autre et on ne reprend rien au centre. Un **roi** posé au centre vaut le rang suivant celui de la carte qu'il recouvre ; posé sur une défausse, il ne vaut rien tant qu'il n'est pas joué au centre. Une pile centrale qui atteint la dame est retirée et remélangée dans la pioche.
+
+### Décompte des points
+Le premier qui vide sa réserve gagne la partie. Pour une série, le vainqueur marque 5 points plus 1 point par carte restant dans la réserve adverse. Si la pioche s'épuise sans vainqueur, la partie est nulle (ou le joueur dont la réserve est la plus petite marque la différence).
+
+### Conseils de stratégie
+- **Priorité à la réserve.** Toute action doit servir à faire sortir la carte visible de votre réserve. Ne remplissez pas une pile centrale jusqu'au rang dont votre adversaire a besoin.
+- **Surveillez la réserve adverse.** Si son dessus est un 7, évitez de laisser une pile centrale à 6.
+- **Ordonnez vos défausses en descendant** (un 9 sur un 10, un 8 sur le 9…) : elles se dérouleront d'un coup au centre plus tard.
+- **Gardez une défausse libre** ou dédiée aux cartes « poubelles » pour ne pas boucher vos bonnes séquences.
+- **Économisez les rois.** Un roi joué trop tôt vous manquera pour débloquer votre réserve au moment décisif.
+
+### Variantes
+**Version des livres.** Réserve de 26 cartes, un paquet de 52 plus un autre avec 4 jokers ; jokers et rois sauvages (sauf comme as) ; une défausse ne peut recevoir qu'une carte égale ou inférieure d'un rang à son sommet ; les as et les 2 visibles doivent être joués.
+
+**Réserves plus courtes.** 14 à 15 cartes pour une partie de 10 minutes.
+
+**À trois ou quatre.** Un paquet de plus par joueur supplémentaire ; à quatre, on peut jouer en équipes et utiliser les défausses de son partenaire.
+
+**Skip-Bo.** Le jeu commercial reprend les mêmes règles avec ses propres cartes de 1 à 12 et des jokers « Skip-Bo ».
+
+### Aide-mémoire
+
+- **Cartes :** 2 jeux de 52 mêlés ; as à dame ; rois sauvages ; couleurs sans importance.
+- **Donne :** réserve de 20 cartes (dessus visible), 5 en main, le reste en pioche.
+- **Tour :** compléter à 5 ; jouer au centre depuis main, réserve ou dessus des défausses ; finir par une défausse.
+- **Centre :** jusqu'à 3 piles, de l'as à la dame ; pile complète remélangée dans la pioche.
+- **Défausses :** 4 piles personnelles, seule la carte du dessus est jouable ; jamais de carte de réserve dessus.
+- **Fin de partie :** premier à vider sa réserve ; 5 points + 1 par carte de réserve adverse.
+
+### Verdict
+Un très bon jeu de couple ou de vacances, accessible aux enfants et assez tactique pour occuper des adultes. Ceux qui aiment les patiences y trouveront une version à deux avec un adversaire à surveiller ; les amateurs de jeux plus interactifs le trouveront lent et un peu solitaire. Pour d'autres duels de ce type, voir les [[Patiences à deux]].
+
 ## Speed
 
 *Autres noms : Spit (version voisine), Slam*

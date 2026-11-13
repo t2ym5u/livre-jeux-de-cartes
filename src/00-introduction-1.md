@@ -43,8 +43,8 @@ soirée, pas à classer les jeux dans l'absolu. Un jeu à 2/5 de challenge peut 
 choix possible pour un repas de famille avec trois générations autour de la table.
 
 Viennent ensuite, pour chaque jeu : *En bref*, *Histoire et origine*, *But du jeu*, *Mise en
-place*, *Déroulement*, *Décompte des points*, *Conseils de stratégie*, *Variantes* et
-*Verdict*.
+place*, *Déroulement*, *Décompte des points*, *Conseils de stratégie*, *Variantes*,
+*Aide-mémoire* et *Verdict*. Sous les repères, un lien mène directement à l'aide-mémoire.
 
 ## Comment le livre est organisé
 
@@ -61,8 +61,9 @@ qui aide le plus à choisir et à apprendre :
 6. **Patiences et réussites** : jouer seul.
 7. **Jeux de famille, d'enfants, de bluff et de rapidité.**
 8. **Les jeux de cartes modernes à paquet dédié** : les grands succès des éditeurs.
-9. **Compléments** : des jeux importants qui prolongent ces familles, du Tracteur chinois aux
-   ancêtres historiques du whist et du barbu.
+
+Les jeux historiques (Hombre, Reversis, Boston, Lansquenet) sont rangés dans la famille
+qu'ils ont fait naître, à côté de leurs descendants.
 
 Avant ces chapitres, après la présentation du matériel, le guide **Quel jeu choisir ?**
 propose des sélections par situation. Chaque fiche se termine par un **aide-mémoire** à
